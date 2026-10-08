@@ -1,0 +1,87 @@
+---METADATA---
+Owner_Employee_ID: STX-E-003
+Owner_Name: Karthik Reddy
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-003, STX-E-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-013
+Owner Employee ID: STX-E-003
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-003, STX-E-001, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Karthik Reddy
+Employee ID: STX-E-003
+Department: Engineering
+Designation: SRE Manager
+Location: Bangalore
+Reporting Manager: Arvind Narayanan (STX-E-001)
+Employment Type: Full-Time
+Join Date: August 15, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Karthik successfully led the migration of Stratos Enterprise's core application to a Kubernetes-based architecture, resulting in a 30% reduction in latency and a 25% increase in deployment frequency. This migration also enabled the team to achieve a 99.99% uptime, exceeding the company's availability target. The project was completed within the planned 6-month timeline and under budget by 10%.
+
+Karthik's team achieved a significant reduction in Mean Time To Recovery (MTTR) by implementing a robust incident management process, resulting in a 40% decrease in MTTR over the review period. This improvement was driven by the implementation of automated rollback mechanisms and enhanced monitoring capabilities. The team's efforts also led to a 20% reduction in the number of incidents reported.
+
+Under Karthik's guidance, the SRE team developed and implemented a comprehensive capacity planning framework, which enabled the company to optimize its cloud resource utilization. This initiative resulted in a 15% reduction in cloud costs and a 12% increase in resource utilization efficiency. The framework also provided real-time visibility into resource utilization, enabling data-driven decision-making.
+
+
+Areas of Improvement
+
+Karthik needs to focus on enhancing the team's knowledge sharing and cross-functional collaboration. While the team has made significant progress in achieving its goals, there is still room for improvement in terms of sharing best practices and collaborating with other teams to drive company-wide initiatives. Karthik should prioritize establishing regular knowledge sharing sessions and encouraging team members to participate in cross-functional projects.
+
+Karthik should work on developing a more comprehensive roadmap for the SRE team, aligning with the company's overall strategic objectives. This roadmap should include specific goals, metrics, and timelines, and should be regularly reviewed and updated to ensure the team remains focused on high-impact initiatives. By developing a clear roadmap, Karthik can ensure the team is working towards common objectives and is well-positioned to support the company's growth.
+
+
+Manager Comments
+
+Arvind Narayanan:
+
+Karthik has been an outstanding leader for the SRE team, driving significant improvements in our application's reliability and performance. His technical expertise and collaborative approach have been instrumental in driving cross-functional initiatives and ensuring the team is well-aligned with company objectives. I am impressed with Karthik's ability to balance technical depth with strategic thinking, and I am confident that he will continue to play a key role in driving Stratos Enterprise's success.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Karthik's exceptional performance, his contributions to the company's growth, and his value to the SRE team.
+
+
+Signatures
+
+Reporting Manager: Arvind Narayanan
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-013

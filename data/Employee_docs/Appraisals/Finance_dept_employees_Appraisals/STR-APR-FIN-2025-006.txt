@@ -1,0 +1,107 @@
+---METADATA---
+Owner_Employee_ID: STX-F-015
+Owner_Name: Yash Agarwal
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-015, STX-F-009, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-006
+Owner Employee ID: STX-F-015
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-015, STX-F-009, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-11
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Yash Agarwal
+Employee ID: STX-F-015
+Department: Finance
+Designation: Audit Associate
+Location: Pune
+Reporting Manager: Saurabh Kulshreshtha, Compliance Audit Lead (STX-F-009)
+Employment Type: Full-Time
+Join Date: 2024-05-14
+
+
+Performance Rating Summary
+
+Overall Rating: 3.2 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Yash assisted in the preparation of internal audit working papers for
+the Q1 2025 compliance audit covering accounts payable, payroll, and
+vendor onboarding processes, completing assigned sections within the
+5-day fieldwork window with minimal rework required.
+
+He completed the Internal Audit Foundation certification from the
+Institute of Internal Auditors in May 2025, demonstrating commitment
+to professional development in his first year at Stratos.
+
+
+Areas of Improvement
+
+Yash needs to develop stronger audit sampling methodology skills.
+Current sample selections for testing are based on sequential selection
+rather than risk-based or statistical sampling, limiting the
+representativeness of audit findings.
+
+He should improve professional skepticism in audit work. Two control
+exceptions identified during Q1 audit fieldwork were initially
+accepted without sufficient corroborating evidence because process
+owners provided explanations that Yash did not adequately challenge.
+
+
+Manager Comments
+
+Saurabh Kulshreshtha, Compliance Audit Lead:
+
+Yash joined in May 2024 and this is his first appraisal at Stratos.
+The IIA certification he completed is the right foundation for an
+audit career. The development priorities for H2 2025 are risk-based
+sampling methodology and professional skepticism, both of which are
+non-negotiable audit competencies. I have structured a mentoring
+arrangement with the senior audit team in Bangalore for him starting
+August 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.00 LPA
+Recommended Hike: 7 percent
+Revised CTC: 7.49 LPA
+Effective Date: August 1 2025
+
+Justification: First appraisal cycle with standard new joiner increment
+reflecting developing performance trajectory and professional
+certification completion.
+
+
+Signatures
+
+Reporting Manager: Saurabh Kulshreshtha
+Date: 2025-07-09
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-11
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-006

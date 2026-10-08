@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-S-003
+Owner_Name: Imran Qureshi
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-003, STX-S-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-011
+Owner Employee ID: STX-S-003
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-003, STX-S-001, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Imran Qureshi
+Employee ID: STX-S-003
+Department: Sales
+Designation: Regional Sales Manager - West
+Location: Bangalore
+Reporting Manager: Vivek Anand (STX-S-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Imran has successfully led the Western region sales team to achieve a 25% increase in quarterly sales, resulting in a total revenue of $1.2 million. This was driven by his strategic planning and execution of targeted sales campaigns, which yielded a 30% conversion rate of new leads into paying customers. His ability to build strong relationships with key clients has been instrumental in securing large-scale deals.
+
+Imran has also demonstrated exceptional leadership skills, mentoring and coaching his team members to improve their sales performance. Under his guidance, the team has seen a significant reduction in sales cycle time, with an average deal closure time of 45 days, down from 60 days in the previous quarter. This has resulted in a 15% increase in sales productivity.
+
+Imran's data-driven approach to sales has been commendable, as he has effectively utilized sales analytics tools to identify new business opportunities and optimize sales strategies. He has identified and pursued new market segments, resulting in a 20% increase in new business acquisitions, with a total value of $800,000.
+
+
+Areas of Improvement
+
+Imran needs to work on improving his forecasting accuracy, as there have been instances where sales projections have not aligned with actual results. To address this, he should focus on refining his sales forecasting models and providing more regular updates to the sales leadership team. This will enable the team to make more informed decisions and adjust sales strategies accordingly.
+
+Imran should also focus on developing his skills in managing and negotiating large-scale enterprise deals, which require a high degree of complexity and customization. To achieve this, he should seek guidance from senior sales leaders and participate in advanced sales training programs to enhance his skills in this area.
+
+
+Manager Comments
+
+Vivek Anand:
+
+Imran has been an invaluable member of the sales team, consistently delivering high-quality results and demonstrating exceptional leadership skills. His ability to drive sales growth and build strong relationships with clients has been impressive, and I am confident that he will continue to excel in his role. Imran's data-driven approach to sales has been particularly noteworthy, and I encourage him to continue leveraging sales analytics to optimize sales strategies. Overall, I am pleased with Imran's performance and look forward to seeing his continued growth and success.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Imran's outstanding performance, which has significantly contributed to the company's revenue growth and sales success.
+
+
+Signatures
+
+Reporting Manager: Vivek Anand
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-011

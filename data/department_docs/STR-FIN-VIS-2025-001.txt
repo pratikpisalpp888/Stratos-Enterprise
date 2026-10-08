@@ -1,0 +1,67 @@
+---METADATA---
+Document_ID: STR-FIN-VIS-2025-001
+Department: Finance
+Document_Type: Vendor Invoice Sample
+Sensitivity_Level: Confidential
+Created_Date: 2025-08-15
+Author: Amitabh Joshi, Tax Manager
+---END METADATA---
+
+**Vendor Invoice Sample**
+
+**Project Helios - Phase 2 - Vendor Information**
+
+Invoice Number: PH-02-INV001
+Vendor Name: AzureCorp India Pvt. Ltd.
+Vendor Address: 123, Electronics City Phase 1, Bengaluru - 560100
+Date of Invoice: 15th February 2024
+Due Date: 15th March 2024
+Currency: Indian Rupee (INR)
+
+**Invoice Details**
+
+- Project Name: Project Helios - Phase 2
+- Project ID: PH-02
+- Invoice Description: Cloud Services and Consulting
+- Total Amount Due: ₹ 2,50,000 (including GST)
+- Payment Terms: 30 days from the date of invoice
+- Method of Payment: Bank Transfer (NEFT) or Online Payment (Paytm/Netbanking)
+
+**Breakdown of Charges**
+
+| Service Description | Quantity | Rate per Unit | Total Amount |
+| --- | --- | --- | --- |
+| Azure Cloud Services | 1000 Hours | ₹ 250 per hour | ₹ 2,50,000 |
+| Cloud Consulting Fees | 50 Hours | ₹ 500 per hour | ₹ 25,000 |
+| Total |  |  | ₹ 2,75,000 |
+| GST (18%) |  |  | ₹ 49,500 (calculated as per GST Act 2017) |
+| Total Amount Due |  |  | ₹ 2,50,000 |
+
+**Terms and Conditions**
+
+1. The vendor shall provide cloud services as per the scope of work outlined in the project proposal (Project Helios - Phase 2) and as per the terms and conditions set forth in the contract.
+2. The vendor shall ensure that all cloud services are delivered within the timelines specified in the project proposal and that all deliverables meet the quality standards set forth in the contract.
+3. The vendor shall be responsible for providing all necessary documentation and information required by Stratos Enterprises to comply with tax laws and regulations in India.
+4. The vendor shall comply with all data protection and security policies of Stratos Enterprises as set forth in the contract.
+
+**Payment Schedule**
+
+- 50% of the total amount due (₹ 1,25,000) shall be paid upon receipt of the invoice and upon satisfactory completion of 50% of the project work.
+- 25% of the total amount due (₹ 62,500) shall be paid upon receipt of the invoice and upon satisfactory completion of 75% of the project work.
+- 25% of the total amount due (₹ 62,500) shall be paid upon satisfactory completion of 100% of the project work.
+
+**Tax Compliance**
+
+- The vendor shall provide a valid tax invoice and a GST registration certificate to Stratos Enterprises before the payment of any invoice.
+- The vendor shall ensure that all tax payments are made on time and that all tax returns are filed with the tax authorities on time.
+
+**Approval**
+
+This invoice has been approved by the Tax Manager (Amitabh Joshi) and is subject to the terms and conditions set forth in the contract.
+
+**Certification**
+
+I, Amitabh Joshi, Tax Manager, certify that the information contained in this invoice is accurate and complete to the best of my knowledge.
+
+Signature: Amitabh Joshi
+Date: 15th February 2024

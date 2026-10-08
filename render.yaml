@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: stratos-backend
+    runtime: docker
+    rootDir: backend
+    plan: free
+    region: ohio
+    healthCheckPath: /docs
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: LOG_LEVEL
+        value: INFO
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: GROQ_FAST_MODEL
+        value: openai/gpt-oss-20b
+      - key: EMBEDDING_MODEL
+        value: BAAI/bge-small-en-v1.5
+      - key: GROQ_API_KEY
+        sync: false
+      - key: QDRANT_URL
+        sync: false
+      - key: QDRANT_API_KEY
+        sync: false
+      - key: JWT_SECRET_KEY
+        generateValue: true

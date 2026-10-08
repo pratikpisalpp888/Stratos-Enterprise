@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-F-013
+Owner_Name: Arjun Malhotra
+Department: Finance
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-F-013, STX-F-008, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Arjun Malhotra
+Employee ID         : STX-F-013
+Department          : Finance
+Designation         : Junior Financial Analyst
+Role Level          : Employee
+Location            : Mumbai
+Date of Joining     : 2023-08-21
+PAN                 : LMNXX7823X
+Bank Account        : XXXX XXXX XXXX 6634
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 34,208
+House Rent Allowance (HRA)          : INR 13,683
+Special Allowance                   : INR 9,609
+Performance Bonus                   : INR 0
+Gross Salary                        : INR 57,500
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 4,105
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 3,200
+Total Deductions                    : INR 7,505
+
+
+Net Salary (Take Home)              : INR 49,995
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 8,21,000
+Monthly CTC                         : INR 68,417
+Effective from August 1 2025 post appraisal increment of 8 percent
+over previous CTC of INR 7,60,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-F-013-SEP2025

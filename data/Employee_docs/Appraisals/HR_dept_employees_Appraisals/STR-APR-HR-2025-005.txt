@@ -1,0 +1,114 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-014
+Owner_Name: Shraddha Gokhale
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-014, STX-HR-009, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-005
+Owner Employee ID: STX-HR-014
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-014, STX-HR-009, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-14
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Shraddha Gokhale
+Employee ID: STX-HR-014
+Department: HR
+Designation: HR Business Partner
+Location: Pune
+Reporting Manager: Deepika Pillai, HR Business Partner Lead (STX-HR-009)
+Employment Type: Full-Time
+Join Date: 2023-09-11
+
+
+Performance Rating Summary
+
+Overall Rating: 3.7 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Shraddha served as the primary HR Business Partner for the Engineering
+department in Pune throughout H1 2025, supporting a headcount of 62
+employees across 4 teams and managing 28 HR touchpoints including
+performance counseling, grievance resolution, and career development
+conversations.
+
+She facilitated the mid-year performance calibration exercise for
+Engineering Pune in June 2025, coordinating calibration sessions for
+3 managers and producing final calibration outputs within the
+stipulated 5-day window with zero revision requests from the Director
+of People Operations.
+
+Shraddha conducted a stay interview program for 18 employees identified
+as flight risk in Q1 2025 based on engagement survey data, producing
+an action plan that contributed to retaining 14 of 18 targeted
+employees through Q2 2025.
+
+
+Areas of Improvement
+
+Shraddha should develop stronger data interpretation skills for HR
+analytics. Monthly HR dashboards she prepares for the Engineering
+leadership team have been noted as descriptive without sufficient
+diagnostic insight, limiting their utility for decision making.
+
+She needs to build confidence in handling difficult manager
+conversations around performance and compensation. Two situations
+in Q2 2025 required escalation to the HR Business Partner Lead
+because Shraddha was not comfortable proceeding independently.
+
+
+Manager Comments
+
+Deepika Pillai, HR Business Partner Lead:
+
+Shraddha has grown noticeably in her HRBP role since joining and the
+stay interview program she ran was a genuine value add with measurable
+retention impact. The areas I am focusing her development on are
+HR analytics interpretation and independent handling of sensitive
+manager conversations, both of which are essential for a senior HRBP
+role. She is on a good trajectory.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.60 LPA
+Recommended Hike: 10 percent
+Revised CTC: 9.46 LPA
+Effective Date: August 1 2025
+
+Justification: Measurable retention impact through stay interview
+program and effective performance calibration support moderate
+above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Deepika Pillai
+Date: 2025-07-12
+
+HR Representative: Abhishek Pandey
+Date: 2025-07-14
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-005

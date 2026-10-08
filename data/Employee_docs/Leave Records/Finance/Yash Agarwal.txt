@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-F-015
+Owner_Name: Yash Agarwal
+Department: Finance
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-F-015, STX-F-009, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Yash Agarwal
+Employee ID         : STX-F-015
+Department          : Finance
+Designation         : Audit Associate
+Reporting Manager   : Saurabh Kulshreshtha (STX-F-009)
+Location            : Pune
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          4       0          14
+Casual Leave        8           1       0          7
+Sick Leave          10          1       0          9
+Total               36          6       0          30
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-02-17
+To Date             : 2025-02-19
+Duration            : 3 Days
+Reason              : Family visit to Jaipur during long weekend
+Status              : Approved
+Applied On          : 2025-02-07
+Approved By         : Saurabh Kulshreshtha, Compliance Audit Lead
+Approved On         : 2025-02-08
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-04-22
+To Date             : 2025-04-22
+Duration            : 1 Day
+Reason              : Back pain and physiotherapy appointment
+Status              : Approved
+Applied On          : 2025-04-22
+Approved By         : Saurabh Kulshreshtha, Compliance Audit Lead
+Approved On         : 2025-04-23
+
+Entry 3
+Leave Type          : Annual Leave
+From Date           : 2025-07-28
+To Date             : 2025-07-28
+Duration            : 1 Day
+Reason              : Personal work in hometown
+Status              : Approved
+Applied On          : 2025-07-25
+Approved By         : Saurabh Kulshreshtha, Compliance Audit Lead
+Approved On         : 2025-07-25
+
+Entry 4
+Leave Type          : Casual Leave
+From Date           : 2025-09-19
+To Date             : 2025-09-19
+Duration            : 1 Day
+Reason              : Vehicle servicing appointment
+Status              : Approved
+Applied On          : 2025-09-18
+Approved By         : Saurabh Kulshreshtha, Compliance Audit Lead
+Approved On         : 2025-09-18
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 14 Days
+Casual Leave Remaining    : 7 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 30 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-F-015-2025

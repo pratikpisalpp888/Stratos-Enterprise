@@ -1,0 +1,86 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-001
+Owner_Name: Sunita Krishnamurthy
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-012
+Owner Employee ID: STX-HR-001
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-001, None, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Sunita Krishnamurthy
+Employee ID: STX-HR-001
+Department: HR
+Designation: Director of People Operations
+Location: Bangalore
+Reporting Manager: None (None)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.4 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Sunita successfully implemented a new performance management system, resulting in a 30% reduction in cycle time and a 25% increase in employee satisfaction. The system has been rolled out to over 500 employees across the organization, with a 95% adoption rate. This has enabled Stratos Enterprises to make more data-driven decisions and improve overall productivity.
+
+Sunita led the development and execution of a comprehensive diversity, equity, and inclusion strategy, which has resulted in a 20% increase in diverse hires and a 15% increase in employee engagement. The strategy has also led to the creation of employee resource groups, which have become a key component of Stratos Enterprises' culture.
+
+Sunita worked closely with the leadership team to design and implement a new compensation and benefits framework, resulting in a 10% reduction in turnover and a 12% increase in job satisfaction. The framework has been well-received by employees and has helped to position Stratos Enterprises as a competitive employer in the market.
+
+
+Areas of Improvement
+
+Sunita needs to continue to work on improving the onboarding process for new hires, with a focus on reducing time-to-productivity and increasing new hire satisfaction. Currently, the onboarding process takes an average of 6 weeks, and new hire satisfaction is at 80%. Sunita should aim to reduce the onboarding time to 4 weeks and increase new hire satisfaction to 90% within the next 6 months.
+
+Sunita should focus on developing a more comprehensive succession planning program, to ensure that Stratos Enterprises has a strong pipeline of future leaders. Currently, the organization has identified only 20% of key positions with a clear successor, and Sunita should aim to increase this to 50% within the next 12 months.
+
+
+Manager Comments
+
+As a Director of People Operations, Sunita has made significant contributions to Stratos Enterprises, driving key initiatives that have improved employee satisfaction, reduced turnover, and enhanced our overall culture. Her ability to collaborate with cross-functional teams and drive results has been impressive. I am confident that Sunita will continue to play a critical role in shaping the future of our organization. Her expertise and leadership have been invaluable to our team.
+
+
+Salary Hike Recommendation
+
+Current CTC: 95.0 LPA
+Recommended Hike: 12 percent
+Revised CTC: 106.4 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Sunita's exceptional performance and the significant value she has added to the organization, and is aligned with industry benchmarks and Stratos Enterprises' compensation philosophy.
+
+
+Signatures
+
+Reporting Manager: None
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-012

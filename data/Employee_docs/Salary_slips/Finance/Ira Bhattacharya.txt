@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-F-010
+Owner_Name: Ira Bhattacharya
+Department: Finance
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-F-010, STX-F-008, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Ira Bhattacharya
+Employee ID         : STX-F-010
+Department          : Finance
+Designation         : Financial Analyst
+Role Level          : Employee
+Location            : Mumbai
+Date of Joining     : 2022-06-30
+PAN                 : IJKXX8834X
+Bank Account        : XXXX XXXX XXXX 5512
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 46,125
+House Rent Allowance (HRA)          : INR 18,450
+Special Allowance                   : INR 13,200
+Performance Bonus                   : INR 7,500
+Gross Salary                        : INR 85,275
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 5,535
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 7,800
+Total Deductions                    : INR 13,535
+
+
+Net Salary (Take Home)              : INR 71,740
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 11,07,000
+Monthly CTC                         : INR 92,250
+Effective from August 1 2025 post appraisal increment of 13 percent
+over previous CTC of INR 9,80,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-F-010-SEP2025

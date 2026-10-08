@@ -1,0 +1,42 @@
+---METADATA---
+Document_ID: STR-FIN-FAQ-2025-001
+Department: Finance
+Document_Type: Public Finance FAQ
+Sensitivity_Level: Public
+Created_Date: 2025-08-15
+Author: Amitabh Joshi, Tax Manager
+---END METADATA---
+
+Stratos Enterprises Public Finance FAQ
+
+Please note that this FAQ is intended for employees with a need to know and should not be shared externally. The information provided is accurate to the best of our knowledge at the time of publication, but it may be subject to change based on evolving laws, regulations, and company policies.
+
+Q: What is the standard accounting period for Stratos Enterprises?
+A: The standard accounting period for Stratos Enterprises is 12 months, ending on March 31st of every year. This aligns with the Indian financial year.
+
+Q: What are the key policies governing our financial operations?
+A: Our financial operations are governed by the following key policies:
+
+* The Stratos Enterprises Financial Policy Manual (Version 2.0, updated March 2022)
+* The Stratos Enterprises Accounting Policy (Version 1.1, updated January 2020)
+* The Stratos Enterprises Tax Policy (Version 1.2, updated September 2020)
+
+Q: How do we treat R&D expenses in our financial statements?
+A: R&D expenses are capitalized and amortized in accordance with the 'Stratos Enterprises Accounting Policy' (Version 1.1, updated January 2020), which follows the guidance of the International Financial Reporting Standards (IFRS). For example, R&D expenses incurred during Project Helios will be capitalized and amortized over the project's lifespan, which is expected to be 24 months.
+
+Q: What are the tax implications for our international operations?
+A: Stratos Enterprises is subject to tax laws in India and other countries where we operate. Our Tax Policy (Version 1.2, updated September 2020) outlines our approach to tax planning and compliance. For instance, we have established an offshore subsidiary in Singapore (Stratos International Pte Ltd) to optimize our tax obligations. The tax implications of this arrangement are governed by the Double Taxation Agreement (DTA) between India and Singapore.
+
+Q: How do we account for cloud infrastructure costs?
+A: Cloud infrastructure costs are capitalized and depreciated over their useful life, in accordance with the 'Stratos Enterprises Accounting Policy' (Version 1.1, updated January 2020). For example, the costs associated with launching CloudEdge 3.0 will be capitalized and depreciated over a period of 36 months.
+
+Q: What is the procedure for requesting a tax refund?
+A: Employees can request a tax refund through the HR portal, as per our Tax Policy (Version 1.2, updated September 2020). The request must be accompanied by supporting documentation, such as Form 16 from the Income Tax Department.
+
+Q: What is the timeline for submitting financial reports?
+A: Financial reports must be submitted to the Finance Department within 15 days of the end of each month. The reports must be in the approved format and accompanied by relevant supporting documentation.
+
+Q: Who is the primary point of contact for financial inquiries?
+A: The primary point of contact for financial inquiries is the Tax Manager, Amitabh Joshi (Ext. 1234). In Amitabh's absence, please contact the Finance Department Manager, Rohan Mehta (Ext. 5678).
+
+Please note that this FAQ is not an exhaustive list of all financial policies and procedures at Stratos Enterprises. Employees should refer to the relevant policies and procedures manuals for detailed information.

@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+openai
+qdrant-client
+neo4j
+python-multipart
+groq
+sentence-transformers
+langchain-text-splitters
+rank-bm25
+langgraph
+ollama
+pyjwt

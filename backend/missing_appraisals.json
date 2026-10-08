@@ -1,0 +1,110 @@
+[
+  {
+    "employee_id": "STX-E-002",
+    "full_name": "Priya Raman",
+    "email": "priya.raman@stratosenterprises.com",
+    "department": "Engineering",
+    "role_level": "Manager",
+    "designation": "Engineering Manager",
+    "manager_id": "STX-E-001",
+    "clearance_level": "Confidential",
+    "join_date": "2018-07-01",
+    "location": "Bangalore"
+  },
+  {
+    "employee_id": "STX-F-007",
+    "full_name": "Deepak Shetty",
+    "email": "deepak.shetty@stratosenterprises.com",
+    "department": "Finance",
+    "role_level": "Team Lead",
+    "designation": "Payroll Lead",
+    "manager_id": "STX-F-003",
+    "clearance_level": "Internal",
+    "join_date": "2021-01-19",
+    "location": "Pune"
+  },
+  {
+    "employee_id": "STX-F-008",
+    "full_name": "Ritika Chawla",
+    "email": "ritika.chawla@stratosenterprises.com",
+    "department": "Finance",
+    "role_level": "Team Lead",
+    "designation": "Financial Reporting Lead",
+    "manager_id": "STX-F-004",
+    "clearance_level": "Internal",
+    "join_date": "2021-09-06",
+    "location": "Mumbai"
+  },
+  {
+    "employee_id": "STX-HR-005",
+    "full_name": "Priyanka Venkatesh",
+    "email": "priyanka.venkatesh@stratosenterprises.com",
+    "department": "HR",
+    "role_level": "Team Lead",
+    "designation": "Recruitment Lead",
+    "manager_id": "STX-HR-003",
+    "clearance_level": "Internal",
+    "join_date": "2020-04-06",
+    "location": "Pune"
+  },
+  {
+    "employee_id": "STX-HR-008",
+    "full_name": "Vikash Ranjan",
+    "email": "vikash.ranjan@stratosenterprises.com",
+    "department": "HR",
+    "role_level": "Team Lead",
+    "designation": "Learning & Development Lead",
+    "manager_id": "STX-HR-002",
+    "clearance_level": "Internal",
+    "join_date": "2021-07-19",
+    "location": "Bangalore"
+  },
+  {
+    "employee_id": "STX-L-003",
+    "full_name": "Rohan Pillai",
+    "email": "rohan.pillai@stratosenterprises.com",
+    "department": "Legal",
+    "role_level": "Manager",
+    "designation": "Compliance Manager",
+    "manager_id": "STX-L-001",
+    "clearance_level": "Confidential",
+    "join_date": "2019-04-02",
+    "location": "Mumbai"
+  },
+  {
+    "employee_id": "STX-L-009",
+    "full_name": "Pooja Nambiar",
+    "email": "pooja.nambiar@stratosenterprises.com",
+    "department": "Legal",
+    "role_level": "Team Lead",
+    "designation": "Vendor Contract Lead",
+    "manager_id": "STX-L-003",
+    "clearance_level": "Internal",
+    "join_date": "2022-03-12",
+    "location": "Mumbai"
+  },
+  {
+    "employee_id": "STX-S-001",
+    "full_name": "Vivek Anand",
+    "email": "vivek.anand@stratosenterprises.com",
+    "department": "Sales",
+    "role_level": "Director",
+    "designation": "Director of Sales",
+    "manager_id": null,
+    "clearance_level": "Restricted",
+    "join_date": "2016-08-15",
+    "location": "Bangalore"
+  },
+  {
+    "employee_id": "STX-S-002",
+    "full_name": "Ritika Sharma",
+    "email": "ritika.sharma@stratosenterprises.com",
+    "department": "Sales",
+    "role_level": "Manager",
+    "designation": "Regional Sales Manager - South",
+    "manager_id": "STX-S-001",
+    "clearance_level": "Confidential",
+    "join_date": "2018-06-01",
+    "location": "Bangalore"
+  }
+]

@@ -1,0 +1,63 @@
+---METADATA---
+Document_ID: STR-SAL-PRS-2025-001
+Department: Sales
+Document_Type: Pricing Sheet
+Sensitivity_Level: Confidential
+Created_Date: 2025-08-15
+Author: Ritika Sharma, Regional Sales Manager - South
+---END METADATA---
+
+**Confidential Pricing Sheet**
+
+**Document ID:** SES-PS-001
+**Revision:** 03
+**Date:** 20th February 2024
+**Author:** Ritika Sharma, Regional Sales Manager - South
+**Approved By:** Rohan Jain, Vice President - Sales
+
+**Introduction:**
+
+This pricing sheet outlines the pricing structure for Stratos Enterprises' suite of cloud services and SaaS solutions, valid for the South region. The prices listed are applicable for all customers, subject to the terms and conditions specified below. Please note that prices may vary based on project requirements, and the sales team reserves the right to negotiate customized pricing for large-scale deployments.
+
+**Cloud Services:**
+
+1. **CloudEdge 3.0:** Our flagship cloud platform, CloudEdge 3.0, offers a secure, scalable, and cost-effective solution for businesses to deploy their applications and data. Pricing is as follows:
+	* Basic Plan (10 GB storage, 1000 concurrent users): INR 50,000 per month
+	* Standard Plan (50 GB storage, 5000 concurrent users): INR 250,000 per month
+	* Premium Plan (100 GB storage, 10,000 concurrent users): INR 500,000 per month
+2. **Project Helios:** A cloud-based disaster recovery as a service (DRaaS) solution, designed to ensure business continuity in the event of a disaster. Pricing is as follows:
+	* Basic Plan (1 TB storage, 1000 users): INR 100,000 per month
+	* Standard Plan (5 TB storage, 5000 users): INR 500,000 per month
+	* Premium Plan (10 TB storage, 10,000 users): INR 1,000,000 per month
+3. **Cloud Security:** A suite of security services, including threat detection, incident response, and vulnerability management. Pricing is as follows:
+	* Basic Plan (10,000 events, 100 users): INR 50,000 per month
+	* Standard Plan (50,000 events, 500 users): INR 250,000 per month
+	* Premium Plan (100,000 events, 1000 users): INR 500,000 per month
+
+**SaaS Solutions:**
+
+1. **Stratos CRM:** A cloud-based customer relationship management (CRM) solution, designed to streamline sales, marketing, and customer support processes. Pricing is as follows:
+	* Basic Plan (10 users, 500 contacts): INR 20,000 per month
+	* Standard Plan (50 users, 2500 contacts): INR 100,000 per month
+	* Premium Plan (100 users, 10,000 contacts): INR 250,000 per month
+2. **Stratos ERP:** A cloud-based enterprise resource planning (ERP) solution, designed to manage financials, HR, and supply chain operations. Pricing is as follows:
+	* Basic Plan (10 users, 500 transactions): INR 50,000 per month
+	* Standard Plan (50 users, 2500 transactions): INR 250,000 per month
+	* Premium Plan (100 users, 10,000 transactions): INR 500,000 per month
+
+**Pricing Policy:**
+
+1. Prices are subject to change based on market conditions, government regulations, and other external factors.
+2. Discounts may be offered for long-term commitments, large-scale deployments, or strategic partnerships.
+3. Prices do not include applicable taxes, which will be charged separately.
+4. A one-time setup fee may be applicable for certain projects, which will be negotiated separately.
+
+**Terms and Conditions:**
+
+1. Prices are valid for a minimum period of 12 months from the date of signing the contract.
+2. Cancellation fees may apply for early termination of services.
+3. Stratos Enterprises reserves the right to suspend or terminate services in case of non-payment or non-compliance with terms and conditions.
+
+**Acceptance:**
+
+By accepting these prices, the customer acknowledges that they have read, understood, and agreed to the terms and conditions outlined in this pricing sheet.

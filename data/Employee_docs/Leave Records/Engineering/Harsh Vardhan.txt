@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-E-013
+Owner_Name: Harsh Vardhan
+Department: Engineering
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-E-013, STX-E-007, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Harsh Vardhan
+Employee ID         : STX-E-013
+Department          : Engineering
+Designation         : DevOps Engineer
+Reporting Manager   : Vikram Singh (STX-E-007)
+Location            : Pune
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          4       0          14
+Casual Leave        8           1       0          7
+Sick Leave          10          0       0          10
+Total               36          5       0          31
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-02-10
+To Date             : 2025-02-12
+Duration            : 3 Days
+Reason              : Personal travel to Delhi for family event
+Status              : Approved
+Applied On          : 2025-02-03
+Approved By         : Vikram Singh, DevOps Team Lead
+Approved On         : 2025-02-04
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-04-18
+To Date             : 2025-04-18
+Duration            : 1 Day
+Reason              : Passport renewal appointment
+Status              : Approved
+Applied On          : 2025-04-17
+Approved By         : Vikram Singh, DevOps Team Lead
+Approved On         : 2025-04-17
+
+Entry 3
+Leave Type          : Annual Leave
+From Date           : 2025-08-11
+To Date             : 2025-08-11
+Duration            : 1 Day
+Reason              : Independence Day long weekend travel
+Status              : Approved
+Applied On          : 2025-08-07
+Approved By         : Vikram Singh, DevOps Team Lead
+Approved On         : 2025-08-08
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-29
+To Date             : 2025-09-29
+Duration            : 1 Day
+Reason              : Navratri festival observance
+Status              : Approved
+Applied On          : 2025-09-26
+Approved By         : Vikram Singh, DevOps Team Lead
+Approved On         : 2025-09-26
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 14 Days
+Casual Leave Remaining    : 7 Days
+Sick Leave Remaining      : 10 Days
+Total Remaining           : 31 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-E-013-2025

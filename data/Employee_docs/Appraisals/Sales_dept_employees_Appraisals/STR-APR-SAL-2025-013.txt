@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-S-008
+Owner_Name: Pallavi Nair
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-008, STX-S-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-013
+Owner Employee ID: STX-S-008
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-008, STX-S-002, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Pallavi Nair
+Employee ID: STX-S-008
+Department: Sales
+Designation: Inside Sales Lead
+Location: Bangalore
+Reporting Manager: Ritika Sharma (STX-S-002)
+Employment Type: Full-Time
+Join Date: August 15, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Pallavi has successfully led the inside sales team to achieve a quarterly sales revenue of $1.2 million, exceeding the target by 15%. She has also demonstrated exceptional skills in managing a pipeline of over 200 leads, resulting in a conversion rate of 25%. Additionally, Pallavi has developed and implemented a new sales strategy that has increased customer engagement by 30% through targeted email campaigns and personalized product demos.
+
+Pallavi has consistently met or exceeded her monthly sales targets, with an average sales revenue of $200,000 per month. She has also shown a strong ability to work with cross-functional teams, including marketing and customer success, to drive sales growth and improve customer satisfaction. Pallavi's efforts have resulted in a significant increase in customer referrals, with a 40% increase in referrals over the past quarter.
+
+Pallavi has taken the initiative to develop and deliver training sessions to new sales team members, resulting in a significant reduction in onboarding time and an improvement in sales performance. She has also demonstrated a deep understanding of Stratos Enterprises' products and services, providing valuable insights and feedback to the product development team. As a result, Pallavi has been recognized as a subject matter expert within the sales team and has been asked to contribute to the development of new sales enablement tools.
+
+
+Areas of Improvement
+
+Pallavi needs to work on improving her sales forecasting accuracy, as there have been instances where her forecasts have been off by 10-15%. To address this, Pallavi should focus on developing a more robust sales forecasting model that takes into account historical sales data, seasonal trends, and market fluctuations. By doing so, she can improve her ability to predict sales revenue and make more informed decisions about sales strategy and resource allocation.
+
+Pallavi should also focus on developing her leadership skills, particularly in terms of delegating tasks and empowering team members to take ownership of their sales targets. While Pallavi has demonstrated strong sales skills, she sometimes tends to micromanage and take on too much responsibility herself. By delegating more effectively and providing guidance and support to her team members, Pallavi can help to develop their skills and increase overall team performance.
+
+
+Manager Comments
+
+Ritika Sharma:
+
+Pallavi has been an invaluable member of the sales team, consistently delivering high-quality results and demonstrating a deep understanding of our products and services. Her ability to work with cross-functional teams and drive sales growth has been impressive, and I appreciate her willingness to take on additional responsibilities and contribute to the development of new sales enablement tools. One area for improvement is her sales forecasting accuracy, but overall, Pallavi has exceeded expectations and is well-deserving of a salary hike. I am confident that she will continue to grow and develop as a sales leader within Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Pallavi's outstanding performance and contributions to the sales team, including her consistent achievement of sales targets and her leadership skills in developing and implementing new sales strategies.
+
+
+Signatures
+
+Reporting Manager: Ritika Sharma
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-013

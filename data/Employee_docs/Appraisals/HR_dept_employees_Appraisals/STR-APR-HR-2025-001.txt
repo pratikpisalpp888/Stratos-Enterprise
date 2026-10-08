@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-010
+Owner_Name: Rohini Deshmukh
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-010, STX-HR-006, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-001
+Owner Employee ID: STX-HR-010
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-010, STX-HR-006, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-14
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Rohini Deshmukh
+Employee ID: STX-HR-010
+Department: HR
+Designation: HR Associate
+Location: Bangalore
+Reporting Manager: Sandeep Mathur, Employee Relations Lead (STX-HR-006)
+Employment Type: Full-Time
+Join Date: 2022-06-13
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Rohini managed end-to-end onboarding for 22 new hires in H1 2025 across Engineering, Sales, and HR, maintaining a 100 percent documentation compliance rate and receiving an average onboarding satisfaction score of 4.4 out of 5 from new joiners.
+
+She coordinated the Stratos Udaan Townhall event held on September 6 2025 from the logistics and vendor management side, bringing the event in 1.6 lakh rupees under the allocated budget of 10 lakh rupees through proactive vendor negotiation.
+
+Rohini resolved 34 employee relations queries in H1 2025 through the internal HR helpdesk with an average resolution time of 1.8 days against a team SLA of 3 days.
+
+
+Areas of Improvement
+
+Rohini should develop a deeper understanding of labor law and statutory compliance requirements specific to the IT sector in India. Several queries she handled in Q2 2025 required escalation to the Employee Relations Lead for legal clarification that she should ideally be able to resolve at her level.
+
+She should work on structured reporting and documentation of employee relations cases. Currently case notes are inconsistently recorded in the HR system, which creates gaps during audits and quarterly reviews.
+
+
+Manager Comments
+
+Sandeep Mathur, Employee Relations Lead:
+
+Rohini brings a lot of energy and genuine care to her work and the new joiners consistently appreciate her during onboarding. Her resolution speed on helpdesk queries is one of the best on the team. The area I want her to focus on in H2 2025 is building her compliance knowledge base so she can handle a broader range of employee relations matters independently.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.20 LPA
+Recommended Hike: 10 percent
+Revised CTC: 7.92 LPA
+Effective Date: August 1 2025
+
+Justification: Consistent above-SLA performance and demonstrated initiative in event management support a moderate above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Sandeep Mathur
+Date: 2025-07-12
+
+HR Representative: Abhishek Pandey
+Date: 2025-07-14
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-001

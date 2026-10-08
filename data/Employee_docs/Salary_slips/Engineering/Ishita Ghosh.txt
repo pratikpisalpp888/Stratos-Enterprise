@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-E-014
+Owner_Name: Ishita Ghosh
+Department: Engineering
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-E-014, STX-E-009, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Ishita Ghosh
+Employee ID         : STX-E-014
+Department          : Engineering
+Designation         : Cloud Engineer
+Role Level          : Employee
+Location            : Pune
+Date of Joining     : 2023-06-05
+PAN                 : GHIXX4521X
+Bank Account        : XXXX XXXX XXXX 8823
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 40,500
+House Rent Allowance (HRA)          : INR 16,200
+Special Allowance                   : INR 10,800
+Performance Bonus                   : INR 0
+Gross Salary                        : INR 67,500
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 4,860
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 4,600
+Total Deductions                    : INR 9,660
+
+
+Net Salary (Take Home)              : INR 57,840
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 9,72,000
+Monthly CTC                         : INR 81,000
+Effective from August 1 2025 post appraisal increment of 8 percent
+over previous CTC of INR 9,00,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-E-014-SEP2025

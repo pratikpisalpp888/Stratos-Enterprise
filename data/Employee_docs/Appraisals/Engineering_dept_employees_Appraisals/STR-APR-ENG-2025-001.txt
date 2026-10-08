@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-E-010
+Owner_Name: Meera Nair
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-010, STX-E-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-001
+Owner Employee ID: STX-E-010
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-010, STX-E-005, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Meera Nair
+Employee ID: STX-E-010
+Department: Engineering
+Designation: Senior Software Engineer
+Location: Bangalore
+Reporting Manager: Rohit Sharma, Backend Team Lead (STX-E-005)
+Employment Type: Full-Time
+Join Date: 2022-04-11
+
+
+Performance Rating Summary
+
+Overall Rating: 4.2 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Meera led the backend migration of the legacy transaction module to a microservices architecture as part of Project Helios Phase 2. The migration was completed two weeks ahead of the planned deadline of August 2025 and reduced average API response time by 34 percent.
+
+She independently designed and implemented a Redis-based caching layer for the analytics dashboard, reducing database query load by approximately 28 percent during peak traffic windows. This was later adopted as a standard pattern for two other services in the Engineering team.
+
+Meera mentored two junior engineers who joined in Q1 2025, conducting weekly code reviews and facilitating onboarding sessions that reduced their ramp-up period from the standard 8 weeks to 5 weeks.
+
+
+Areas of Improvement
+
+Documentation practices need improvement. While code quality is consistently high, inline documentation and architecture decision records are often incomplete or submitted after sprint closure. This has occasionally created knowledge gaps during team handoffs.
+
+Meera should work toward expanding cross-functional communication skills. Her technical contributions are strong but could have higher organizational visibility if she participated more actively in cross-team syncs and engineering all-hands presentations.
+
+
+Manager Comments
+
+Rohit Sharma, Backend Team Lead:
+
+Meera has been one of the most dependable engineers on the Backend team in H1 2025. Her contributions to Project Helios were critical and her ability to deliver under tight timelines without compromising quality is commendable. I am recommending her for the Senior Engineer L2 designation upgrade in the upcoming promotion cycle. With minor improvements in documentation discipline, she will be well-positioned for a Tech Lead role within the next 12 to 18 months.
+
+
+Salary Hike Recommendation
+
+Current CTC: 18.50 LPA
+Recommended Hike: 14 percent
+Revised CTC: 21.09 LPA
+Effective Date: August 1 2025
+
+Justification: Above-average rating combined with high-impact project delivery and demonstrated mentorship capability warrants above-band increment.
+
+
+Signatures
+
+Reporting Manager: Rohit Sharma
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-001

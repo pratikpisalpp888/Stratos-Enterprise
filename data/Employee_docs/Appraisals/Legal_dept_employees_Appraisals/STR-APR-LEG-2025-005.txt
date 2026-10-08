@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-L-014
+Owner_Name: Akash Yadav
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-014, STX-L-006, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-005
+Owner Employee ID: STX-L-014
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-014, STX-L-006, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-13
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Akash Yadav
+Employee ID: STX-L-014
+Department: Legal
+Designation: Regulatory Affairs Associate
+Location: Mumbai
+Reporting Manager: Arpit Khanna, Regulatory Compliance Lead (STX-L-006)
+Employment Type: Full-Time
+Join Date: 2024-02-14
+
+
+Performance Rating Summary
+
+Overall Rating: 3.3 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Akash completed mandatory DPDP Act compliance training in March 2025 and
+contributed to the distribution and tracking of compliance training
+completion records across 312 employees, maintaining accurate records
+with zero discrepancies in the final compliance audit report.
+
+He prepared first-draft regulatory correspondence for 4 statutory filings
+in H1 2025 under supervision of the Regulatory Compliance Lead, all of
+which were filed on time with minor edits at the senior review stage.
+
+
+Areas of Improvement
+
+Akash needs to build a stronger foundational understanding of Indian
+regulatory frameworks relevant to SaaS and cloud services. His current
+knowledge base is limited to surface-level familiarity and deeper
+expertise is required for him to contribute meaningfully to regulatory
+filings independently.
+
+He should work on time management and task prioritization. On two
+occasions in Q2 2025 lower-priority tasks were completed before
+time-sensitive regulatory tracking updates, causing brief delays in
+compliance reporting.
+
+
+Manager Comments
+
+Arpit Khanna, Regulatory Compliance Lead:
+
+Akash joined in February 2025 so this is his first review cycle and the
+rating reflects that context. He is attentive and willing to learn but
+needs to develop urgency and prioritization skills more quickly given
+the time-sensitive nature of regulatory work. I expect to see meaningful
+improvement in his independent contribution by Q4 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.50 LPA
+Recommended Hike: 7 percent
+Revised CTC: 8.03 LPA
+Effective Date: August 1 2025
+
+Justification: First appraisal cycle with standard new joiner increment
+reflecting satisfactory performance during initial months.
+
+
+Signatures
+
+Reporting Manager: Arpit Khanna
+Date: 2025-07-11
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-13
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-005

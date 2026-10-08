@@ -1,0 +1,84 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-009
+Owner_Name: Deepika Pillai
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-009, STX-HR-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-008
+Owner Employee ID: STX-HR-009
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-009, STX-HR-003, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Deepika Pillai
+Employee ID: STX-HR-009
+Department: HR
+Designation: HR Business Partner Lead
+Location: Bangalore
+Reporting Manager: Rekha Nambiar (STX-HR-003)
+Employment Type: Full-Time
+Join Date: February 2, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Deepika successfully implemented a new performance management system, resulting in a 25% reduction in cycle time and a 95% employee satisfaction rate. She also developed and delivered a comprehensive onboarding program for new hires, which led to a 30% decrease in time-to-productivity. Additionally, Deepika played a key role in negotiating a 12% discount on the company's group health insurance policy, resulting in a cost savings of Rs. 1.2 million annually.
+
+
+Areas of Improvement
+
+Deepika needs to work on enhancing her data analytics skills to provide more insightful recommendations to the business. She should focus on leveraging HR metrics and benchmarks to inform her decision-making and drive more strategic initiatives. 
+
+Deepika should also prioritize building stronger relationships with key stakeholders, including department heads and senior leaders, to increase her influence and impact on organizational decisions. This can be achieved by scheduling regular meetings, seeking feedback, and demonstrating a deeper understanding of the business and its objectives.
+
+
+Manager Comments
+
+Rekha Nambiar:
+
+Deepika has been an invaluable asset to the HR team, demonstrating exceptional business acumen and a deep understanding of Stratos Enterprises' unique needs. Her ability to balance strategic initiatives with operational priorities has been impressive, and her collaboration with cross-functional teams has been seamless. However, there are areas where Deepika can grow, and I am confident that with targeted development and support, she will continue to excel in her role.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Deepika's outstanding performance, the company's budget for merit increases, and industry benchmarks for HR Business Partner Leads.
+
+
+Signatures
+
+Reporting Manager: Rekha Nambiar
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-008

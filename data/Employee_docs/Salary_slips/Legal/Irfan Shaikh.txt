@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-L-012
+Owner_Name: Irfan Shaikh
+Department: Legal
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-L-012, STX-L-009, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Irfan Shaikh
+Employee ID         : STX-L-012
+Department          : Legal
+Designation         : Contract Specialist
+Role Level          : Employee
+Location            : Mumbai
+Date of Joining     : 2023-04-18
+PAN                 : XYZXX1123X
+Bank Account        : XXXX XXXX XXXX 9901
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 37,250
+House Rent Allowance (HRA)          : INR 14,900
+Special Allowance                   : INR 10,350
+Performance Bonus                   : INR 0
+Gross Salary                        : INR 62,500
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 4,470
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 4,200
+Total Deductions                    : INR 8,870
+
+
+Net Salary (Take Home)              : INR 53,630
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 8,94,000
+Monthly CTC                         : INR 74,500
+Effective from August 1 2025 post appraisal increment of 9 percent
+over previous CTC of INR 8,20,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-L-012-SEP2025

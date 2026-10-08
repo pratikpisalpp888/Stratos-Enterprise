@@ -1,0 +1,48 @@
+---METADATA---
+Document_ID: STR-LEG-EAT-2025-001
+Department: Legal
+Document_Type: Employment Agreement Template
+Sensitivity_Level: Confidential
+Created_Date: 2025-08-15
+Author: Megha Chatterjee, Legal Operations Manager
+---END METADATA---
+
+This Employment Agreement ("Agreement") is entered into on this day, 20th July 2026 ("Effective Date") by and between Stratos Enterprises Private Limited, a company incorporated under the laws of India, with its registered office at Unit No. 401, 4th Floor, Cyber Towers, HITEC City, Hyderabad 500081, ("Employer") and [Employee Name] ("Employee"), residing at [Employee Address], for the purpose of outlining the terms and conditions of the Employee's employment with the Employer.
+
+1. EMPLOYMENT DETAILS
+The Employer hereby employs the Employee as a full-time Software Engineer (Cloud Services) for a period of three (3) years from the Effective Date, subject to the terms and conditions of this Agreement. The Employee shall be responsible for providing software development services in relation to the Employer's cloud services, including but not limited to, Project Helios and CloudEdge 3.0.
+
+2. TERM AND TERMINATION
+The term of this Agreement shall commence on the Effective Date and shall continue for a period of three (3) years from the Effective Date. Upon the expiry of the initial term, the Agreement shall, unless terminated earlier by either party, automatically extend for a further period of one (1) year and then from year to year, subject to the Employee continuing to serve the Employer. The Employer reserves the right to terminate this Agreement with immediate effect, without assigning any reason, by giving a written notice to the Employee.
+
+3. COMPENSATION AND BENEFITS
+The Employee shall be entitled to receive the following compensation and benefits:
+
+- Basic Salary: ₹ 15,00,000 (Rupees Fifteen Lakhs Only) per annum, paid in equal monthly installments;
+- Annual Variable Pay (AVP): a percentage of the Employee's Basic Salary, as determined by the Employer's performance evaluation process, paid in two (2) installments, viz. 50% in May and 50% in November;
+- Stock Options: the Employee shall be granted an option to purchase 10,000 equity shares of the Employer at ₹ 100 per share, exercisable at any time within a period of three (3) years from the date of grant;
+- Benefits: the Employee shall be eligible for the Employer's Group Health Insurance, Life Insurance, and retirement benefits, as per the Employer's policies.
+
+4. CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+The Employee acknowledges and agrees that, during the term of this Agreement, the Employee shall have access to confidential and proprietary information of the Employer, including but not limited to, trade secrets, business plans, financial information, and intellectual property. The Employee shall not disclose any such confidential information to any third party, without the prior written consent of the Employer. Upon termination of this Agreement, the Employee shall return all confidential and proprietary information of the Employer to the Employer, in the same condition as received.
+
+5. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of India. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of Bangalore and the Employee hereby submits to the jurisdiction of such courts.
+
+By signing below, the parties acknowledge that they have read, understood, and agreed to the terms and conditions of this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+---
+
+Employer's Representative:
+
+Signature: _____________________________
+Name: _______________________________
+Date: _______________________________
+
+Employee's Representative:
+
+Signature: _____________________________
+Name: _______________________________
+Date: _______________________________

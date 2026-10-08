@@ -1,0 +1,108 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-015
+Owner_Name: Mihir Shah
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-015, STX-HR-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-006
+Owner Employee ID: STX-HR-015
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-015, STX-HR-005, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-14
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Mihir Shah
+Employee ID: STX-HR-015
+Department: HR
+Designation: Talent Acquisition Executive
+Location: Mumbai
+Reporting Manager: Priyanka Venkatesh, Recruitment Lead (STX-HR-005)
+Employment Type: Full-Time
+Join Date: 2024-01-15
+
+
+Performance Rating Summary
+
+Overall Rating: 3.3 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Mihir closed 9 hires in H1 2025 across Sales and HR functions against
+a target of 8, achieving 112 percent of his hiring goal in his first
+active half-year at Stratos.
+
+He managed end-to-end coordination for campus recruitment at 2
+engineering colleges in Mumbai in February 2025, coordinating logistics
+for 3 interview panels and processing 84 candidate applications within
+the 10-day recruitment window.
+
+
+Areas of Improvement
+
+Mihir needs to improve candidate experience management during the
+interview process. Post-interview feedback scores from candidates in
+Q1 2025 averaged 3.6 out of 5, below the team benchmark of 4.2,
+with specific feedback around communication delays between interview
+rounds.
+
+He should develop stronger sourcing strategy skills beyond job portal
+postings. Currently 94 percent of Mihir's hires have been sourced
+through Naukri and LinkedIn without any use of referral programs,
+community outreach, or passive candidate engagement, limiting
+pipeline diversity.
+
+
+Manager Comments
+
+Priyanka Venkatesh, Recruitment Lead:
+
+Mihir has had a reasonable first half at Stratos and hitting 112
+percent of target in his first active quarter is encouraging. The
+areas I want him to urgently address are candidate experience and
+sourcing diversity. Both are fundamental to scaling our talent
+acquisition capability and I expect measurable improvement in
+both by the end of Q3 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.40 LPA
+Recommended Hike: 8 percent
+Revised CTC: 7.99 LPA
+Effective Date: August 1 2025
+
+Justification: First appraisal cycle with above-target hiring
+attainment in initial months supporting standard to moderate
+increment.
+
+
+Signatures
+
+Reporting Manager: Priyanka Venkatesh
+Date: 2025-07-12
+
+HR Representative: Abhishek Pandey
+Date: 2025-07-14
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-006

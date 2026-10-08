@@ -1,0 +1,155 @@
+[
+  {
+    "employee_id": "STX-HR-005",
+    "full_name": "Priyanka Venkatesh",
+    "department": "HR",
+    "designation": "Recruitment Lead",
+    "role_level": "Team Lead",
+    "manager_id": "STX-HR-003",
+    "manager_name": "Rekha Nambiar",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-F-007",
+    "full_name": "Deepak Shetty",
+    "department": "Finance",
+    "designation": "Payroll Lead",
+    "role_level": "Team Lead",
+    "manager_id": "STX-F-003",
+    "manager_name": "Amitabh Joshi",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-L-009",
+    "full_name": "Pooja Nambiar",
+    "department": "Legal",
+    "designation": "Vendor Contract Lead",
+    "role_level": "Team Lead",
+    "manager_id": "STX-L-003",
+    "manager_name": "Rohan Pillai",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-HR-008",
+    "full_name": "Vikash Ranjan",
+    "department": "HR",
+    "designation": "Learning & Development Lead",
+    "role_level": "Team Lead",
+    "manager_id": "STX-HR-002",
+    "manager_name": "Abhishek Pandey",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-F-008",
+    "full_name": "Ritika Chawla",
+    "department": "Finance",
+    "designation": "Financial Reporting Lead",
+    "role_level": "Team Lead",
+    "manager_id": "STX-F-004",
+    "manager_name": "Nandita Rao",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-E-002",
+    "full_name": "Priya Raman",
+    "department": "Engineering",
+    "designation": "Engineering Manager",
+    "role_level": "Manager",
+    "manager_id": "STX-E-001",
+    "manager_name": "Arvind Narayanan",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-S-001",
+    "full_name": "Vivek Anand",
+    "department": "Sales",
+    "designation": "Director of Sales",
+    "role_level": "Director",
+    "manager_id": null,
+    "manager_name": null,
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-S-002",
+    "full_name": "Ritika Sharma",
+    "department": "Sales",
+    "designation": "Regional Sales Manager - South",
+    "role_level": "Manager",
+    "manager_id": "STX-S-001",
+    "manager_name": "Vivek Anand",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  },
+  {
+    "employee_id": "STX-L-003",
+    "full_name": "Rohan Pillai",
+    "department": "Legal",
+    "designation": "Compliance Manager",
+    "role_level": "Manager",
+    "manager_id": "STX-L-001",
+    "manager_name": "Anirudh Sinha",
+    "missing_docs": [
+      "appraisal",
+      "leave_record",
+      "salary_slip"
+    ],
+    "still_missing": [
+      "leave_record"
+    ]
+  }
+]

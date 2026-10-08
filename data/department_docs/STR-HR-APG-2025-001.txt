@@ -1,0 +1,72 @@
+---METADATA---
+Document_ID: STR-HR-APG-2025-001
+Department: HR
+Document_Type: Appraisal Guidelines
+Sensitivity_Level: Confidential
+Created_Date: 2025-08-15
+Author: Rekha Nambiar, Talent Acquisition Manager
+---END METADATA---
+
+Stratos Enterprises Appraisal Guidelines
+Confidential
+
+Purpose:
+The purpose of this document is to outline the guidelines for conducting performance appraisals at Stratos Enterprises. The appraisal process aims to provide a platform for employees to receive constructive feedback, set goals, and develop their skills in line with the company's objectives.
+
+Scope:
+This document applies to all employees of Stratos Enterprises, including those working on specific projects such as Project Helios, CloudEdge 3.0, and other initiatives.
+
+Pre-Appraisal Preparation:
+Before the appraisal meeting, the supervisor/manager shall:
+
+1. Review the employee's performance records, including their goals, achievements, and areas for improvement.
+2. Prepare relevant data and metrics to support the discussion, such as project timelines, customer satisfaction ratings, and team feedback.
+3. Schedule a meeting with the employee at a mutually convenient time and ensure that they are aware of the agenda and expected outcomes.
+
+Appraisal Meeting:
+The appraisal meeting shall be conducted in a professional and respectful manner. The following points shall be covered:
+
+1. Introduction and Review of Expectations:
+   - Review the employee's job description and expectations.
+   - Discuss the company's overall goals and how the employee contributes to its achievement.
+
+2. Performance Review:
+   - Highlight the employee's strengths and areas for improvement.
+   - Discuss specific projects and initiatives, such as Project Helios and CloudEdge 3.0, and their contributions to these projects.
+   - Address any performance issues or concerns raised by the employee or the team.
+
+3. Goal Setting:
+   - Set new goals and objectives aligned with the company's strategy and the employee's career development.
+   - Establish key performance indicators (KPIs) to measure progress and achievement.
+
+4. Development and Support:
+   - Discuss opportunities for training, mentorship, and skill development.
+   - Provide guidance on resources available to the employee, such as the Stratos Enterprises Learning Management System (LMS) and the employee assistance program (EAP).
+
+Post-Appraisal Actions:
+Following the appraisal meeting, the supervisor/manager shall:
+
+1. Document the discussion and agreed-upon goals and objectives in the employee's performance record.
+2. Provide a summary of the appraisal meeting to the employee, including any actions and next steps.
+3. Schedule a follow-up meeting to review progress and provide feedback.
+
+Performance Rating Scale:
+Stratos Enterprises uses a 5-point rating scale to evaluate employee performance:
+
+- 5: Exceptional - Meets all expectations and demonstrates exceptional performance.
+- 4: Strong - Meets expectations and demonstrates strong performance.
+- 3: Satisfactory - Meets expectations, but requires some improvement.
+- 2: Needs Improvement - Fails to meet expectations and requires significant improvement.
+- 1: Unsatisfactory - Fails to meet expectations and requires immediate attention.
+
+Confidentiality:
+All information discussed during the appraisal meeting shall remain confidential and in accordance with Stratos Enterprises' data protection policies (clause 4.5 of the Employee Handbook).
+
+Amendments:
+These guidelines shall be reviewed and updated annually, or as necessary, to ensure that they remain relevant and effective.
+
+Revision History:
+- Version 1.0: Initial draft
+- Version 1.1: Updated to include project names and policy clauses
+
+Approved by: Rekha Nambiar, Talent Acquisition Manager

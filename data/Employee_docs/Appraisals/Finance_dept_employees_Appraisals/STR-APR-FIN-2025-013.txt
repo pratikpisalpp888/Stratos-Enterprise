@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-F-009
+Owner_Name: Saurabh Kulshreshtha
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-009, STX-F-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-013
+Owner Employee ID: STX-F-009
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-009, STX-F-003, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Saurabh Kulshreshtha
+Employee ID: STX-F-009
+Department: Finance
+Designation: Compliance Audit Lead
+Location: Bangalore
+Reporting Manager: Amitabh Joshi (STX-F-003)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Saurabh successfully led the compliance audit team in achieving a 95% compliance rate with SOC 2 standards, resulting in zero major findings and only two minor observations. This achievement ensured Stratos Enterprises' continued compliance with industry standards, maintaining customer trust and minimizing potential revenue loss. The team's efforts also led to a 20% reduction in audit duration, resulting in significant cost savings.
+
+Saurabh implemented a risk-based audit approach, which identified and mitigated 15 high-risk areas, resulting in a 30% reduction in overall risk exposure. This proactive approach ensured that Stratos Enterprises' financial systems and processes were aligned with industry best practices, minimizing potential risks and ensuring the integrity of financial data.
+
+Saurabh also developed and delivered a comprehensive compliance training program, which resulted in a 25% increase in employee awareness and understanding of compliance requirements. The program consisted of six modules, with over 500 employees participating, and received positive feedback from 90% of participants, demonstrating the program's effectiveness in promoting a culture of compliance within the organization.
+
+
+Areas of Improvement
+
+Saurabh needs to improve his communication skills, particularly in terms of providing regular updates to stakeholders on audit progress and findings. There were instances where stakeholders were not informed promptly, leading to delays in addressing audit findings and implementing corrective actions. To address this, Saurabh should establish a regular cadence of updates and ensure that all stakeholders are informed in a timely manner.
+
+Saurabh should also focus on developing his technical skills, particularly in areas such as data analytics and automation. As Stratos Enterprises continues to grow and evolve, the compliance audit team will need to leverage technology to streamline audit processes and identify potential risks more efficiently. Saurabh should prioritize acquiring these skills through training and professional development opportunities to remain effective in his role.
+
+
+Manager Comments
+
+Amitabh Joshi:
+
+Saurabh has been an invaluable member of the finance team, consistently demonstrating his expertise in compliance auditing and risk management. His leadership skills and ability to collaborate with cross-functional teams have been impressive, and his contributions to the team's success have been significant. However, there are areas where Saurabh can improve, particularly in terms of communication and technical skills, which will be essential for his continued growth and success in this role. I am confident that with focused development and support, Saurabh will continue to excel and make significant contributions to Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Saurabh's outstanding performance, his value to the organization, and industry benchmarks, and is intended to recognize his contributions and motivate him to continue delivering exceptional results.
+
+
+Signatures
+
+Reporting Manager: Amitabh Joshi
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-013

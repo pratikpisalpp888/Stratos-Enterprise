@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-F-005
+Owner_Name: Kunal Mehta
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-005, STX-F-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-008
+Owner Employee ID: STX-F-005
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-005, STX-F-002, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Kunal Mehta
+Employee ID: STX-F-005
+Department: Finance
+Designation: Accounts Payable Lead
+Location: Bangalore
+Reporting Manager: Shreya Mukherjee (STX-F-002)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Kunal successfully implemented a new automated payment processing system, resulting in a 25% reduction in payment processing time and a 30% decrease in manual errors. This initiative also led to a cost savings of approximately $15,000 per quarter. As a result, the team's productivity increased by 20%, allowing them to take on additional responsibilities.
+
+Kunal played a crucial role in the annual audit, ensuring that all accounts payable records were up-to-date and compliant with regulatory requirements. His efforts resulted in a 95% score on the audit, exceeding the target of 90%. This achievement demonstrated his attention to detail and commitment to maintaining high standards.
+
+Kunal provided training and support to new team members, resulting in a 40% reduction in the onboarding time for new hires. He also developed a comprehensive guide for accounts payable procedures, which has been adopted as a best practice across the organization. This has improved the overall efficiency of the team and reduced the workload for senior staff members.
+
+
+Areas of Improvement
+
+Kunal needs to work on improving his communication skills, particularly when dealing with external stakeholders such as vendors and suppliers. There have been instances where miscommunications have led to delays in payment processing, resulting in additional costs for the company. To address this, Kunal should focus on developing a more structured approach to communication, including regular updates and clear escalation procedures.
+
+Kunal should focus on developing his analytical skills to provide more insightful reports and analysis to support business decisions. While he has been able to provide basic reports, there is an opportunity for him to delve deeper into data analysis and provide recommendations for process improvements. This will enable him to add more value to the organization and support strategic decision-making.
+
+
+Manager Comments
+
+Shreya Mukherjee:
+
+Kunal has been an invaluable member of the finance team, consistently delivering high-quality results and demonstrating a strong commitment to his role. His ability to implement process improvements and automate tasks has had a significant impact on the team's productivity. However, there are areas where Kunal can improve, particularly in terms of communication and analytical skills. With focused development in these areas, I am confident that Kunal will continue to grow and make even more significant contributions to the organization. Overall, I am pleased with Kunal's performance and look forward to seeing his continued growth and development.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Kunal's outstanding performance and the value he has added to the organization, and is intended to recognize his contributions and motivate him to continue delivering exceptional results.
+
+
+Signatures
+
+Reporting Manager: Shreya Mukherjee
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-008

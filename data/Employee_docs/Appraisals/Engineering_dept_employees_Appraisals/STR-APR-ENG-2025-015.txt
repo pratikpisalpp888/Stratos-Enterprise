@@ -1,0 +1,79 @@
+---METADATA---
+Owner_Employee_ID: STX-E-002
+Owner_Name: Priya Raman
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-002, STX-E-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-015
+Owner Employee ID: STX-E-002
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-002, STX-E-001, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Priya Raman
+Employee ID: STX-E-002
+Department: Engineering
+Designation: Engineering Manager
+Location: Bangalore
+Reporting Manager: Arvind Narayanan (STX-E-001)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+During the review period, Priya successfully led the development of the new Stratos X500 satellite communication system, resulting in a 25% increase in customer satisfaction and a 15% reduction in project timelines. She also implemented a structured project management framework, which improved team collaboration and efficiency by 30%. Additionally, Priya played a key role in establishing a strategic partnership with a leading technology provider, resulting in a significant increase in revenue streams for Stratos Enterprises.
+
+Areas of Improvement
+
+One area for improvement is Priya's delegation of tasks to team members, which at times resulted in over-reliance on her expertise and underutilization of team capabilities. To address this, Priya needs to focus on developing the skills and confidence of her team members by delegating tasks effectively and providing constructive feedback. Another area for improvement is Priya's adherence to project timelines and budget, which sometimes slipped due to unforeseen circumstances. To address this, Priya needs to work on improving her risk management skills and developing contingency plans to mitigate potential risks.
+
+Manager Comments
+
+Arvind Narayanan:
+
+Priya has consistently demonstrated exceptional leadership and technical skills throughout the review period. Her ability to drive complex projects forward and deliver results is truly impressive. I appreciate her dedication to Stratos Enterprises and her commitment to excellence. While there are areas for improvement, I believe Priya has the potential to become an even more effective Engineering Manager with some focused development. I strongly recommend a 13% salary hike to reflect her outstanding performance.
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Arvind Narayanan
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-015

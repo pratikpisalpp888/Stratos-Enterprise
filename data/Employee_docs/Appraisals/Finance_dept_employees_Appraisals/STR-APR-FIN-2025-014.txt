@@ -1,0 +1,70 @@
+---METADATA---
+Owner_Employee_ID: STX-F-007
+Owner_Name: Deepak Shetty
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-007, STX-F-003, HR-Admin]
+---END METADATA---
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Deepak Shetty
+Employee ID: STX-F-007
+Department: Finance
+Designation: Payroll Lead
+Location: Bangalore
+Reporting Manager: Amitabh Joshi (STX-F-003)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Deepak has successfully implemented the new payroll processing system, resulting in a 25% reduction in processing time. This achievement has positively impacted the team's efficiency and productivity. The system's seamless integration has also minimized errors and improved data accuracy. Additionally, Deepak has taken the lead in developing and implementing a comprehensive payroll audit process, which has ensured compliance with regulatory requirements and ensured timely submissions of tax returns. Furthermore, Deepak has provided excellent support to the finance team during the transition period, ensuring minimal disruption to payroll processing.
+
+Areas of Improvement
+
+One area for improvement is the development of a more in-depth payroll analytics report, which would provide valuable insights to the leadership team. This would enable data-driven decision-making and help in identifying trends and areas for improvement. Another area of improvement is the need for Deepak to delegate more tasks to team members, ensuring that they are utilized effectively and efficiently. This would help in developing the team's skills and knowledge, and also reduce Deepak's workload.
+
+
+Manager Comments
+
+Amitabh Joshi:
+
+Deepak has consistently demonstrated his expertise in payroll processing and has been a valuable asset to the finance team. His ability to implement the new payroll system and develop a comprehensive audit process has been exceptional. I appreciate his willingness to take on additional responsibilities and his commitment to ensuring the smooth functioning of the payroll process. However, I would like to see him focus on developing his leadership skills and delegating more tasks to team members. With some refinement in these areas, I believe Deepak can achieve an even higher level of performance.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Amitabh Joshi
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-014

@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-E-006
+Owner_Name: Ananya Iyer
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-006, STX-E-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-009
+Owner Employee ID: STX-E-006
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-006, STX-E-002, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ananya Iyer
+Employee ID: STX-E-006
+Department: Engineering
+Designation: Frontend Team Lead
+Location: Bangalore
+Reporting Manager: Priya Raman (STX-E-002)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Ananya successfully led the frontend team in the development of Stratos Cloud's new user interface, resulting in a 25% increase in user engagement and a 15% reduction in customer complaints. She implemented a new testing framework, which decreased bug resolution time by 30% and improved code quality. The team's efforts under her leadership led to a 20% increase in sales revenue from the cloud platform.
+
+Ananya collaborated with the design team to create a responsive and accessible UI component library, which is now used across all Stratos products. This library has reduced development time by 12% and improved overall product consistency. The library has also received positive feedback from customers and internal stakeholders.
+
+Ananya mentored two junior team members, helping them improve their coding skills and complete their assigned tasks efficiently. She provided regular feedback and coaching, resulting in a significant improvement in their performance and a 90% reduction in errors. One of the team members is now taking on additional responsibilities, and the other has been recognized as a subject matter expert in their area.
+
+
+Areas of Improvement
+
+Ananya needs to work on delegating tasks more effectively to her team members, as there have been instances where she has taken on too much responsibility herself. This has led to a slight delay in some project timelines. To improve, she should focus on empowering her team members to take ownership of their tasks and provide guidance and support when needed.
+
+Ananya should focus on improving her communication with other departments, particularly the backend team. There have been instances of miscommunication and misunderstandings, which have led to delays and rework. Regular meetings and open communication channels can help resolve these issues and improve collaboration between teams.
+
+
+Manager Comments
+
+Priya Raman:
+
+Ananya has been an invaluable asset to the engineering team, consistently delivering high-quality results and leading her team with expertise and dedication. Her technical skills and knowledge of frontend development are exceptional, and she has been instrumental in driving the adoption of new technologies and best practices within the team. However, there are areas where she can improve, such as delegation and communication with other departments. With some focus on these areas, I am confident that Ananya will continue to grow and excel in her role.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Ananya's exceptional performance, her value to the team, and her contributions to the company's growth and success.
+
+
+Signatures
+
+Reporting Manager: Priya Raman
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-009

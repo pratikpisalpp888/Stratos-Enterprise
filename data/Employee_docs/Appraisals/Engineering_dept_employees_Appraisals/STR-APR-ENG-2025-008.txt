@@ -1,0 +1,86 @@
+---METADATA---
+Owner_Employee_ID: STX-E-007
+Owner_Name: Vikram Singh
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-007, STX-E-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-008
+Owner Employee ID: STX-E-007
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-007, STX-E-003, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Vikram Singh
+Employee ID: STX-E-007
+Department: Engineering
+Designation: DevOps Team Lead
+Location: Bangalore
+Reporting Manager: Karthik Reddy (STX-E-003)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Vikram successfully led the migration of Stratos Enterprises' cloud infrastructure to a Kubernetes-based platform, resulting in a 25% reduction in operational costs and a 30% increase in deployment efficiency. He worked closely with the development team to implement automated testing and continuous integration, which led to a 40% decrease in average deployment time. The new platform has also improved system uptime, with an average availability of 99.95% over the last quarter.
+
+Under Vikram's guidance, the DevOps team implemented a comprehensive monitoring and logging system, providing real-time insights into system performance and enabling the team to respond quickly to issues. This has resulted in a 20% reduction in mean time to resolve (MTTR) and a 15% reduction in mean time between failures (MTBF). The team has also seen a significant decrease in the number of production incidents, with an average of 2 incidents per month compared to 5 incidents per month in the previous quarter.
+
+Vikram played a key role in the development and implementation of Stratos Enterprises' disaster recovery plan, which was tested successfully during a recent disaster recovery drill. The plan ensured that all critical systems were restored within 4 hours, meeting the company's recovery time objective (RTO). Vikram's efforts have improved the company's overall disaster readiness and ensured business continuity in the event of an outage.
+
+
+Areas of Improvement
+
+Vikram needs to work on improving his communication skills, particularly when it comes to explaining technical concepts to non-technical stakeholders. There have been instances where his messages have been misinterpreted, leading to delays and misunderstandings. To address this, Vikram should focus on developing a more structured approach to communication, using clear and concise language, and providing regular updates to stakeholders.
+
+Vikram should also focus on delegating tasks more effectively to his team members, rather than taking on too much responsibility himself. This will not only help to develop the skills and capabilities of his team but also ensure that Vikram is able to focus on high-priority tasks and strategic initiatives. By delegating tasks more effectively, Vikram can also improve his work-life balance and reduce the risk of burnout.
+
+
+Manager Comments
+
+Karthik Reddy:
+
+Vikram has been an invaluable member of the engineering team, consistently delivering high-quality results and taking on additional responsibilities to support the company's growth. His technical expertise and leadership skills have been instrumental in driving the success of our DevOps initiatives, and I am impressed with his ability to collaborate with cross-functional teams. However, I have encouraged Vikram to work on his communication skills and delegation, as these are critical areas for his continued growth and success as a Team Lead at Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Vikram's outstanding performance during the review period, his contributions to the company's growth and success, and his value to the engineering team.
+
+
+Signatures
+
+Reporting Manager: Karthik Reddy
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-008

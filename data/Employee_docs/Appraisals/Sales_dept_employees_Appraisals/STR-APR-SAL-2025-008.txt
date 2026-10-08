@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-S-006
+Owner_Name: Shruti Desai
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-006, STX-S-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-008
+Owner Employee ID: STX-S-006
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-006, STX-S-002, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Shruti Desai
+Employee ID: STX-S-006
+Department: Sales
+Designation: SMB Sales Lead
+Location: Bangalore
+Reporting Manager: Ritika Sharma (STX-S-002)
+Employment Type: Full-Time
+Join Date: 2018-04-01
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Shruti successfully led the sales team to achieve a 25% increase in quarterly sales revenue, exceeding the target by 5%. She played a pivotal role in onboarding 15 new SMB clients, resulting in an additional $250,000 in annual recurring revenue. Her efforts led to a significant improvement in customer satisfaction, with a 20% increase in positive reviews on the company's website.
+
+Shruti demonstrated exceptional leadership skills by mentoring junior sales team members, resulting in a 30% increase in their sales performance. She also developed and implemented a new sales strategy that led to a 15% reduction in sales cycles, enabling the team to close deals more efficiently. This strategy was recognized and adopted by the entire sales organization.
+
+Shruti consistently met or exceeded her sales targets, with an average quarterly performance of 110% of her sales quota. She also identified and pursued new business opportunities, resulting in a 40% increase in her sales pipeline. Her ability to build strong relationships with clients and identify their needs led to a significant increase in upsell and cross-sell opportunities.
+
+
+Areas of Improvement
+
+Shruti needs to work on improving her forecasting and pipeline management skills, as there were instances where her sales projections were not accurate, leading to discrepancies in the team's performance. To address this, she will need to develop a more robust pipeline management process and work closely with the sales operations team to ensure that her forecasts are more accurate. With improved forecasting, Shruti will be able to better allocate her time and resources, leading to increased sales productivity.
+
+Shruti should focus on developing her skills in negotiating complex deals and managing large-scale sales engagements. While she has been successful in closing smaller deals, there is an opportunity for her to grow and develop her skills in managing more complex sales processes. With additional training and support, Shruti will be able to take on more challenging sales opportunities and drive greater revenue growth for the company.
+
+
+Manager Comments
+
+Ritika Sharma:
+
+Shruti has been an invaluable member of the sales team, consistently delivering high-quality results and demonstrating exceptional leadership skills. Her ability to build strong relationships with clients and identify new business opportunities has been impressive, and I am confident that she will continue to drive growth and success for the company. However, there are areas where Shruti can improve, particularly in forecasting and pipeline management. With targeted training and support, I am confident that she will be able to address these areas and take her performance to the next level. Overall, I am pleased with Shruti's performance and look forward to seeing her continued growth and success.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Shruti's outstanding performance and the value she has brought to the company, and is intended to recognize her contributions and motivate her to continue delivering exceptional results.
+
+
+Signatures
+
+Reporting Manager: Ritika Sharma
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-008

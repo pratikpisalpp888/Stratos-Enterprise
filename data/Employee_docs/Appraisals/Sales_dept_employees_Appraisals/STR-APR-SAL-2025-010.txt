@@ -1,0 +1,87 @@
+---METADATA---
+Owner_Employee_ID: STX-S-005
+Owner_Name: Karan Malhotra
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-005, STX-S-004, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-010
+Owner Employee ID: STX-S-005
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-005, STX-S-004, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Karan Malhotra
+Employee ID: STX-S-005
+Department: Sales
+Designation: Enterprise Sales Lead
+Location: Bangalore
+Reporting Manager: Neelima Reddy (STX-S-004)
+Employment Type: Full-Time
+Join Date: August 15, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Karan successfully led the sales efforts for the cloud infrastructure division, resulting in a 25% increase in revenue growth compared to the same period last year, with total sales amounting to $1.2 million. He played a pivotal role in onboarding three new enterprise clients, including a major IT firm, which has potential for long-term partnership and revenue expansion. Karan's strategic approach to account management led to a 90% customer retention rate within his portfolio.
+
+Karan demonstrated exceptional leadership skills by mentoring junior sales team members, resulting in a significant improvement in their sales performance. Under his guidance, the team achieved a 30% increase in sales calls and a 20% increase in conversion rates. He also developed and implemented a customized sales training program, which received positive feedback from the team.
+
+Karan's in-depth knowledge of Stratos Enterprises' SaaS offerings enabled him to identify and capitalize on cross-selling opportunities, resulting in an average deal size increase of 15%. He effectively collaborated with the marketing team to develop targeted campaigns, which contributed to a 40% increase in lead generation and a 25% increase in sales-qualified leads.
+
+
+Areas of Improvement
+
+To further excel in his role, Karan needs to improve his forecasting and pipeline management skills. Although he has consistently met his sales targets, there have been instances where his forecasts were slightly off, resulting in minor adjustments to the sales strategy. With enhanced forecasting abilities, Karan can better anticipate market trends and make more informed decisions.
+
+Karan should focus on expanding his professional network and building relationships with key decision-makers at existing and potential client organizations. By attending industry conferences, engaging in thought leadership activities, and leveraging social media platforms, Karan can increase his visibility and establish himself as a trusted authority in the SaaS sales space.
+
+
+Manager Comments
+
+Neelima Reddy:
+
+Karan has been an invaluable member of our sales team, consistently delivering high-quality results and demonstrating a deep understanding of our SaaS offerings. His ability to build strong relationships with clients and identify new business opportunities has been impressive. However, there is room for improvement in terms of forecasting and pipeline management, which we will work on together in the next review period. Overall, I am pleased with Karan's performance and look forward to seeing his continued growth and contributions to Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Karan's outstanding performance, his value to the organization, and industry standards for sales professionals in similar roles.
+
+
+Signatures
+
+Reporting Manager: Neelima Reddy
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-010

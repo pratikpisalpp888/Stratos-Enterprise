@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-F-002
+Owner_Name: Shreya Mukherjee
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-002, STX-F-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-010
+Owner Employee ID: STX-F-002
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-002, STX-F-001, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Shreya Mukherjee
+Employee ID: STX-F-002
+Department: Finance
+Designation: Finance Operations Manager
+Location: Bangalore
+Reporting Manager: Raghav Bansal (STX-F-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Shreya successfully led the implementation of a new accounts payable automation tool, resulting in a 30% reduction in manual processing time and a 25% decrease in payment errors. This project was completed within the expected timeline and budget, and has already shown significant returns in terms of efficiency and cost savings. The automation tool has also enabled the finance team to process an average of 250 invoices per week, up from 150 invoices per week prior to implementation.
+
+Shreya played a key role in the development and execution of Stratos Enterprises' financial planning and analysis strategy, providing critical support to the leadership team in their decision-making processes. Her analysis and insights helped inform key business decisions, including the allocation of resources to high-priority projects and the identification of areas for cost optimization. As a result, the company was able to achieve a 12% increase in revenue growth during the review period.
+
+Shreya demonstrated exceptional leadership and collaboration skills, working closely with cross-functional teams to drive process improvements and ensure seamless execution of financial operations. She identified and addressed a number of process bottlenecks, resulting in a 40% reduction in average days outstanding for accounts receivable and a 20% increase in cash flow. Her efforts have had a positive impact on the overall efficiency and effectiveness of the finance team.
+
+
+Areas of Improvement
+
+Shreya needs to continue to develop her skills in data analytics and visualization, in order to provide more insightful and actionable recommendations to the leadership team. This could involve pursuing additional training or certification in tools such as Tableau or Power BI, and working to integrate data-driven insights into her financial planning and analysis work. By doing so, she will be better equipped to drive business growth and inform strategic decision-making.
+
+Shreya should focus on delegating tasks more effectively to her team members, in order to free up time for more strategic and high-priority initiatives. This could involve providing additional training and support to team members, as well as establishing clear goals and expectations for their work. By empowering her team and providing opportunities for growth and development, Shreya can help drive greater efficiency and productivity within the finance team.
+
+
+Manager Comments
+
+Raghav Bansal:
+
+I am pleased to see Shreya taking on additional responsibilities and driving process improvements within the finance team. Her leadership and collaboration skills have been impressive, and she has demonstrated a strong ability to work effectively with cross-functional teams. I am confident that she will continue to make significant contributions to Stratos Enterprises, and I look forward to seeing her grow and develop in her role. One area for focus in the next review period will be her ability to drive strategic initiatives and provide data-driven insights to inform business decisions.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Shreya's exceptional performance during the review period, including her key achievements and contributions to the finance team, as well as her demonstrated leadership and collaboration skills.
+
+
+Signatures
+
+Reporting Manager: Raghav Bansal
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-010

@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-L-006
+Owner_Name: Arpit Khanna
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-006, STX-L-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-011
+Owner Employee ID: STX-L-006
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-006, STX-L-003, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Arpit Khanna
+Employee ID: STX-L-006
+Department: Legal
+Designation: Regulatory Compliance Lead
+Location: Bangalore
+Reporting Manager: Rohan Pillai (STX-L-003)
+Employment Type: Full-Time
+Join Date: August 15, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Arpit successfully led the team in achieving 95% compliance with the new EU General Data Protection Regulation (GDPR) requirements, resulting in a 25% reduction in compliance-related risks. He also collaborated with the product team to implement a new compliance tracking tool, which has increased compliance monitoring efficiency by 30%. Additionally, Arpit conducted 12 training sessions for employees on data protection and compliance, with a 90% attendance rate and a 4.5/5 feedback rating.
+
+Arpit played a crucial role in ensuring Stratos Enterprises' cloud services met the requirements of the Payment Card Industry Data Security Standard (PCI-DSS), achieving a 100% pass rate in the latest audit. He worked closely with the engineering team to implement the necessary security controls, resulting in a 40% reduction in security vulnerabilities. This achievement has enhanced the company's reputation and increased customer trust.
+
+Arpit developed and implemented a compliance governance framework, which has improved compliance issue identification and resolution time by 50%. He also established a compliance metrics dashboard, providing real-time insights into compliance performance and enabling data-driven decision-making. As a result, the company has seen a 20% reduction in compliance-related costs.
+
+
+Areas of Improvement
+
+Arpit needs to improve his communication skills, particularly when dealing with cross-functional teams. There have been instances where his messages were misinterpreted, leading to delays in project timelines. To address this, Arpit should focus on clarifying expectations, providing regular updates, and seeking feedback from team members. By doing so, he can enhance collaboration and ensure seamless project execution.
+
+Arpit should prioritize staying up-to-date with the latest regulatory developments and industry trends. While he has demonstrated a good understanding of existing regulations, there is room for improvement in terms of anticipating and preparing for future changes. Arpit should allocate time for research, attend relevant conferences, and engage with industry experts to expand his knowledge and stay ahead of the curve.
+
+
+Manager Comments
+
+Rohan Pillai:
+
+Arpit has been an invaluable asset to the legal team, consistently demonstrating his expertise in regulatory compliance. His ability to distill complex regulatory requirements into actionable insights has been impressive. I appreciate his collaborative approach and willingness to support other teams in achieving compliance. However, there are areas where Arpit can improve, particularly in terms of communication and staying current with industry developments. With focused efforts, I am confident he will continue to grow and make significant contributions to Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Arpit's outstanding performance and the value he has added to the organization, including his successful leadership of the compliance team and his contributions to enhancing the company's reputation and customer trust.
+
+
+Signatures
+
+Reporting Manager: Rohan Pillai
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-011

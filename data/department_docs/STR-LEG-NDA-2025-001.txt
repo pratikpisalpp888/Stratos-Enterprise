@@ -1,0 +1,61 @@
+---METADATA---
+Document_ID: STR-LEG-NDA-2025-001
+Department: Legal
+Document_Type: Vendor NDA Template
+Sensitivity_Level: Restricted
+Created_Date: 2025-08-15
+Author: Sonal Kapoor, Data Protection Manager
+---END METADATA---
+
+STRATOS ENTERPRISES VENDOR NON-DISCLOSURE AGREEMENT (NDA) TEMPLATE
+
+This Vendor NDA Template ("Agreement") is entered into on the date set forth below ("Effective Date") by and between Stratos Enterprises, a private limited company incorporated under the laws of India, having its principal place of business at 123, Electronic City, Bangalore - 560100, Karnataka, India ("Stratos"), and [Vendor Name], a [Vendor Type] located at [Vendor Address] ("Vendor").
+
+1. Purpose and Scope
+
+Stratos may disclose to the Vendor certain confidential information (collectively, "Confidential Information") in connection with Stratos' evaluation of the Vendor for potential business relationships, including but not limited to, the provision of software development, consulting, or other services ("Services") to Stratos. Confidential Information may include, but not be limited to, business plans, financial information, technical data, trade secrets, and any other information that Stratos designates as confidential. Confidential Information shall not include information that is (i) already publicly known or becomes publicly known without breach of this Agreement, (ii) obtained by the Vendor from a third party who is not under a confidentiality obligation to Stratos, or (iii) independently developed by the Vendor without use of Stratos' Confidential Information.
+
+2. Obligations of the Vendor
+
+2.1 The Vendor agrees to maintain the confidentiality of all Confidential Information received from Stratos. The Vendor shall not disclose, reveal, report, or otherwise communicate any Confidential Information to any third party without the prior written consent of Stratos.
+
+2.2 The Vendor shall not use any Confidential Information for any purpose other than the evaluation of the Vendor by Stratos and the provision of Services to Stratos, if a business relationship is established.
+
+2.3 The Vendor shall not copy, reproduce, or otherwise duplicate any Confidential Information without the prior written consent of Stratos.
+
+2.4 The Vendor shall return all Confidential Information to Stratos upon written request, and upon termination of this Agreement or the Services.
+
+2.5 The Vendor acknowledges that Stratos has invested significant time, effort, and resources into developing its Confidential Information, and that unauthorized disclosure or use of such information would cause Stratos irreparable harm.
+
+3. Data Protection
+
+3.1 The Vendor shall comply with Stratos' Data Protection Policy ("Policy") as in force from time to time, which may be updated by Stratos in its sole discretion.
+
+3.2 The Vendor acknowledges that Stratos is a SaaS and cloud services company and that it processes personal data of its customers, including but not limited to, data stored on its cloud platform CloudEdge 3.0. The Vendor shall ensure that all personal data received from Stratos is processed in accordance with the Policy and applicable data protection laws.
+
+4. Termination and Remedies
+
+4.1 This Agreement shall terminate upon the earlier of (i) the completion of the evaluation of the Vendor by Stratos, or (ii) the establishment of a business relationship between Stratos and the Vendor.
+
+4.2 In the event of a breach of this Agreement by the Vendor, Stratos shall be entitled to seek injunctive relief and/or damages for any unauthorized disclosure or use of Confidential Information.
+
+5. Governing Law and Jurisdiction
+
+This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of laws principles. Any disputes arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the Indian Arbitration and Conciliation Act, 1996, as amended.
+
+6. Entire Agreement
+
+This Agreement constitutes the entire agreement between Stratos and the Vendor and supersedes all prior or contemporaneous agreements or understandings, if any.
+
+By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+
+---
+
+Sonal Kapoor
+Data Protection Manager
+Stratos Enterprises
+
+[Vendor Signature]
+[Vendor Name]
+[Vendor Title]
+[Vendor Date]

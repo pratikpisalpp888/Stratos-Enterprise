@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-E-013
+Owner_Name: Harsh Vardhan
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-013, STX-E-007, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-003
+Owner Employee ID: STX-E-013
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-013, STX-E-007, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Harsh Vardhan
+Employee ID: STX-E-013
+Department: Engineering
+Designation: DevOps Engineer
+Location: Pune
+Reporting Manager: Vikram Singh, DevOps Team Lead (STX-E-007)
+Employment Type: Full-Time
+Join Date: 2022-09-19
+
+
+Performance Rating Summary
+
+Overall Rating: 4.0 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Harsh led the Kubernetes cluster consolidation effort under Project Helios Phase 2, completing the migration of 14 microservices to the new cluster by July 28 2025, one week ahead of schedule. The consolidation reduced infrastructure overhead costs by approximately 18 percent on a monthly basis.
+
+He designed and implemented an automated alerting and incident response playbook integrated with PagerDuty, reducing mean time to acknowledge critical production incidents from 22 minutes to 8 minutes across the Engineering team.
+
+Harsh successfully onboarded the team to Terraform-based infrastructure-as-code practices, converting 80 percent of manual provisioning tasks to automated pipelines by June 30 2025.
+
+
+Areas of Improvement
+
+Harsh should develop stronger post-incident documentation habits. While his incident response is fast and effective, root cause analysis reports are often brief and lack sufficient detail for long-term architectural review purposes.
+
+Cross-team coordination during high-priority incidents needs improvement. There were two instances in Q2 2025 where stakeholder communication during service degradation events was delayed, causing unnecessary escalations to the Engineering Manager level.
+
+
+Manager Comments
+
+Vikram Singh, DevOps Team Lead:
+
+Harsh is one of the most technically capable DevOps engineers I have worked with in my time at Stratos. His ownership of the Kubernetes migration and automation initiatives has had a measurable impact on team efficiency. I am nominating him for the DevOps Engineer L2 grade in the next promotion review. I would like to see stronger communication habits develop alongside his technical growth in H2 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 14.80 LPA
+Recommended Hike: 13 percent
+Revised CTC: 16.72 LPA
+Effective Date: August 1 2025
+
+Justification: High-impact infrastructure contributions and above-expectation project delivery support an above-band increment.
+
+
+Signatures
+
+Reporting Manager: Vikram Singh
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-003

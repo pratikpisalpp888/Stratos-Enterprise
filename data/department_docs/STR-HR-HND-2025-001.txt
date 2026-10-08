@@ -1,0 +1,55 @@
+---METADATA---
+Document_ID: STR-HR-HND-2025-001
+Department: HR
+Document_Type: Employee Handbook
+Sensitivity_Level: Public
+Created_Date: 2025-08-15
+Author: Sunita Krishnamurthy, Director of People Operations
+---END METADATA---
+
+Stratos Enterprises is committed to fostering a work environment that encourages collaboration, innovation, and growth. As a valued member of our team, we want to ensure that you have all the necessary information to excel in your role and contribute to the success of our organization. This Employee Handbook outlines our policies, procedures, and expectations for all employees.
+
+**1. Code of Conduct**
+
+At Stratos Enterprises, we uphold the highest standards of professionalism and integrity. Our Code of Conduct is based on the following principles:
+
+- Act with honesty and transparency in all interactions with colleagues, clients, and partners.
+- Respect the confidentiality of company information and client data.
+- Avoid conflicts of interest by disclosing any potential conflicts to management.
+- Uphold the intellectual property rights of Stratos Enterprises.
+
+**2. Work Hours and Leave**
+
+- Working hours: Regular working hours are from 9:30 AM to 6:00 PM, Monday to Friday.
+- Overtime: Approval from management is required for overtime work. Overtime hours are paid at a rate of 1.5 times the regular hourly rate.
+- Leave policies: Stratos Enterprises observes a 15-day casual leave policy, 10 days of paid sick leave, and 10 days of bereavement leave per year.
+- Project-specific leaves: For projects with critical timelines, management may approve flexible leave arrangements to ensure project deliverables are met.
+
+**3. Performance Management**
+
+- Performance reviews: Regular performance reviews are conducted every 6 months to assess employee performance and discuss areas for improvement.
+- Goals and objectives: Employees are expected to set and achieve goals aligned with company objectives and project requirements.
+- Feedback and coaching: Regular feedback and coaching sessions are provided to employees to support their growth and development.
+
+**4. Project-Specific Policies**
+
+- Project Helios: Employees working on Project Helios are expected to adhere to the project's specific policies and procedures, including the secure handling of customer data.
+- CloudEdge 3.0: Employees working on CloudEdge 3.0 are expected to participate in Agile ceremonies and adhere to the project's Kanban board for task management.
+
+**5. Employee Benefits**
+
+- Health insurance: Stratos Enterprises provides comprehensive health insurance coverage for employees and their dependents.
+- Employee stock options: Eligible employees are granted employee stock options as part of the company's equity compensation program.
+- Professional development: Stratos Enterprises encourages employees to pursue professional development opportunities, including training and certifications.
+
+**6. Confidentiality and Non-Disclosure**
+
+- Confidential information: Employees are expected to maintain the confidentiality of company information and client data.
+- Non-disclosure agreements: Employees are required to sign non-disclosure agreements (NDAs) when working on projects that involve sensitive client data or confidential company information.
+
+**7. Reporting Incidents and Concerns**
+
+- Reporting incidents: Employees are expected to report any incidents or concerns related to company property, data, or personnel to management promptly.
+- Reporting concerns: Employees are encouraged to raise concerns or suggestions related to company policies, procedures, or culture through our anonymous reporting channel.
+
+By following the guidelines outlined in this Employee Handbook, we aim to maintain a work environment that is respectful, inclusive, and supportive of all employees. If you have any questions or concerns, please reach out to your supervisor or HR representative.

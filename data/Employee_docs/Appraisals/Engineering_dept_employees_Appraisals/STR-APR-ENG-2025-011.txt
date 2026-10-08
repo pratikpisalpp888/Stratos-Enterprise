@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-E-004
+Owner_Name: Neha Kulkarni
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-004, STX-E-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-011
+Owner Employee ID: STX-E-004
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-004, STX-E-001, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Neha Kulkarni
+Employee ID: STX-E-004
+Department: Engineering
+Designation: Platform Engineering Manager
+Location: Bangalore
+Reporting Manager: Arvind Narayanan (STX-E-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Neha successfully led the migration of our core SaaS platform to a microservices architecture, resulting in a 30% reduction in latency and a 25% increase in overall system reliability. This project was completed within the planned 6-month timeline and under budget by 10%. The new architecture has also enabled the engineering team to deploy new features 40% faster. 
+
+Neha's team achieved a 95% uptime for our cloud services during the review period, exceeding the target of 92%. This was made possible through her focus on implementing robust monitoring and alerting systems, as well as proactive maintenance schedules. As a result, customer satisfaction ratings have improved by 12% during this period.
+
+Under Neha's guidance, the platform engineering team reduced the average bug resolution time by 50% through the implementation of automated testing and continuous integration pipelines. This has not only improved the quality of our releases but also freed up 20% of the team's bandwidth to focus on new feature development, resulting in a 15% increase in feature deliveries during the review period.
+
+
+Areas of Improvement
+
+One area for improvement is in knowledge sharing and documentation across teams. While Neha's team has made significant strides in platform development, there is a need for better documentation of technical decisions and processes to facilitate smoother onboarding of new engineers and reduce knowledge silos. This will require Neha to work closely with the technical writing team to develop and implement a comprehensive documentation strategy.
+
+Neha should also focus on further developing her skills in cloud cost optimization. As Stratos Enterprises continues to grow, managing cloud expenses will become increasingly critical. By gaining expertise in this area, Neha can help the organization identify areas of inefficiency and implement cost-saving measures without compromising on performance or reliability.
+
+
+Manager Comments
+
+Arvind Narayanan:
+
+Neha has been an outstanding Platform Engineering Manager, consistently delivering high-quality results and demonstrating a deep understanding of our SaaS platform. Her technical expertise and leadership skills have been invaluable to the team, and her ability to drive complex projects to completion has been impressive. I appreciate her proactive approach to identifying and mitigating potential risks, which has helped us avoid several critical issues. Overall, Neha is a key member of our engineering leadership team, and I look forward to seeing her continued growth and contributions.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Neha's exceptional performance during the review period, which has significantly contributed to the growth and success of Stratos Enterprises.
+
+
+Signatures
+
+Reporting Manager: Arvind Narayanan
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-011

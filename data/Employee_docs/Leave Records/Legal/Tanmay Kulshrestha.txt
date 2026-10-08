@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-L-015
+Owner_Name: Tanmay Kulshrestha
+Department: Legal
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-L-015, STX-L-007, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Tanmay Kulshrestha
+Employee ID         : STX-L-015
+Department          : Legal
+Designation         : Data Privacy Analyst
+Reporting Manager   : Nisha Thomas (STX-L-007)
+Location            : Pune
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          3       0          15
+Casual Leave        8           1       0          7
+Sick Leave          10          2       0          8
+Total               36          6       0          30
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-04-14
+To Date             : 2025-04-15
+Duration            : 2 Days
+Reason              : Ram Navami extended holiday visit to family
+Status              : Approved
+Applied On          : 2025-04-04
+Approved By         : Nisha Thomas, Data Privacy Lead
+Approved On         : 2025-04-05
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-06-09
+To Date             : 2025-06-10
+Duration            : 2 Days
+Reason              : Stomach infection and rest prescribed
+Status              : Approved
+Applied On          : 2025-06-09
+Approved By         : Nisha Thomas, Data Privacy Lead
+Approved On         : 2025-06-10
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-08-04
+To Date             : 2025-08-04
+Duration            : 1 Day
+Reason              : Personal banking and documentation work
+Status              : Approved
+Applied On          : 2025-08-02
+Approved By         : Nisha Thomas, Data Privacy Lead
+Approved On         : 2025-08-02
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-29
+To Date             : 2025-09-29
+Duration            : 1 Day
+Reason              : Personal occasion
+Status              : Approved
+Applied On          : 2025-09-26
+Approved By         : Nisha Thomas, Data Privacy Lead
+Approved On         : 2025-09-26
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 15 Days
+Casual Leave Remaining    : 7 Days
+Sick Leave Remaining      : 8 Days
+Total Remaining           : 30 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-L-015-2025

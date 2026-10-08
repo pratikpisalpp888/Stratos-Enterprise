@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-002
+Owner_Name: Abhishek Pandey
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-002, STX-HR-001, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Abhishek Pandey
+Employee ID         : STX-HR-002
+Department          : HR
+Designation         : HR Operations Manager
+Reporting Manager   : Sunita Krishnamurthy (STX-HR-001)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          5       0         13
+Casual Leave        8           2       0         6
+Sick Leave          10          1       0         9
+Total               36          8       0         28
+
+
+Leave History
+
+1
+Leave Type          : Annual Leave
+From Date           : 2025-01-02
+To Date             : 2025-01-04
+Duration            : 3 Days
+Reason              : Family Vacation
+Status              : Approved
+Applied On          : 2024-12-20
+Approved By         : Sunita Krishnamurthy, HR Operations Manager
+Approved On         : 2024-12-22
+
+2
+Leave Type          : Casual Leave
+From Date           : 2025-03-14
+To Date             : 2025-03-14
+Duration            : 1 Day
+Reason              : Personal Errand
+Status              : Approved
+Applied On          : 2025-03-10
+Approved By         : Sunita Krishnamurthy, HR Operations Manager
+Approved On         : 2025-03-11
+
+3
+Leave Type          : Sick Leave
+From Date           : 2025-06-10
+To Date             : 2025-06-12
+Duration            : 3 Days
+Reason              : Illness
+Status              : Approved
+Applied On          : 2025-06-09
+Approved By         : Sunita Krishnamurthy, HR Operations Manager
+Approved On         : 2025-06-09
+
+4
+Leave Type          : Annual Leave
+From Date           : 2025-09-16
+To Date             : 2025-09-18
+Duration            : 3 Days
+Reason              : Family Event
+Status              : Approved
+Applied On          : 2025-09-05
+Approved By         : Sunita Krishnamurthy, HR Operations Manager
+Approved On         : 2025-09-06
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 28 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-STXHR002-2025

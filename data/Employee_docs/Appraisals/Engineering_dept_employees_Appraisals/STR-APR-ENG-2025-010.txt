@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-E-005
+Owner_Name: Rohit Sharma
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-005, STX-E-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-010
+Owner Employee ID: STX-E-005
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-005, STX-E-002, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Rohit Sharma
+Employee ID: STX-E-005
+Department: Engineering
+Designation: Backend Team Lead
+Location: Bangalore
+Reporting Manager: Priya Raman (STX-E-002)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Rohit successfully led the migration of our legacy backend system to a cloud-native architecture, resulting in a 30% reduction in latency and a 25% increase in system uptime. This project was completed within the planned 6-month timeline and stayed within the allocated budget of 1.2 million INR. The new architecture has also improved our scalability, allowing us to handle a 50% increase in user traffic.
+
+Rohit's team achieved a 95% code coverage for our backend services, exceeding the company's target of 90%. This was made possible through his leadership and the implementation of automated testing frameworks, which have reduced the time spent on manual testing by 40%. As a result, the team has been able to focus more on feature development and less on defect fixing.
+
+Under Rohit's guidance, the backend team reduced the average time to resolve critical bugs by 50%, from 24 hours to 12 hours. This was achieved through the implementation of a new incident management process and the creation of a bug bounty program, which has encouraged more proactive testing and defect reporting. The reduction in bug resolution time has resulted in higher customer satisfaction ratings and fewer support requests.
+
+
+Areas of Improvement
+
+Rohit needs to work on delegating tasks more effectively to his team members, as there have been instances where he has taken on too much responsibility and worked excessive hours. By empowering his team members to take on more ownership, Rohit can free up time to focus on strategic initiatives and reduce the risk of burnout. This can be achieved by setting clear goals and expectations, providing regular feedback, and offering training and development opportunities.
+
+Rohit should focus on improving his communication with stakeholders, particularly during project planning and execution phases. There have been instances where stakeholders have not been adequately informed about project timelines, milestones, and progress. By maintaining open and transparent communication channels, Rohit can ensure that stakeholders are well-informed and aligned with project goals, reducing the risk of misunderstandings and misaligned expectations.
+
+
+Manager Comments
+
+Priya Raman:
+
+Rohit has been an invaluable member of the engineering team, consistently delivering high-quality results and demonstrating his technical expertise. His leadership skills have been impressive, and he has done a great job of mentoring his team members and helping them grow in their roles. One area where Rohit can improve is in his ability to communicate complex technical concepts to non-technical stakeholders. With some additional training and practice, I am confident that Rohit can become an even more effective leader and ambassador for Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Rohit's outstanding performance during the review period, his value to the organization, and industry benchmarks for similar roles.
+
+
+Signatures
+
+Reporting Manager: Priya Raman
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-010

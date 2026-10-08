@@ -1,0 +1,85 @@
+---METADATA---
+Owner_Employee_ID: STX-L-009
+Owner_Name: Pooja Nambiar
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-009, STX-L-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-015
+Owner Employee ID: STX-L-009
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-009, STX-L-003, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Pooja Nambiar
+Employee ID: STX-L-009
+Department: Legal
+Designation: Vendor Contract Lead
+Location: Bangalore
+Reporting Manager: Rohan Pillai (STX-L-003)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Pooja successfully led the renegotiation of contracts with two major vendors, resulting in a 15% reduction in costs and improved service levels. Her exceptional negotiation skills and ability to build strong relationships with stakeholders enabled her to achieve this significant outcome. This achievement has a direct impact on the company's bottom line, showcasing her value to the organization.
+
+Pooja also took the lead in developing and implementing a vendor management framework, which has improved the overall efficiency and effectiveness of vendor engagement. This framework has been well-received by the team and has resulted in a significant reduction in time spent on vendor-related tasks. Her initiative and leadership in this area have set a new standard for vendor management within the company.
+
+Furthermore, Pooja was instrumental in identifying and mitigating potential risks associated with vendor contracts. Her proactive approach and attention to detail have helped to minimize the risk of non-compliance and potential litigation. This achievement demonstrates her commitment to upholding the company's values and ensuring the highest standards of business conduct.
+
+Areas of Improvement
+
+To further enhance her performance, Pooja should focus on developing her analytical skills to better evaluate vendor performance and identify areas for improvement. While she has demonstrated excellent negotiation skills, there may be opportunities to leverage her expertise to drive more cost savings through more strategic vendor partnerships.
+
+Additionally, Pooja should prioritize documentation and process standardization to ensure that her work is easily replicable and scalable. This will enable the team to build on her achievements and continue to drive efficiency improvements. By developing these skills, Pooja will be well-positioned to take on more senior roles within the company and contribute to its continued growth and success.
+
+Manager Comments
+
+Rohan Pillai:
+
+Pooja has been an invaluable member of our team, consistently delivering high-quality results and demonstrating exceptional leadership skills. Her ability to build strong relationships with stakeholders and drive results has been impressive, and I am grateful for her contributions to our team's success. While there are areas for improvement, I am confident that with the right support and development, Pooja will continue to excel in her role and make significant contributions to the company's growth.
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Rohan Pillai
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-015

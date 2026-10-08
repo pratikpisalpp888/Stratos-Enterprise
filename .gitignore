@@ -1,0 +1,35 @@
+# Python & Virtual Environments
+backend/venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+backend/logs/
+
+# Secrets & Environment variables (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+frontend/boomerang/.env
+frontend/boomerang/.env.*
+!frontend/boomerang/.env.example
+
+# Node / Frontend
+frontend/boomerang/node_modules/
+frontend/boomerang/.next/
+frontend/boomerang/out/
+frontend/boomerang/build/
+.pnp
+.pnp.js
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

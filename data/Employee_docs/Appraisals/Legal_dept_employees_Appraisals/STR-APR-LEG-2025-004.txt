@@ -1,0 +1,106 @@
+---METADATA---
+Owner_Employee_ID: STX-L-013
+Owner_Name: Divyanshi Srivastava
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-013, STX-L-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-004
+Owner Employee ID: STX-L-013
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-013, STX-L-005, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-13
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Divyanshi Srivastava
+Employee ID: STX-L-013
+Department: Legal
+Designation: Legal Executive
+Location: Bangalore
+Reporting Manager: Kavya Iyer, Corporate Contracts Lead (STX-L-005)
+Employment Type: Full-Time
+Join Date: 2023-09-05
+
+
+Performance Rating Summary
+
+Overall Rating: 3.4 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Divyanshi maintained the contract repository and document management
+system for the Legal department throughout H1 2025, ensuring 100 percent
+document version control compliance and reducing retrieval time for
+archived contracts by approximately 40 percent through improved folder
+taxonomy.
+
+She assisted in the preparation of 12 NDA agreements for new vendor
+onboarding in Q1 and Q2 2025, completing all drafts within 2 business
+days of request with minimal revisions required.
+
+
+Areas of Improvement
+
+Divyanshi needs to take greater initiative in her day-to-day work. Her
+current contributions are largely reactive and task-based. For growth at
+Stratos she needs to begin identifying process gaps and proposing
+improvements without being prompted by senior team members.
+
+She should invest in developing substantive legal research skills. Several
+assignments that required regulatory background research were returned for
+rework because the research was insufficiently thorough, suggesting a need
+for stronger legal database proficiency.
+
+
+Manager Comments
+
+Kavya Iyer, Corporate Contracts Lead:
+
+Divyanshi is reliable for administrative and document management tasks
+and her repository work has genuinely improved team efficiency. To grow
+into a more substantive legal role she needs to push herself beyond
+execution and develop stronger legal reasoning and research skills.
+I would encourage her to take on at least one independent research
+assignment per month in H2 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.80 LPA
+Recommended Hike: 8 percent
+Revised CTC: 8.42 LPA
+Effective Date: August 1 2025
+
+Justification: Standard increment aligned with Meets Expectations rating
+and tenure band.
+
+
+Signatures
+
+Reporting Manager: Kavya Iyer
+Date: 2025-07-11
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-13
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-004

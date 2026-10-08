@@ -1,0 +1,102 @@
+STRATOS ENTERPRISES
+Engineering Department - Quarterly Budget Report Q3 2025
+
+Document ID: STR-ENG-Q3-2025-009
+Department: Engineering
+Document Type: Quarterly Budget Report
+Period: July 1 2025 to September 30 2025
+Sensitivity Level: Restricted
+Owner Role: Director
+Created Date: 2025-10-08
+Author: Raghav Bansal, Director of Finance
+Reviewed By: Shreya Mukherjee, Finance Operations Manager
+Approved By: Nandita Rao, Financial Planning Manager
+
+STRATOS ENTERPRISES
+ENGINEERING QUARTERLY BUDGET REPORT Q3 2025
+STRICTLY CONFIDENTIAL EXECUTIVE DISTRIBUTION ONLY
+
+
+1. EXECUTIVE SUMMARY
+
+The Engineering department closed Q3 2025 with total expenditure of 7.21 crore rupees against an approved quarterly budget of 6.80 crore rupees, resulting in a variance of +41 lakh rupees which is 6.0 percent over budget. The variance falls within the board-approved contingency threshold of less than or equal to 8 percent and is primarily attributable to accelerated hiring under Project Helios and unplanned cloud infrastructure optimization costs.
+
+Engineering headcount increased from 162 to 170 during Q3, reflecting 8 new hires across Backend, DevOps, and QA teams. Two senior lateral hires were approved mid-quarter to support the CloudEdge 3.0 release scheduled for November 2025.
+
+
+2. BUDGET BREAKDOWN Q3 2025
+
+Category: Salaries and Benefits
+Approved: 4.95 Cr
+Actual: 5.22 Cr
+Variance: +27 L
+
+Category: Cloud Infrastructure AWS and GCP
+Approved: 0.92 Cr
+Actual: 1.08 Cr
+Variance: +16 L
+
+Category: Software Licenses and Tools
+Approved: 0.38 Cr
+Actual: 0.34 Cr
+Variance: -4 L
+
+Category: Hardware and Workstations
+Approved: 0.31 Cr
+Actual: 0.29 Cr
+Variance: -2 L
+
+Category: Training and Certifications
+Approved: 0.24 Cr
+Actual: 0.19 Cr
+Variance: -5 L
+
+Total Approved: 6.80 Cr
+Total Actual: 7.21 Cr
+Total Variance: +41 L
+
+Salary variance is mainly driven by the onboarding of two Senior Software Engineers with CTC of 24 LPA each, effective August 12 and September 2 2025. Additionally, variable performance bonuses for Q2 spillover of 6.8 lakh rupees were processed in July.
+
+Cloud infrastructure overspend of 16 lakh rupees is linked to increased usage under Project Helios Phase 2, including migration of legacy analytics workloads to AWS Mumbai region. Average monthly AWS spend rose from 28 lakh rupees in Q2 average to 36 lakh rupees in September due to extended parallel run of old and new clusters.
+
+
+3. PROJECT SPECIFIC EXPENDITURE
+
+3.1 Project Helios Infrastructure Modernization
+
+Q3 spend: 1.42 crore rupees
+
+Key milestones completed:
+Kubernetes cluster consolidation completed July 28 2025.
+Database sharding rollout completed September 14 2025.
+
+Phase 2 cost exceeded projection by 9.5 lakh rupees due to additional storage provisioning for high-availability replication.
+
+3.2 CloudEdge 3.0 Release
+
+Development and QA allocation for Q3: 82 lakh rupees.
+Release remains on schedule for November 18 2025.
+
+Security audit expenses of 4.2 lakh rupees were incurred following external penetration testing conducted by SecureLayer Labs on September 9 to 11 2025.
+
+
+4. Q4 FORECAST AND CONTROLS
+
+Approved Q4 Engineering budget stands at 7.05 crore rupees. Given Q3 trends, Finance department recommends the following actions.
+
+Freeze on non-critical lateral hiring until December 2025.
+Cloud cost monitoring dashboard implementation by October 20 2025.
+Quarterly vendor renegotiation for enterprise SaaS licenses.
+
+Projected FY2025 Engineering spend is 26.9 crore rupees versus annual allocation of 26.2 crore rupees. Final variance will depend on Q4 infrastructure ramp-down post Helios migration completion.
+
+
+5. AUTHORIZATION
+
+Prepared By: Raghav Bansal, Director of Finance
+Reviewed By: Shreya Mukherjee, Finance Operations Manager
+Approved By: Nandita Rao, Financial Planning Manager
+
+This document contains sensitive operational and financial data. Unauthorized access, duplication, or disclosure is strictly prohibited under Stratos Enterprises Information Security Policy Rev 4.2.
+
+END OF DOCUMENT STR-ENG-Q3-2025-009

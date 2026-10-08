@@ -1,0 +1,50 @@
+---METADATA---
+Document_ID: STR-SAL-OBG-2025-001
+Department: Sales
+Document_Type: Sales Team Onboarding Guide
+Sensitivity_Level: Public
+Created_Date: 2025-08-15
+Author: Vivek Anand, Director of Sales
+---END METADATA---
+
+As new members join the Sales team at Stratos Enterprises, it is essential that you understand the company's products, services, and sales processes to effectively represent our brand and meet customer needs. This guide outlines the key steps and requirements for onboarding into the Sales team.
+
+**Understanding Stratos Enterprises**
+
+Stratos Enterprises is a SaaS and cloud services company headquartered in Bangalore, India. Our product portfolio includes CloudEdge 3.0, a cloud-based edge computing platform, and Project Helios, a cloud security solution. Our sales teams operate across multiple regions, including APAC, EMEA, and the Americas.
+
+**Sales Process Overview**
+
+Our sales process follows a structured approach:
+
+1. **Needs Analysis**: Identify customer pain points and requirements through discovery calls or meetings.
+2. **Product Demonstration**: Showcase our products, such as CloudEdge 3.0 and Project Helios, to demonstrate their value proposition.
+3. **Solution Presentation**: Present a customized solution to address the customer's needs.
+4. **Proposal and Pricing**: Provide a detailed proposal, including pricing and contract terms.
+5. **Deal Closure**: Negotiate and close the deal, ensuring a smooth onboarding process for the customer.
+
+**Key Policies and Procedures**
+
+1. **Compliance with Sales Policies**: Familiarize yourself with our Sales Policy Manual, which outlines guidelines for sales practices, revenue recognition, and data integrity.
+2. **Data Protection**: Ensure compliance with data protection regulations, such as GDPR and CCPA, when engaging with customers and handling sensitive information.
+3. **Conflict of Interest**: Declare any potential conflicts of interest, such as relationships with customers or vendors, to your manager or the Sales Director.
+4. **Revenue Recognition**: Adhere to our revenue recognition policy, as outlined in our Accounting Policy Manual, to accurately track and report sales revenue.
+
+**Onboarding Checklist**
+
+To ensure a smooth onboarding experience, please complete the following tasks within the first two weeks of joining the Sales team:
+
+1. **Product Training**: Complete theCloudEdge 3.0 and Project Helios product training sessions, which cover product features, benefits, and sales strategies.
+2. **Sales Process Training**: Attend the sales process training session, which covers our sales methodology, deal closure best practices, and sales enablement tools.
+3. **Territory Assignment**: Review and understand your assigned territory, including customer lists, competitor analysis, and market trends.
+4. **Manager Introduction**: Schedule a meeting with your manager to discuss your sales goals, performance metrics, and any questions or concerns you may have.
+
+**Additional Resources**
+
+For further information and support, please refer to the following resources:
+
+1. **Sales Playbook**: A comprehensive guide outlining our sales strategies, tactics, and best practices for each product and solution.
+2. **Sales Enablement Portal**: A centralized platform providing access to sales content, including product datasheets, case studies, and sales sheets.
+3. **Sales Team Email**: Regular email updates from your manager and the Sales Director, including sales tips, product updates, and company news.
+
+By following this onboarding guide, you will be well-equipped to succeed in your role as a Sales representative at Stratos Enterprises. If you have any questions or concerns, please do not hesitate to reach out to your manager or the Sales Director.

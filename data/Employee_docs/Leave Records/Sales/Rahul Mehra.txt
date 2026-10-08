@@ -1,0 +1,93 @@
+---METADATA---
+Owner_Employee_ID: STX-S-009
+Owner_Name: Rahul Mehra
+Department: Sales
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-S-009, STX-S-003, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Rahul Mehra
+Employee ID         : STX-S-009
+Department          : Sales
+Designation         : Key Accounts Lead
+Reporting Manager   : Imran Qureshi (STX-S-003)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          6       0         12
+Casual Leave        8           2       0         6
+Sick Leave          10          3       0         7
+Total               36          11      0         25
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-01
+To Date             : 2025-01-05
+Duration            : 5 Days
+Reason              : New Year Vacation
+Status              : Approved
+Applied On          : 2024-12-20
+Approved By         : Imran Qureshi, Key Accounts Lead
+Approved On         : 2024-12-22
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-03-17
+To Date             : 2025-03-18
+Duration            : 2 Days
+Reason              : Family Event
+Status              : Approved
+Applied On          : 2025-03-10
+Approved By         : Imran Qureshi, Key Accounts Lead
+Approved On         : 2025-03-12
+
+Entry 3
+Leave Type          : Sick Leave
+From Date           : 2025-06-01
+To Date             : 2025-06-03
+Duration            : 3 Days
+Reason              : Illness
+Status              : Approved
+Applied On          : 2025-05-31
+Approved By         : Imran Qureshi, Key Accounts Lead
+Approved On         : 2025-06-02
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-20
+To Date             : 2025-09-25
+Duration            : 6 Days
+Reason              : International Travel
+Status              : Approved
+Applied On          : 2025-09-01
+Approved By         : Imran Qureshi, Key Accounts Lead
+Approved On         : 2025-09-03
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 12 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 7 Days
+Total Remaining           : 25 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-STXS009-2025

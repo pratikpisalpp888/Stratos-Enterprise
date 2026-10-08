@@ -1,0 +1,102 @@
+STRATOS ENTERPRISES
+HR Department - Quarterly Budget Report Q3 2025
+
+Document ID: STR-HR-Q3-2025-004
+Department: HR
+Document Type: Quarterly Budget Report
+Period: July 1 2025 to September 30 2025
+Sensitivity Level: Restricted
+Owner Role: Director
+Created Date: 2025-10-05
+Author: Raghav Bansal, Director of Finance
+Reviewed By: Shreya Mukherjee, Finance Operations Manager
+Approved By: Amitabh Joshi, Tax Manager
+
+STRATOS ENTERPRISES
+HR QUARTERLY BUDGET REPORT Q3 2025
+STRICTLY CONFIDENTIAL INTERNAL DISTRIBUTION ONLY
+
+
+1. OVERVIEW
+
+The HR People Operations budget for Q3 2025 was approved at 1.75 crore rupees during the annual planning cycle in March 2025. Actual expenditure for the quarter closed at 1.82 crore rupees, reflecting a variance of +7 lakh rupees which is 4.0 percent over budget. The increase is primarily attributed to accelerated hiring under Project Vistaar which is an Engineering workforce expansion initiative and higher than anticipated medical insurance premiums effective August 1 2025.
+
+The Q3 HR budget covered recruitment operations, employee engagement programs, training and development, payroll administration costs, and statutory compliance expenditure.
+
+
+2. BUDGET BREAKDOWN Q3 2025
+
+Category: Recruitment and Hiring Costs
+Approved: 52.00 L
+Actual: 61.40 L
+Variance: +9.40 L
+
+Category: Employee Engagement Programs
+Approved: 18.00 L
+Actual: 16.75 L
+Variance: -1.25 L
+
+Category: Training and Certifications
+Approved: 27.00 L
+Actual: 24.90 L
+Variance: -2.10 L
+
+Category: Payroll Admin and HR Systems
+Approved: 31.50 L
+Actual: 30.80 L
+Variance: -0.70 L
+
+Category: Insurance and Benefits
+Approved: 28.00 L
+Actual: 33.20 L
+Variance: +5.20 L
+
+Category: Compliance and Legal Filings
+Approved: 18.50 L
+Actual: 15.95 L
+Variance: -2.55 L
+
+Total Approved: 1.75 Cr
+Total Actual: 1.82 Cr
+Total Variance: +7.00 L
+
+Recruitment overspend of 9.40 lakh rupees is directly linked to 14 mid-quarter hires approved between July 10 and September 12 2025, including 8 engineers and 4 sales executives. External recruitment agency fees accounted for 6.8 lakh rupees of this variance.
+
+Insurance and Benefits increased due to renewal of the corporate health policy with Star Health effective August 1 2025, where per-employee premium rose from 18750 rupees to 21300 rupees annually following revised actuarial projections.
+
+
+3. KEY INITIATIVES IMPACTING Q3 SPEND
+
+3.1 Project Vistaar - Workforce Expansion Engineering
+
+Approved by the CTO office on June 28 2025, this initiative required accelerated onboarding timelines. Background verification and relocation support costs increased by 4.2 lakh rupees over projections.
+
+3.2 Learning and Development
+
+Certification reimbursements under the Cloud First 2025 program totaled 11.6 lakh rupees for Q3. However, participation was 12 percent lower than forecast, leading to net savings in training allocation.
+
+3.3 Engagement Programs
+
+The annual Stratos Udaan Townhall event held on September 6 2025 at Bangalore HQ came in under budget at 8.4 lakh rupees versus 10 lakh rupees allocated, due to vendor negotiation savings.
+
+
+4. Q4 FORECAST AND CONTROLS
+
+Projected Q4 HR budget stands at 1.68 crore rupees. Given Q3 overspend, the Finance department recommends:
+
+Freeze on external agency hiring above Band E3 without Director approval.
+Mandatory cost-benefit review for certification reimbursements above 1 lakh rupees.
+Re-evaluation of insurance co-pay structures before FY2026 renewal.
+
+A joint HR-Finance budget review meeting is scheduled for November 14 2025 to assess headcount alignment with FY2026 projections.
+
+
+5. APPROVAL
+
+Prepared By: Raghav Bansal, Director of Finance
+Reviewed By: Shreya Mukherjee, Finance Operations Manager
+Approved By: Amitabh Joshi, Tax Manager
+
+This document contains sensitive financial and compensation-related data. Unauthorized access, duplication, or disclosure is strictly prohibited under Stratos Enterprises Information Security Policy Rev 4.2 2024.
+
+END OF DOCUMENT STR-HR-Q3-2025-004

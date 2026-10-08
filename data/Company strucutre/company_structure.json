@@ -1,0 +1,258 @@
+{
+  "company_profile": {
+    "name": "Stratos Enterprises",
+    "industry": "SaaS / Cloud Services",
+    "founded_year": 2015,
+    "headquarters": "Bangalore, India",
+    "offices": [
+      "Bangalore",
+      "Pune",
+      "Mumbai"
+    ],
+    "total_employees": 500,
+    "revenue_range": "$50M - $100M"
+  },
+  "role_hierarchy": [
+    "Intern",
+    "Employee",
+    "Team Lead",
+    "Manager",
+    "Director",
+    "C-Level"
+  ],
+  "clearance_levels": {
+    "Intern": 1,
+    "Employee": 2,
+    "Team Lead": 3,
+    "Manager": 4,
+    "Director": 5,
+    "C-Level": 6
+  },
+  "sensitivity_levels": {
+    "Public": 1,
+    "Internal": 2,
+    "Confidential": 3,
+    "Restricted": 4
+  },
+  "departments": {
+    "Engineering": {
+      "Intern": [
+        "Software Engineering Intern",
+        "QA Intern"
+      ],
+      "Employee": [
+        "Software Engineer",
+        "DevOps Engineer"
+      ],
+      "Team Lead": [
+        "Tech Lead",
+        "QA Lead"
+      ],
+      "Manager": [
+        "Engineering Manager",
+        "SRE Manager"
+      ],
+      "Director": [
+        "Director of Engineering"
+      ],
+      "C-Level": [
+        "Chief Technology Officer (CTO)"
+      ]
+    },
+    "HR": {
+      "Intern": [
+        "HR Intern",
+        "Recruitment Intern"
+      ],
+      "Employee": [
+        "HR Associate",
+        "Technical Recruiter"
+      ],
+      "Team Lead": [
+        "Recruitment Lead"
+      ],
+      "Manager": [
+        "HR Manager",
+        "Compensation Manager"
+      ],
+      "Director": [
+        "Director of People Operations"
+      ],
+      "C-Level": [
+        "Chief People Officer (CPO)"
+      ]
+    },
+    "Finance": {
+      "Intern": [
+        "Finance Intern",
+        "Accounts Intern"
+      ],
+      "Employee": [
+        "Accountant",
+        "Financial Analyst"
+      ],
+      "Team Lead": [
+        "Payroll Lead"
+      ],
+      "Manager": [
+        "Finance Manager",
+        "Tax Manager"
+      ],
+      "Director": [
+        "Director of Finance"
+      ],
+      "C-Level": [
+        "Chief Financial Officer (CFO)"
+      ]
+    },
+    "Legal": {
+      "Intern": [
+        "Legal Intern"
+      ],
+      "Employee": [
+        "Legal Associate",
+        "Contract Specialist"
+      ],
+      "Team Lead": [
+        "Compliance Lead"
+      ],
+      "Manager": [
+        "Legal Manager",
+        "Data Protection Officer"
+      ],
+      "Director": [
+        "Director of Legal Affairs"
+      ],
+      "C-Level": [
+        "General Counsel"
+      ]
+    },
+    "Sales": {
+      "Intern": [
+        "Sales Intern"
+      ],
+      "Employee": [
+        "Account Executive",
+        "Sales Development Representative"
+      ],
+      "Team Lead": [
+        "Enterprise Sales Lead"
+      ],
+      "Manager": [
+        "Regional Sales Manager"
+      ],
+      "Director": [
+        "Director of Sales"
+      ],
+      "C-Level": [
+        "Chief Revenue Officer (CRO)"
+      ]
+    }
+  },
+  "access_control_rules": {
+    "cross_department_access": {
+      "Intern": [
+        "Public"
+      ],
+      "Employee": [
+        "Public",
+        "Internal"
+      ],
+      "Team Lead": [
+        "Public",
+        "Internal"
+      ],
+      "Manager": [
+        "Public",
+        "Internal",
+        "Confidential"
+      ],
+      "Director": [
+        "Public",
+        "Internal",
+        "Confidential"
+      ],
+      "C-Level": [
+        "Public",
+        "Internal",
+        "Confidential",
+        "Restricted"
+      ]
+    },
+    "department_override_roles": [
+      "Director",
+      "C-Level"
+    ]
+  },
+  "document_metadata_schema": {
+    "doc_id": "string",
+    "title": "string",
+    "department": "Engineering | HR | Finance | Legal | Sales",
+    "owner_role": "role_hierarchy",
+    "min_role_required": "role_hierarchy",
+    "clearance_required": "number (1-6)",
+    "sensitivity_level": "Public | Internal | Confidential | Restricted",
+    "sensitivity_rank": "number (1-4)",
+    "contains_pii": "boolean",
+    "pii_type": [
+      "Employee_Salary",
+      "Bank_Details",
+      "Aadhaar",
+      "Contract_Sensitive"
+    ],
+    "region_scope": "India",
+    "document_type": "Policy | Report | Contract | Technical Doc | Financial Statement",
+    "approval_status": "Draft | Approved | Archived",
+    "created_at": "ISO timestamp",
+    "last_updated": "ISO timestamp",
+    "tags": [
+      "string"
+    ]
+  },
+  "user_session_schema": {
+    "user_id": "string",
+    "name": "string",
+    "department": "string",
+    "role": "role_hierarchy",
+    "clearance_level": "number (1-6)",
+    "region": "India",
+    "employment_type": "Full-Time | Intern | Contract"
+  },
+  "tool_permissions": {
+    "send_email": [
+      "Employee",
+      "Team Lead",
+      "Manager",
+      "Director",
+      "C-Level"
+    ],
+    "approve_leave": [
+      "Manager",
+      "Director",
+      "C-Level"
+    ],
+    "view_payroll": [
+      "Manager",
+      "Director",
+      "C-Level"
+    ],
+    "delete_user_account": [
+      "C-Level"
+    ]
+  },
+  "audit_log_schema": {
+    "log_id": "string",
+    "timestamp": "ISO timestamp",
+    "user_id": "string",
+    "user_role": "string",
+    "query": "string",
+    "retrieved_docs": [
+      "doc_id"
+    ],
+    "access_granted": "boolean",
+    "reason": "string",
+    "tool_called": "string/null",
+    "rbac_violation_detected": "boolean"
+  },
+  "final_access_logic": "ALLOW if user.clearance_level >= document.clearance_required AND document.sensitivity_rank <= allowed_by_role AND (user.department == document.department OR user.role in department_override_roles)"
+}

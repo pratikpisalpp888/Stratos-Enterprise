@@ -1,0 +1,84 @@
+---METADATA---
+Owner_Employee_ID: STX-S-004
+Owner_Name: Neelima Reddy
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-004, STX-S-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-009
+Owner Employee ID: STX-S-004
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-004, STX-S-001, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Neelima Reddy
+Employee ID: STX-S-004
+Department: Sales
+Designation: Enterprise Sales Manager
+Location: Bangalore
+Reporting Manager: Vivek Anand (STX-S-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Neelima successfully led the sales team to close a major deal with a Fortune 500 company, resulting in a revenue increase of 25% for the quarter, with a total contract value of $1.2 million. She also developed and executed a strategic account plan, which led to a 30% increase in sales from existing clients. Additionally, Neelima played a key role in launching a new product line, which generated $500,000 in revenue within the first six months of its launch.
+
+
+Areas of Improvement
+
+Neelima needs to work on improving her sales forecasting accuracy, as there were discrepancies between her forecasts and actual sales numbers in the last quarter. She should focus on developing a more robust forecasting model and providing regular updates to the management team. 
+
+Neelima should also focus on enhancing her team's sales skills, particularly in the areas of cloud security and compliance, to better address the needs of Stratos Enterprises' growing customer base. This can be achieved through targeted training programs and regular performance feedback.
+
+
+Manager Comments
+
+Vivek Anand:
+
+Neelima has been an outstanding performer and a valuable asset to the sales team. Her ability to build strong relationships with clients and identify new business opportunities has been impressive. I appreciate her proactive approach to addressing sales challenges and her willingness to collaborate with cross-functional teams to drive results. Overall, Neelima has demonstrated exceptional leadership skills and a deep understanding of Stratos Enterprises' products and services.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Neelima's exceptional performance, her contributions to the company's revenue growth, and her value to the sales team.
+
+
+Signatures
+
+Reporting Manager: Vivek Anand
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-009

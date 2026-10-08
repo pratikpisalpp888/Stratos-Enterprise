@@ -1,0 +1,74 @@
+---METADATA---
+Owner_Employee_ID: STX-F-008
+Owner_Name: Ritika Chawla
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-008, STX-F-004, HR-Admin]
+---END METADATA---
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ritika Chawla
+Employee ID: STX-F-008
+Department: Finance
+Designation: Financial Reporting Lead
+Location: Bangalore
+Reporting Manager: Nandita Rao (STX-F-004)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+1. Successfully implemented a new reporting system for financial data, resulting in a 30% reduction in reporting time for the team. This system has been well-received by stakeholders and has improved the accuracy of financial reports. Ritika's efforts in implementing this system have positively impacted the team's productivity and efficiency.
+
+2. Led a cross-functional team to analyze and resolve a complex financial discrepancy, which was a major area of concern for the organization. Through her leadership and analytical skills, Ritika was able to identify the root cause of the issue and implement corrective measures to prevent similar discrepancies in the future.
+
+3. Developed and delivered a comprehensive financial reporting framework for the organization, which has improved the transparency and accountability of financial reporting. This framework has been well-received by stakeholders and has improved the organization's financial decision-making capabilities.
+
+Areas of Improvement
+
+1. While Ritika has made significant progress in implementing new reporting systems, there is still room for improvement in terms of user adoption and training. In the next review period, it is expected that Ritika will focus on providing additional training and support to users to ensure seamless adoption of the new system.
+
+2. In the area of financial analysis, Ritika has demonstrated a strong foundation, but there is still room for improvement in terms of advanced analytical techniques and tools. It is expected that Ritika will seek additional training and develop her skills in this area to provide more insights to stakeholders.
+
+Manager Comments
+
+Nandita Rao:
+
+Ritika has consistently demonstrated her value as a Financial Reporting Lead at Stratos Enterprises. Her ability to implement new systems and processes has significantly improved the team's productivity and efficiency. Her leadership skills and analytical abilities have been particularly impressive, and she has been an asset to the team. I believe that Ritika deserves a salary hike of 14% based on her high-impact role execution.
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Nandita Rao
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-015

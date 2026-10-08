@@ -1,0 +1,109 @@
+---METADATA---
+Owner_Employee_ID: STX-E-012
+Owner_Name: Divya Menon
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-012, STX-E-008, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-004
+Owner Employee ID: STX-E-012
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-012, STX-E-008, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Divya Menon
+Employee ID: STX-E-012
+Department: Engineering
+Designation: QA Engineer
+Location: Mumbai
+Reporting Manager: Sneha Patil, QA Team Lead (STX-E-008)
+Employment Type: Full-Time
+Join Date: 2023-03-14
+
+
+Performance Rating Summary
+
+Overall Rating: 3.7 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Divya executed end-to-end regression testing for CloudEdge 3.0 beta release
+covering 340 test cases across 6 modules with a defect detection rate of 94
+percent, which is the highest recorded for a QA Engineer at her tenure level
+in the department.
+
+She automated 28 repetitive manual test cases using Selenium and Python during
+Q2 2025, reducing the regression cycle time from 3 days to 18 hours for the
+authentication and billing modules.
+
+Divya identified a critical data rendering bug in the multi-tenant dashboard
+during pre-release testing on May 22 2025 that had the potential to expose
+tenant-specific configuration data across accounts, allowing Engineering to
+patch it before the beta release window.
+
+
+Areas of Improvement
+
+Divya should invest in API testing skills. Currently her testing coverage is
+strong on UI layer but backend API validation is often left to senior QA
+engineers, creating a dependency that limits her independent contribution on
+full-stack testing cycles.
+
+She needs to improve bug report documentation quality. While defect detection
+is strong, several bug reports filed in Q1 2025 lacked sufficient reproduction
+steps and environment details, causing avoidable back-and-forth with the
+Engineering team.
+
+
+Manager Comments
+
+Sneha Patil, QA Team Lead:
+
+Divya has grown considerably since joining and her automation work in Q2 2025
+has made a real difference to our release velocity. The tenant data bug catch
+was particularly impressive given the complexity of the multi-tenant setup.
+My expectation for H2 2025 is for her to build API testing depth and take
+ownership of a full feature testing cycle independently without supervision.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.60 LPA
+Recommended Hike: 11 percent
+Revised CTC: 9.55 LPA
+Effective Date: August 1 2025
+
+Justification: Above-average defect detection performance and demonstrated
+automation initiative support above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Sneha Patil
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-004

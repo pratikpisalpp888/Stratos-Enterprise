@@ -1,0 +1,111 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-013
+Owner_Name: Arnav Chaudhary
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-013, STX-HR-008, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-004
+Owner Employee ID: STX-HR-013
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-013, STX-HR-008, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-14
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Arnav Chaudhary
+Employee ID: STX-HR-013
+Department: HR
+Designation: Learning and Development Executive
+Location: Bangalore
+Reporting Manager: Vikash Ranjan, Learning and Development Lead (STX-HR-008)
+Employment Type: Full-Time
+Join Date: 2023-06-05
+
+
+Performance Rating Summary
+
+Overall Rating: 3.6 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Arnav coordinated the Cloud First 2025 certification program across
+the Engineering team, managing enrollment, vendor coordination with
+the training provider, and completion tracking for 68 participants,
+achieving an 88 percent completion rate against a target of 80 percent.
+
+He designed and launched the Stratos New Manager Essentials workshop
+in April 2025, a 2-day program attended by 11 newly promoted Team
+Leads and Managers, receiving an average participant satisfaction
+score of 4.3 out of 5.
+
+Arnav managed the LMS platform content library, uploading 24 new
+learning modules in H1 2025 and ensuring all mandatory compliance
+training content was accessible and correctly assigned to relevant
+employee groups before the DPDP training rollout.
+
+
+Areas of Improvement
+
+Arnav should develop skills in learning needs analysis. Current
+training programs are largely designed based on requests from
+department heads without systematic needs assessment, which may
+result in programs that do not address the most critical skill gaps.
+
+He needs to build stronger data analysis capabilities to measure
+training effectiveness. Post-training impact assessments in H1 2025
+were limited to satisfaction scores without any measurement of
+knowledge transfer or on-the-job application.
+
+
+Manager Comments
+
+Vikash Ranjan, Learning and Development Lead:
+
+Arnav has done solid work in H1 2025 particularly on the Cloud First
+program and the New Manager workshop. The areas I want to develop in
+him are learning needs analysis and impact measurement which are both
+critical for elevating the L&D function from activity-based to
+outcomes-based. I am recommending him for an external L&D practitioner
+certification program in Q4 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.20 LPA
+Recommended Hike: 10 percent
+Revised CTC: 9.02 LPA
+Effective Date: August 1 2025
+
+Justification: Above-target program completion rates and new program
+design contribution support moderate above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Vikash Ranjan
+Date: 2025-07-12
+
+HR Representative: Abhishek Pandey
+Date: 2025-07-14
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-004

@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-S-013
+Owner_Name: Ayesha Khan
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-013, STX-S-007, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-004
+Owner Employee ID: STX-S-013
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-013, STX-S-007, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-12
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ayesha Khan
+Employee ID: STX-S-013
+Department: Sales
+Designation: Channel Sales Executive
+Location: Mumbai
+Reporting Manager: Aditya Kulkarni, Channel Sales Lead (STX-S-007)
+Employment Type: Full-Time
+Join Date: 2023-08-14
+
+
+Performance Rating Summary
+
+Overall Rating: 3.7 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Ayesha onboarded 4 new channel partners in H1 2025 including two
+regional IT distributors in Maharashtra, expanding the active partner
+network by 18 percent in the West region. Both new partners generated
+their first deal registrations within 60 days of onboarding.
+
+She managed the quarterly business review cycle for 9 existing channel
+partners in H1 2025, maintaining a partner satisfaction score of 4.2
+out of 5 based on post-QBR feedback surveys, which is the highest in
+the channel team.
+
+
+Areas of Improvement
+
+Ayesha should develop stronger negotiation skills for partner margin
+and discount discussions. Two partner renewal conversations in Q2 2025
+required escalation to the Channel Sales Lead because Ayesha was
+unable to independently navigate pushback on margin terms.
+
+She needs to improve partner pipeline tracking discipline in the CRM.
+Partner-sourced opportunities were updated in Salesforce on average
+4 days after deal registration, creating forecasting gaps that were
+raised in the Q2 pipeline review.
+
+
+Manager Comments
+
+Aditya Kulkarni, Channel Sales Lead:
+
+Ayesha has done well in expanding our partner footprint in Maharashtra
+and her QBR satisfaction scores reflect genuine relationship management
+skill. The focus areas for H2 2025 are negotiation confidence and CRM
+hygiene, both of which are non-negotiable for a channel role at our
+scale. I expect her to step up considerably in these areas.
+
+
+Salary Hike Recommendation
+
+Current CTC: 9.60 LPA
+Recommended Hike: 10 percent
+Revised CTC: 10.56 LPA
+Effective Date: August 1 2025
+
+Justification: Above-standard partner onboarding performance and strong
+partner satisfaction scores support moderate above-band increment.
+
+
+Signatures
+
+Reporting Manager: Aditya Kulkarni
+Date: 2025-07-10
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-12
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-004

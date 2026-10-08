@@ -1,0 +1,176 @@
+[
+  {
+    "request_id": "LR-1001",
+    "employee_id": "STX-F-011",
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-12",
+    "reason": "Personal work",
+    "status": "Approved",
+    "approved_by": "STX-F-005",
+    "created_at": "2026-08-01T16:10:49.472713",
+    "updated_at": "2026-08-01T16:10:50.967525"
+  },
+  {
+    "request_id": "LR-1002",
+    "employee_id": "STX-E-010",
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-17",
+    "reason": "Vacation",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:10:49.472713"
+  },
+  {
+    "request_id": "LR-1003",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "family function",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:10:50.431797"
+  },
+  {
+    "request_id": "LR-1004",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "Apply leave for Raghav Bansal",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:10:50.724566"
+  },
+  {
+    "request_id": "LR-1005",
+    "employee_id": "STX-F-011",
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-12",
+    "reason": "Personal work",
+    "status": "Approved",
+    "approved_by": "STX-F-005",
+    "created_at": "2026-08-01T16:11:26.864075",
+    "updated_at": "2026-08-01T16:11:28.545913"
+  },
+  {
+    "request_id": "LR-1006",
+    "employee_id": "STX-E-010",
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-17",
+    "reason": "Vacation",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:11:26.865763"
+  },
+  {
+    "request_id": "LR-1007",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "family function",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:11:27.822058"
+  },
+  {
+    "request_id": "LR-1008",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "Apply leave for Raghav Bansal",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:11:28.206892"
+  },
+  {
+    "request_id": "LR-1009",
+    "employee_id": "STX-F-011",
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-12",
+    "reason": "Personal work",
+    "status": "Approved",
+    "approved_by": "STX-F-005",
+    "created_at": "2026-08-01T16:18:32.714171",
+    "updated_at": "2026-08-01T16:18:35.228527"
+  },
+  {
+    "request_id": "LR-1010",
+    "employee_id": "STX-E-010",
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-17",
+    "reason": "Vacation",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:18:32.717946"
+  },
+  {
+    "request_id": "LR-1011",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "family function",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:18:34.715958"
+  },
+  {
+    "request_id": "LR-1012",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "Apply leave for Raghav Bansal",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:18:34.973839"
+  },
+  {
+    "request_id": "LR-1013",
+    "employee_id": "STX-F-011",
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-12",
+    "reason": "Personal work",
+    "status": "Approved",
+    "approved_by": "STX-F-005",
+    "created_at": "2026-08-01T16:19:15.677828",
+    "updated_at": "2026-08-01T16:19:18.472098"
+  },
+  {
+    "request_id": "LR-1014",
+    "employee_id": "STX-E-010",
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-17",
+    "reason": "Vacation",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:19:15.680344"
+  },
+  {
+    "request_id": "LR-1015",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "family function",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:19:17.650790"
+  },
+  {
+    "request_id": "LR-1016",
+    "employee_id": "STX-E-010",
+    "start_date": "Dec 20",
+    "end_date": "Dec 22",
+    "reason": "Apply leave for Raghav Bansal",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-01T16:19:18.057523"
+  },
+  {
+    "request_id": "LR-1017",
+    "employee_id": "STX-F-011",
+    "start_date": "tomorrow",
+    "end_date": "tomorrow + 2 days",
+    "reason": "Personal work",
+    "status": "Pending",
+    "approved_by": null,
+    "created_at": "2026-08-11T14:36:55.914371"
+  }
+]

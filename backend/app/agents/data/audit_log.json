@@ -1,0 +1,419 @@
+[
+  {
+    "timestamp": "2026-08-01T16:10:50.431797",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "family function"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:10:50.724566",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "Apply leave for Raghav Bansal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:10:50.967525",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1001",
+      "decision": "Approved"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: STX-F-005 is the verified manager of request LR-1001 (employee: STX-F-011)."
+  },
+  {
+    "timestamp": "2026-08-01T16:10:51.207793",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1002",
+      "decision": "Approved"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: You (STX-F-005) are not authorized to approve leave for STX-E-010 (Manager: STX-E-005)."
+  },
+  {
+    "timestamp": "2026-08-01T16:11:27.822058",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "family function"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:11:28.205165",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "Apply leave for Raghav Bansal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:11:28.545913",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1005",
+      "decision": "Approved"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: STX-F-005 is the verified manager of request LR-1005 (employee: STX-F-011)."
+  },
+  {
+    "timestamp": "2026-08-01T16:11:28.782263",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1006",
+      "decision": "Approved"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: You (STX-F-005) are not authorized to approve leave for STX-E-010 (Manager: STX-E-005)."
+  },
+  {
+    "timestamp": "2026-08-01T16:11:29.032022",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "STX-F-001",
+      "field": "salary",
+      "new_value": "null"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T16:11:31.301865",
+    "user_id": "STX-F-001",
+    "user_name": "Raghav Bansal",
+    "user_role": "Director",
+    "user_department": "Finance",
+    "tool_name": "generate_department_report",
+    "tool_args": {
+      "department": "Legal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: Executive clearance (level 3) allows cross-department report generation."
+  },
+  {
+    "timestamp": "2026-08-01T16:18:34.715958",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "family function"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:18:34.973839",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "Apply leave for Raghav Bansal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:18:35.226518",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1009",
+      "decision": "Approved"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: STX-F-005 is the verified manager of request LR-1009 (employee: STX-F-011)."
+  },
+  {
+    "timestamp": "2026-08-01T16:18:35.447712",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1010",
+      "decision": "Approved"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: You (STX-F-005) are not authorized to approve leave for STX-E-010 (Manager: STX-E-005)."
+  },
+  {
+    "timestamp": "2026-08-01T16:18:35.703774",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "STX-F-001",
+      "field": "salary",
+      "new_value": "null"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T16:18:36.027176",
+    "user_id": "STX-F-001",
+    "user_name": "Raghav Bansal",
+    "user_role": "Director",
+    "user_department": "Finance",
+    "tool_name": "generate_department_report",
+    "tool_args": {
+      "department": "Legal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: Executive clearance (level 3) allows cross-department report generation."
+  },
+  {
+    "timestamp": "2026-08-01T16:19:17.649766",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "family function"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-E-010."
+  },
+  {
+    "timestamp": "2026-08-01T16:19:18.055772",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "Dec 20",
+      "end_date": "Dec 22",
+      "reason": "Apply leave for Raghav Bansal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for caller (STX-E-010); requested target Raghav Bansal overridden to caller."
+  },
+  {
+    "timestamp": "2026-08-01T16:19:18.470794",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1013",
+      "decision": "Approved"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: STX-F-005 is the verified manager of request LR-1013 (employee: STX-F-011)."
+  },
+  {
+    "timestamp": "2026-08-01T16:19:18.775420",
+    "user_id": "STX-F-005",
+    "user_name": "Kunal Mehta",
+    "user_role": "Team Lead",
+    "user_department": "Finance",
+    "tool_name": "approve_leave",
+    "tool_args": {
+      "request_id": "LR-1014",
+      "decision": "Approved"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: You (STX-F-005) are not authorized to approve leave for STX-E-010 (Manager: STX-E-005)."
+  },
+  {
+    "timestamp": "2026-08-01T16:19:19.176437",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "STX-F-001",
+      "field": "salary",
+      "new_value": "null"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T16:19:19.399208",
+    "user_id": "STX-F-001",
+    "user_name": "Raghav Bansal",
+    "user_role": "Director",
+    "user_department": "Finance",
+    "tool_name": "generate_department_report",
+    "tool_args": {
+      "department": "Legal"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: Executive clearance (level 3) allows cross-department report generation."
+  },
+  {
+    "timestamp": "2026-08-01T17:03:24.149834",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "your_employee_id",
+      "field": "password",
+      "new_value": "new_password"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T17:03:48.127080",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "your_employee_id",
+      "field": "role",
+      "new_value": "Admin"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T17:04:11.989420",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "check_leave_balance",
+    "tool_args": {},
+    "allowed": true,
+    "decision_reason": "Permission granted: Checking own records (STX-E-010)."
+  },
+  {
+    "timestamp": "2026-08-01T17:05:02.428738",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "null",
+      "field": "access_level",
+      "new_value": "backend_access"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T17:18:04.735228",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": null,
+      "field": "access_level",
+      "new_value": "Sensitive"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-01T17:32:46.375249",
+    "user_id": "STX-E-010",
+    "user_name": "Meera Nair",
+    "user_role": "Employee",
+    "user_department": "Engineering",
+    "tool_name": "update_employee_record",
+    "tool_args": {
+      "target_employee_id": "your_employee_id",
+      "field": "role",
+      "new_value": "admin"
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: HR record updates require HR-Admin privileges (Your department: Engineering, Role: Employee)."
+  },
+  {
+    "timestamp": "2026-08-11T14:36:55.909854",
+    "user_id": "STX-F-011",
+    "user_name": "Manoj Tiwari",
+    "user_role": "Employee",
+    "user_department": "Finance",
+    "tool_name": "apply_leave",
+    "tool_args": {
+      "start_date": "tomorrow",
+      "end_date": "tomorrow + 2 days",
+      "reason": "Personal work"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted for self-action by STX-F-011."
+  }
+]

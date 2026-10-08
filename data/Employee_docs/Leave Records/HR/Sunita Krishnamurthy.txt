@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-001
+Owner_Name: Sunita Krishnamurthy
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-001, None, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Sunita Krishnamurthy
+Employee ID         : STX-HR-001
+Department          : HR
+Designation         : Director of People Operations
+Reporting Manager   : None (None)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          5       0         13
+Casual Leave        8           2       0         6
+Sick Leave          10          1       0         9
+Total               36          8       0         28
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-01
+To Date             : 2025-01-05
+Duration            : 5 Days
+Reason              : New Year's Vacation
+Status              : Approved
+Applied On          : 2024-12-20
+Approved By         : None, Director of People Operations
+Approved On         : 2024-12-22
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-03-17
+To Date             : 2025-03-18
+Duration            : 2 Days
+Reason              : Personal Errands
+Status              : Approved
+Applied On          : 2025-03-10
+Approved By         : None, Director of People Operations
+Approved On         : 2025-03-12
+
+Entry 3
+Leave Type          : Sick Leave
+From Date           : 2025-06-01
+To Date             : 2025-06-01
+Duration            : 1 Day
+Reason              : Illness
+Status              : Approved
+Applied On          : 2025-05-31
+Approved By         : None, Director of People Operations
+Approved On         : 2025-06-02
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-21
+To Date             : 2025-09-25
+Duration            : 5 Days
+Reason              : Family Event
+Status              : Approved
+Applied On          : 2025-09-01
+Approved By         : None, Director of People Operations
+Approved On         : 2025-09-03
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 28 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-STXHR001-2025

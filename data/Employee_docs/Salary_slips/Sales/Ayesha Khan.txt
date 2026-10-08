@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-S-013
+Owner_Name: Ayesha Khan
+Department: Sales
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-S-013, STX-S-007, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Ayesha Khan
+Employee ID         : STX-S-013
+Department          : Sales
+Designation         : Channel Sales Executive
+Role Level          : Employee
+Location            : Mumbai
+Date of Joining     : 2023-08-14
+PAN                 : STUXX8812X
+Bank Account        : XXXX XXXX XXXX 1190
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 44,000
+House Rent Allowance (HRA)          : INR 17,600
+Special Allowance                   : INR 12,400
+Performance Bonus                   : INR 6,000
+Gross Salary                        : INR 80,000
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 5,280
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 7,200
+Total Deductions                    : INR 12,680
+
+
+Net Salary (Take Home)              : INR 67,320
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 10,56,000
+Monthly CTC                         : INR 88,000
+Effective from August 1 2025 post appraisal increment of 10 percent
+over previous CTC of INR 9,60,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-S-013-SEP2025

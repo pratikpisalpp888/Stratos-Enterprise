@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-011
+Owner_Name: Tejas Kulkarni
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-011, STX-HR-005, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Tejas Kulkarni
+Employee ID         : STX-HR-011
+Department          : HR
+Designation         : Technical Recruiter
+Reporting Manager   : Priyanka Venkatesh (STX-HR-005)
+Location            : Pune
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          4       0          14
+Casual Leave        8           2       0          6
+Sick Leave          10          1       0          9
+Total               36          7       0          29
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-20
+To Date             : 2025-01-22
+Duration            : 3 Days
+Reason              : Family function in Kolhapur
+Status              : Approved
+Applied On          : 2025-01-10
+Approved By         : Priyanka Venkatesh, Recruitment Lead
+Approved On         : 2025-01-11
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-04-15
+To Date             : 2025-04-15
+Duration            : 1 Day
+Reason              : Fever and rest prescribed
+Status              : Approved
+Applied On          : 2025-04-15
+Approved By         : Priyanka Venkatesh, Recruitment Lead
+Approved On         : 2025-04-16
+
+Entry 3
+Leave Type          : Annual Leave
+From Date           : 2025-07-28
+To Date             : 2025-07-28
+Duration            : 1 Day
+Reason              : Personal travel
+Status              : Approved
+Applied On          : 2025-07-25
+Approved By         : Priyanka Venkatesh, Recruitment Lead
+Approved On         : 2025-07-25
+
+Entry 4
+Leave Type          : Casual Leave
+From Date           : 2025-09-08
+To Date             : 2025-09-09
+Duration            : 2 Days
+Reason              : Home renovation support
+Status              : Approved
+Applied On          : 2025-09-05
+Approved By         : Priyanka Venkatesh, Recruitment Lead
+Approved On         : 2025-09-05
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 14 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 29 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-HR-011-2025

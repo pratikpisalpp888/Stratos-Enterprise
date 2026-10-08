@@ -1,0 +1,86 @@
+---METADATA---
+Owner_Employee_ID: STX-F-011
+Owner_Name: Manoj Tiwari
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-011, STX-F-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-002
+Owner Employee ID: STX-F-011
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-011, STX-F-005, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-11
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Manoj Tiwari
+Employee ID: STX-F-011
+Department: Finance
+Designation: Accountant
+Location: Bangalore
+Reporting Manager: Kunal Mehta, Accounts Payable Lead (STX-F-005)
+Employment Type: Full-Time
+Join Date: 2023-01-17
+
+
+Performance Rating Summary
+
+Overall Rating: 3.4 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Manoj processed and reconciled over 1,400 vendor invoices in H1 2025 with an accuracy rate of 99.1 percent, meeting departmental benchmarks consistently across all six months.
+
+He identified a duplicate payment entry of 3.2 lakh rupees in the March 2025 accounts payable cycle that had been incorrectly flagged as cleared, preventing a potential financial discrepancy in the Q1 closing.
+
+
+Areas of Improvement
+
+Manoj needs to improve turnaround time on urgent payment processing requests. On four occasions in H1 2025, priority vendor payments were delayed by more than 2 business days beyond the committed SLA, requiring escalation to the Accounts Payable Lead.
+
+He should invest in understanding the broader financial reporting cycle. Currently his work is siloed to transactional processing, and a stronger grasp of how payable data feeds into monthly P&L reporting would improve his overall contribution.
+
+
+Manager Comments
+
+Kunal Mehta, Accounts Payable Lead:
+
+Manoj is diligent and careful in his work and his accuracy numbers speak for themselves. The duplicate payment catch in March was a good example of attention to detail. My expectation for H2 2025 is for him to be more proactive about flagging potential delays before they become escalations and to take greater ownership of his SLA commitments.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.50 LPA
+Recommended Hike: 8 percent
+Revised CTC: 8.10 LPA
+Effective Date: August 1 2025
+
+Justification: Meets Expectations rating with standard tenure-based increment.
+
+
+Signatures
+
+Reporting Manager: Kunal Mehta
+Date: 2025-07-09
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-11
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-002

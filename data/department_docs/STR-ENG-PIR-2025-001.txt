@@ -1,0 +1,50 @@
+---METADATA---
+Document_ID: STR-ENG-PIR-2025-001
+Department: Engineering
+Document_Type: Production Incident Report
+Sensitivity_Level: Confidential
+Created_Date: 2025-08-15
+Author: Neha Kulkarni, Platform Engineering Manager
+---END METADATA---
+
+**Production Incident Report**
+
+**Incident ID:** PEI-2023-12
+**Incident Type:** Critical
+**Date:** 22nd December 2023, 10:45 IST
+**Location:** Bangalore HQ, India
+**Involved Teams:** Platform Engineering, Cloud Operations, and Project Helios Delivery Team
+
+**Summary:**
+On 22nd December 2023, at 10:45 IST, our Production Monitoring team alerted us to a critical issue impacting the CloudEdge 3.0 deployment on Project Helios. The incident resulted in an estimated 4-hour downtime for CloudEdge services affecting 12% of our global customers. This report outlines the root cause analysis, steps taken to mitigate the issue, and recommendations for future improvements.
+
+**Root Cause Analysis:**
+The incident was caused by a misconfiguration of the load balancer rules in the CloudEdge 3.0 deployment, leading to a denial-of-service (DoS) attack on the platform. The incorrect configuration was introduced during a recent change window for Project Helios, where the team inadvertently modified the security group rules. This change allowed unauthorized traffic to reach the platform, overwhelming the resources and causing the downtime.
+
+**Incident Timeline:**
+
+- 10:45 IST: Production Monitoring team alerted to performance degradation.
+- 10:55 IST: Cloud Operations team initiated investigation and notified the Platform Engineering team.
+- 11:05 IST: Platform Engineering team confirmed the issue and initiated containment steps.
+- 11:20 IST: Cloud Operations team applied emergency patches to mitigate the DoS attack.
+- 12:00 IST: CloudEdge services were restored, and the incident was declared closed.
+
+**Lessons Learned and Recommendations:**
+
+- Review and update the CloudEdge 3.0 deployment documentation to reflect the latest security best practices.
+- Conduct additional training for the Project Helios delivery team on security-related changes and configurations.
+- Implement automated testing and validation for security-related changes in the deployment pipeline.
+- Review and adjust the incident response plan to ensure timely and effective communication with stakeholders.
+
+**Corrective Actions:**
+
+- Conduct a thorough review of the CloudEdge 3.0 deployment configuration and security group rules.
+- Update the CloudEdge 3.0 deployment documentation to reflect the latest security best practices.
+- Provide additional training for the Project Helios delivery team on security-related changes and configurations.
+- Implement automated testing and validation for security-related changes in the deployment pipeline.
+
+**Confidentiality Level:**
+This incident report is classified as Confidential and should only be shared within the Stratos Enterprises organization. Any external sharing or disclosure is strictly prohibited and may result in disciplinary action.
+
+**Acknowledgement:**
+I, Neha Kulkarni, Platform Engineering Manager, have reviewed and approved this incident report.

@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-E-008
+Owner_Name: Sneha Patil
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-008, STX-E-004, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-014
+Owner Employee ID: STX-E-008
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-008, STX-E-004, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Sneha Patil
+Employee ID: STX-E-008
+Department: Engineering
+Designation: QA Team Lead
+Location: Bangalore
+Reporting Manager: Neha Kulkarni (STX-E-004)
+Employment Type: Full-Time
+Join Date: August 15, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Sneha successfully led the QA team in achieving a 25% reduction in defect leakage, resulting in a significant improvement in the overall quality of our SaaS platform. She implemented automated testing scripts, which increased test coverage by 30% and reduced testing time by 40%. This improvement has directly contributed to the 20% increase in customer satisfaction ratings.
+
+Sneha played a key role in the successful deployment of our cloud-based application, ensuring that all QA processes were in place and that the team was fully prepared for the launch. Her efforts resulted in zero critical defects being reported during the deployment, and the application has been running smoothly with 99.9% uptime. The deployment was completed 2 weeks ahead of schedule, which has resulted in significant cost savings for the company.
+
+Under Sneha's leadership, the QA team has shown a significant improvement in test cycle time, with an average reduction of 35% in testing time for each release. This has enabled the engineering team to release new features and updates more quickly, resulting in a 15% increase in revenue growth. Sneha's efforts have been recognized by the engineering team, and she has been praised for her ability to collaborate effectively and drive results.
+
+
+Areas of Improvement
+
+One area for improvement is for Sneha to focus on developing more junior team members, providing them with the necessary guidance and training to help them grow in their roles. While Sneha has been effective in leading the team and driving results, there is a need for her to delegate more tasks and empower team members to take on more responsibility. This will not only help with team development but also free up Sneha to focus on more strategic initiatives.
+
+Sneha needs to work on improving her communication skills, particularly when it comes to stakeholder management. There have been instances where stakeholders have not been adequately informed of project timelines and status, resulting in misunderstandings and delays. Sneha should focus on providing regular updates and progress reports to stakeholders, ensuring that everyone is aligned and informed throughout the project lifecycle.
+
+
+Manager Comments
+
+Neha Kulkarni:
+
+Sneha has been an invaluable member of the engineering team, and her leadership of the QA team has been outstanding. She has consistently demonstrated a deep understanding of our SaaS platform and has been instrumental in driving quality improvements. I am impressed with her ability to collaborate with cross-functional teams and drive results. However, I would like to see her focus more on developing her team members and improving her communication skills. With these areas of improvement addressed, I am confident that Sneha will continue to excel in her role and make significant contributions to Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Sneha's outstanding performance, her value to the organization, and industry standards, and is intended to recognize her contributions and motivate her to continue delivering exceptional results.
+
+
+Signatures
+
+Reporting Manager: Neha Kulkarni
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-014

@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-L-007
+Owner_Name: Nisha Thomas
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-007, STX-L-004, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-013
+Owner Employee ID: STX-L-007
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-007, STX-L-004, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Nisha Thomas
+Employee ID: STX-L-007
+Department: Legal
+Designation: Data Privacy Lead
+Location: Bangalore
+Reporting Manager: Sonal Kapoor (STX-L-004)
+Employment Type: Full-Time
+Join Date: April 12, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Nisha successfully led the implementation of GDPR compliance for Stratos Enterprises' cloud-based services, ensuring a 95% reduction in data breach risks and achieving compliance with all regulatory requirements within a 6-month timeline. This resulted in a significant increase in customer trust, with a 20% rise in new customer acquisitions during the review period. Her efforts also led to the development of a comprehensive data privacy framework, adopted by all teams across the organization.
+
+Nisha also collaborated with the product development team to design and implement data anonymization features, resulting in a 30% reduction in personally identifiable information (PII) stored in the company's databases. This project involved working closely with cross-functional teams and stakeholders, demonstrating Nisha's excellent communication and project management skills. The successful implementation of this project has enhanced the company's data protection capabilities.
+
+Additionally, Nisha conducted a series of training sessions for employees on data privacy best practices, resulting in a 25% increase in employee awareness and a significant reduction in data-related incidents. She also developed a data privacy awareness program, which has been integrated into the company's onboarding process, ensuring that all new employees understand their roles and responsibilities in maintaining data privacy.
+
+
+Areas of Improvement
+
+One area of improvement for Nisha is to enhance her skills in emerging technologies, such as artificial intelligence and machine learning, to stay ahead of the curve in data privacy and security. This will enable her to provide more effective guidance and support to the organization as it continues to innovate and expand its services. With the increasing use of AI and ML in the industry, it is essential for Nisha to develop a deeper understanding of these technologies and their implications for data privacy.
+
+Another area of improvement is for Nisha to work on delegating tasks more effectively to her team members, empowering them to take ownership of specific projects and initiatives. This will not only help to develop the skills and capabilities of her team but also enable Nisha to focus on more strategic and high-priority initiatives, driving greater impact for the organization. By delegating tasks more effectively, Nisha can also improve her work-life balance and reduce her workload.
+
+
+Manager Comments
+
+Sonal Kapoor:
+
+Nisha has been an invaluable asset to the legal team, providing expert guidance and support on data privacy matters. Her knowledge and expertise have been instrumental in ensuring that Stratos Enterprises remains compliant with all relevant regulations and laws. I am impressed with her ability to collaborate with cross-functional teams and stakeholders, driving projects forward and achieving outstanding results. One area where Nisha can improve is by being more proactive in identifying and mitigating potential data privacy risks, rather than reacting to issues as they arise.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Nisha's outstanding performance during the review period, her contributions to the organization, and her value to the team, which warrants a salary increase to recognize her efforts and retain her talent.
+
+
+Signatures
+
+Reporting Manager: Sonal Kapoor
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-013

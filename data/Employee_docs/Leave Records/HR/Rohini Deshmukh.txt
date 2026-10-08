@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-010
+Owner_Name: Rohini Deshmukh
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-010, STX-HR-006, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Rohini Deshmukh
+Employee ID         : STX-HR-010
+Department          : HR
+Designation         : HR Associate
+Reporting Manager   : Sandeep Mathur (STX-HR-006)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          5       0          13
+Casual Leave        8           3       0          5
+Sick Leave          10          1       0          9
+Total               36          9       0          27
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-08
+To Date             : 2025-01-10
+Duration            : 3 Days
+Reason              : Family visit to Nagpur for new year
+Status              : Approved
+Applied On          : 2024-12-28
+Approved By         : Sandeep Mathur, Employee Relations Lead
+Approved On         : 2024-12-29
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-03-27
+To Date             : 2025-03-28
+Duration            : 2 Days
+Reason              : Holi celebration and personal work
+Status              : Approved
+Applied On          : 2025-03-25
+Approved By         : Sandeep Mathur, Employee Relations Lead
+Approved On         : 2025-03-25
+
+Entry 3
+Leave Type          : Sick Leave
+From Date           : 2025-05-22
+To Date             : 2025-05-22
+Duration            : 1 Day
+Reason              : Severe headache and rest
+Status              : Approved
+Applied On          : 2025-05-22
+Approved By         : Sandeep Mathur, Employee Relations Lead
+Approved On         : 2025-05-23
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-08-25
+To Date             : 2025-08-26
+Duration            : 2 Days
+Reason              : Extended Onam holiday trip to Kerala
+Status              : Approved
+Applied On          : 2025-08-18
+Approved By         : Sandeep Mathur, Employee Relations Lead
+Approved On         : 2025-08-18
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-10-06
+To Date             : 2025-10-06
+Duration            : 1 Day
+Reason              : Personal appointment
+Status              : Approved
+Applied On          : 2025-10-05
+Approved By         : Sandeep Mathur, Employee Relations Lead
+Approved On         : 2025-10-05
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 5 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 27 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-HR-010-2025

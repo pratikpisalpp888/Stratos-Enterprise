@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-F-006
+Owner_Name: Pooja Iqbal
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-006, STX-F-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-009
+Owner Employee ID: STX-F-006
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-006, STX-F-002, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Pooja Iqbal
+Employee ID: STX-F-006
+Department: Finance
+Designation: Accounts Receivable Lead
+Location: Bangalore
+Reporting Manager: Shreya Mukherjee (STX-F-002)
+Employment Type: Full-Time
+Join Date: October 12, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Pooja has successfully reduced the average days sales outstanding (DSO) by 15%, resulting in a significant improvement in cash flow for the company. She achieved this by implementing a more efficient invoicing process and following up with clients in a timely manner, resulting in a 25% reduction in overdue payments. As a result, the accounts receivable team has seen a 12% increase in on-time payments.
+
+Pooja has also played a key role in the implementation of a new cloud-based accounting system, which has improved the team's productivity by 20%. She provided training and support to the team, ensuring a smooth transition to the new system. The new system has also enabled the team to automate many tasks, resulting in a 15% reduction in manual errors.
+
+Pooja has consistently met or exceeded her quarterly targets, with a 95% success rate in resolving client disputes and a 99% accuracy rate in processing payments. Her attention to detail and excellent customer service skills have resulted in a significant improvement in client satisfaction ratings, with a 25% increase in positive feedback from clients.
+
+
+Areas of Improvement
+
+One area for improvement for Pooja is to work on her leadership skills, as she will be taking on more responsibilities in the future. She needs to develop her ability to delegate tasks effectively and provide guidance and support to her team members. With the growing demands of the finance team, it is essential that Pooja is able to lead her team efficiently and effectively.
+
+Another area for improvement is for Pooja to improve her analytical skills, particularly in using data to drive business decisions. She needs to develop her ability to analyze complex data sets and provide insights that can inform business strategies. This will enable her to make more informed decisions and drive growth for the company.
+
+
+Manager Comments
+
+Shreya Mukherjee:
+
+Pooja has been an invaluable member of the finance team, consistently delivering high-quality results and taking on additional responsibilities to support the team. Her attention to detail and excellent customer service skills have been particularly impressive, and she has played a key role in improving client satisfaction ratings. I am confident that Pooja will continue to grow and develop in her role, and I look forward to seeing her take on new challenges and responsibilities.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Pooja's outstanding performance and the value she has added to the company, and is intended to recognize her contributions and motivate her to continue delivering exceptional results.
+
+
+Signatures
+
+Reporting Manager: Shreya Mukherjee
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-009
