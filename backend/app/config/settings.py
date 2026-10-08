@@ -16,9 +16,9 @@ class Settings(BaseSettings):
     JWT_EXPIRATION_HOURS: int = 8
     
     # LLM Settings (Groq) - used for production chatbot pipeline ONLY
-    GROQ_API_KEY: str
-    GROQ_MODEL: str = "llama-3.3-70b-versatile"
-    GROQ_FAST_MODEL: str = "llama-3.1-8b-instant"
+    GROQ_API_KEY: str = ""
+    GROQ_MODEL: str = "openai/gpt-oss-120b"
+    GROQ_FAST_MODEL: str = "openai/gpt-oss-20b"
 
     # Evaluation LLM Settings (Ollama - local, unlimited, free)
     # Production pipeline STAYS on Groq; ONLY evaluation judges use Ollama
