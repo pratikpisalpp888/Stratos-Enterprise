@@ -139,16 +139,34 @@ async def unhandled_exception_handler(request: Request, exc: Exception):
     )
 
 
+import asyncio
+import os
+
 @app.on_event("startup")
 async def startup_event():
     logger.info("SentinelRAG API server starting up...")
-    try:
-        build_bm25_index()
-        logger.info("BM25 index successfully pre-warmed on startup.")
-    except Exception as e:
-        logger.warning(f"Could not pre-warm BM25 index on startup: {e}")
+    # Pre-warm BM25 in background thread so Uvicorn opens the port instantly
+    def _bg_prewarm():
+        try:
+            build_bm25_index()
+            logger.info("BM25 index successfully pre-warmed in background.")
+        except Exception as e:
+            logger.warning(f"Background BM25 pre-warm notice: {e}")
+            
+    asyncio.create_task(asyncio.to_thread(_bg_prewarm))
+
+
+@app.get("/", tags=["Health"])
+def root_endpoint():
+    return {"status": "ok", "app": "SentinelRAG Enterprise API", "version": "1.0.0"}
 
 
 @app.get("/health", tags=["Health"])
 def health_check():
     return {"status": "ok", "app": "SentinelRAG API", "version": "1.0.0"}
+
+
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 10000))
+    uvicorn.run("app.main:app", host="0.0.0.0", port=port, log_level="info")
