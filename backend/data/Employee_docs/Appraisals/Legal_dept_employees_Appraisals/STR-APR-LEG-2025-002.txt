@@ -1,0 +1,108 @@
+---METADATA---
+Owner_Employee_ID: STX-L-011
+Owner_Name: Sneha Agarwal
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-011, STX-L-006, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-002
+Owner Employee ID: STX-L-011
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-011, STX-L-006, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-13
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Sneha Agarwal
+Employee ID: STX-L-011
+Department: Legal
+Designation: Compliance Analyst
+Location: Mumbai
+Reporting Manager: Arpit Khanna, Regulatory Compliance Lead (STX-L-006)
+Employment Type: Full-Time
+Join Date: 2023-01-23
+
+
+Performance Rating Summary
+
+Overall Rating: 4.0 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Sneha led the internal DPDP Act gap analysis exercise conducted in February
+and March 2025, mapping 34 data processing activities across Engineering and
+Sales against DPDP Act requirements and producing a prioritized remediation
+report that was presented to the Director of Legal Affairs on April 3 2025.
+
+She coordinated cross-departmental compliance training sessions attended by
+312 employees by September 30 2025, managing scheduling, attendance tracking,
+and completion certification issuance with zero administrative errors.
+
+Sneha prepared the regulatory filing submissions for Q1 and Q2 2025 ahead
+of deadlines in both quarters, avoiding late filing penalties and receiving
+positive acknowledgment from the Director of Legal Affairs.
+
+
+Areas of Improvement
+
+Sneha should develop stronger data analytics skills to support compliance
+monitoring. Currently compliance tracking is done manually in spreadsheets
+and building proficiency in tools such as Power BI or a GRC platform would
+significantly improve her reporting efficiency and audit readiness.
+
+She should work on presenting complex regulatory findings in simpler language
+for non-legal stakeholders. Two compliance briefings in Q1 2025 received
+feedback from Engineering and Sales managers that the content was too
+technically dense for effective action.
+
+
+Manager Comments
+
+Arpit Khanna, Regulatory Compliance Lead:
+
+Sneha has had an outstanding H1 2025. The DPDP gap analysis was one of the
+most thorough pieces of compliance work produced at her level and it directly
+shaped our Q3 legal priorities. She is on track for a Senior Compliance
+Analyst role and I will be formally recommending her for the next promotion
+cycle in December 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.80 LPA
+Recommended Hike: 13 percent
+Revised CTC: 9.94 LPA
+Effective Date: August 1 2025
+
+Justification: High-impact compliance contributions and above-expectation
+initiative on DPDP readiness warrant above-band increment.
+
+
+Signatures
+
+Reporting Manager: Arpit Khanna
+Date: 2025-07-11
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-13
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-002

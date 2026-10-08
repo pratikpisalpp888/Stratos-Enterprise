@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-S-010
+Owner_Name: Ishaan Gupta
+Department: Sales
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-S-010, STX-S-006, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Ishaan Gupta
+Employee ID         : STX-S-010
+Department          : Sales
+Designation         : Account Executive
+Reporting Manager   : Shruti Desai (STX-S-006)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          6       0          12
+Casual Leave        8           3       0          5
+Sick Leave          10          1       0          9
+Total               36          10      0          26
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-02
+To Date             : 2025-01-03
+Duration            : 2 Days
+Reason              : New Year extended holiday
+Status              : Approved
+Applied On          : 2024-12-26
+Approved By         : Shruti Desai, SMB Sales Lead
+Approved On         : 2024-12-27
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-03-14
+To Date             : 2025-03-14
+Duration            : 1 Day
+Reason              : Personal work
+Status              : Approved
+Applied On          : 2025-03-13
+Approved By         : Shruti Desai, SMB Sales Lead
+Approved On         : 2025-03-13
+
+Entry 3
+Leave Type          : Sick Leave
+From Date           : 2025-05-28
+To Date             : 2025-05-28
+Duration            : 1 Day
+Reason              : Severe cold and fatigue
+Status              : Approved
+Applied On          : 2025-05-28
+Approved By         : Shruti Desai, SMB Sales Lead
+Approved On         : 2025-05-29
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-08-11
+To Date             : 2025-08-14
+Duration            : 4 Days
+Reason              : Family vacation to Coorg
+Status              : Approved
+Applied On          : 2025-07-28
+Approved By         : Shruti Desai, SMB Sales Lead
+Approved On         : 2025-07-29
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-09-30
+To Date             : 2025-10-01
+Duration            : 2 Days
+Reason              : Extended Navratri weekend
+Status              : Approved
+Applied On          : 2025-09-26
+Approved By         : Shruti Desai, SMB Sales Lead
+Approved On         : 2025-09-26
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 12 Days
+Casual Leave Remaining    : 5 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 26 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-S-010-2025

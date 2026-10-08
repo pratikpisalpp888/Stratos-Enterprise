@@ -1,0 +1,84 @@
+---METADATA---
+Owner_Employee_ID: STX-L-005
+Owner_Name: Kavya Iyer
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-005, STX-L-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-007
+Owner Employee ID: STX-L-005
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-005, STX-L-002, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Kavya Iyer
+Employee ID: STX-L-005
+Department: Legal
+Designation: Corporate Contracts Lead
+Location: Bangalore
+Reporting Manager: Megha Chatterjee (STX-L-002)
+Employment Type: Full-Time
+Join Date: 2018-02-15
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Kavya successfully negotiated and closed 12 major cloud services contracts with a total contract value of $1.2 million, resulting in a 25% increase in quarterly revenue. She also developed and implemented a contract management process that reduced contract review time by 30% and increased compliance with regulatory requirements by 95%. Additionally, Kavya provided training and support to the sales team on contract-related matters, resulting in a 20% reduction in contract-related disputes.
+
+
+Areas of Improvement
+
+Kavya needs to improve her contract review turnaround time, as some contracts took longer than expected to review and approve, resulting in delays in the sales cycle. To achieve this, she should prioritize contracts, focus on high-value deals, and delegate tasks to junior team members when possible. 
+
+Kavya should also enhance her collaboration with the sales team, as some sales team members reported difficulties in getting timely feedback on contract-related matters. To address this, she should establish regular check-ins with the sales team, provide clear guidance on contract requirements, and ensure that all sales team members understand the contract review process.
+
+
+Manager Comments
+
+Megha Chatterjee:
+
+Kavya has been a valuable member of the legal team, providing expert guidance on contract-related matters and ensuring compliance with regulatory requirements. Her contract management process has streamlined our contract review and approval process, and her training and support to the sales team have been well-received. However, there have been some instances where contract review turnaround times have been longer than expected, and I encourage Kavya to prioritize contracts and delegate tasks to junior team members when possible.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Kavya's outstanding performance and the value she has added to the organization, including her successful contract negotiations and process improvements.
+
+
+Signatures
+
+Reporting Manager: Megha Chatterjee
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-007

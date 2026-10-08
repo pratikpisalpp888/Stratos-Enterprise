@@ -1,0 +1,107 @@
+---METADATA---
+Owner_Employee_ID: STX-S-015
+Owner_Name: Tanisha Roy
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-015, STX-S-009, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-006
+Owner Employee ID: STX-S-015
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-015, STX-S-009, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-12
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Tanisha Roy
+Employee ID: STX-S-015
+Department: Sales
+Designation: Key Accounts Executive
+Location: Mumbai
+Reporting Manager: Rahul Mehra, Key Accounts Lead (STX-S-009)
+Employment Type: Full-Time
+Join Date: 2024-05-19
+
+
+Performance Rating Summary
+
+Overall Rating: 3.2 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Tanisha managed administrative and relationship coordination activities
+for 6 key accounts in H1 2025, ensuring all quarterly business review
+materials were prepared and distributed to account stakeholders at least
+5 business days before scheduled meetings.
+
+She assisted in the renewal documentation process for 2 enterprise
+accounts totaling 1.84 crore rupees in annual contract value, preparing
+commercial summary decks and renewal proposals under the supervision of
+the Key Accounts Lead.
+
+
+Areas of Improvement
+
+Tanisha needs to develop a stronger understanding of enterprise account
+management fundamentals including stakeholder mapping, renewal risk
+identification, and expansion opportunity tracking. Her current
+contribution is largely administrative and she needs to move toward
+substantive account ownership in H2 2025.
+
+She should build product knowledge across the Stratos CloudEdge platform.
+In two client interactions she was unable to respond to basic feature
+queries and had to defer to the Key Accounts Lead, which impacted
+perception of account coverage.
+
+
+Manager Comments
+
+Rahul Mehra, Key Accounts Lead:
+
+Tanisha joined in May 2024 and is still building her foundation in key
+account management. Her administrative support has been reliable but the
+expectation for H2 2025 is a clear shift toward substantive account
+ownership. I have assigned her one account to manage independently
+starting August 2025 as a development opportunity. Product training
+completion by September 30 2025 is a mandatory expectation.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.00 LPA
+Recommended Hike: 7 percent
+Revised CTC: 8.56 LPA
+Effective Date: August 1 2025
+
+Justification: First full appraisal cycle with standard new joiner
+increment reflecting developing performance trajectory.
+
+
+Signatures
+
+Reporting Manager: Rahul Mehra
+Date: 2025-07-10
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-12
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-006

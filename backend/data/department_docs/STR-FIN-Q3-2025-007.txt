@@ -1,0 +1,103 @@
+STRATOS ENTERPRISES
+Legal Department - Quarterly Budget Report Q3 2025
+
+Document ID: STR-FIN-Q3-2025-007
+Department: Finance
+Document Type: Quarterly Budget Report
+Period: July 1 2025 to September 30 2025
+Sensitivity Level: Restricted
+Owner Role: Director
+Created Date: 2025-10-04
+Author: Raghav Bansal, Director of Finance
+Reviewed By: Shreya Mukherjee, Finance Operations Manager
+Approved By: Nandita Rao, Financial Planning Manager
+Distribution: CFO, CEO, Board of Directors, Director of Finance
+
+STRATOS ENTERPRISES
+QUARTERLY BUDGET REPORT Q3 2025
+CONFIDENTIAL FOR AUTHORIZED PERSONNEL ONLY
+
+
+1. EXECUTIVE SUMMARY
+
+Q3 2025 marked a period of measured growth against a backdrop of increased operational expenditure driven primarily by the expansion of our Pune facility and the accelerated onboarding under Project Helios, a cloud infrastructure modernization initiative. Total operating expenditure for the quarter came in at 18.42 crore rupees, representing a 6.3 percent variance above the approved Q3 budget of 17.33 crore rupees. While this overage is within the board-approved contingency band of 8 percent, it warrants targeted corrective action in Q4.
+
+Total revenue recognized in Q3 2025 stood at 31.7 crore rupees, up 11.4 percent from Q2 2025 which was 28.45 crore rupees and 19.2 percent year-over-year versus Q3 2024 which was 26.6 crore rupees. EBITDA for the quarter is estimated at 9.1 crore rupees, yielding an EBITDA margin of approximately 28.7 percent.
+
+
+2. DEPARTMENTAL BUDGET ALLOCATIONS Q3 2025
+
+Department: Engineering
+Approved Budget: 6.80 Cr
+Actual Spend: 7.21 Cr
+Variance: +0.41 Cr
+
+Department: Sales
+Approved Budget: 3.20 Cr
+Actual Spend: 3.05 Cr
+Variance: -0.15 Cr
+
+Department: HR and People Operations
+Approved Budget: 1.75 Cr
+Actual Spend: 1.82 Cr
+Variance: +0.07 Cr
+
+Department: Legal and Compliance
+Approved Budget: 0.95 Cr
+Actual Spend: 0.91 Cr
+Variance: -0.04 Cr
+
+Department: Finance Internal
+Approved Budget: 0.88 Cr
+Actual Spend: 0.86 Cr
+Variance: -0.02 Cr
+
+Department: Infrastructure
+Approved Budget: 2.40 Cr
+Actual Spend: 2.89 Cr
+Variance: +0.49 Cr
+
+Department: Marketing
+Approved Budget: 1.35 Cr
+Actual Spend: 1.22 Cr
+Variance: -0.13 Cr
+
+Total Approved: 17.33 Cr
+Total Actual: 18.42 Cr
+Total Variance: +1.09 Cr
+
+Note: Infrastructure overage is directly attributable to Project Helios Phase 2 hardware procurement of 0.38 crore rupees and unplanned AWS reserved instance renewals of 0.11 crore rupees processed in August 2025.
+
+
+3. KEY OBSERVATIONS
+
+3.1 Engineering Overspend
+
+Engineering exceeded its Q3 budget by 41 lakhs, attributed to two lateral hires at the Senior Engineer band with CTC of 24 LPA each approved mid-quarter under the accelerated hiring mandate from the CTO office. These costs were not reflected in the original Q3 headcount plan submitted in June 2025.
+
+3.2 Sales Underspend
+
+Sales came in 15 lakhs below budget, primarily due to the postponement of the Mumbai Enterprise Client Engagement Summit originally scheduled September 18 and 19 2025 to Q4. This event budget of 12.5 lakhs rolls forward to October 2025.
+
+3.3 Payroll Costs
+
+Total payroll for Q3 2025 including all departments and contractor fees amounted to 11.8 crore rupees, up from 10.9 crore rupees in Q2 2025. The increase reflects 14 new hires across Engineering with 8 hires, Sales with 4 hires, and HR with 2 hires onboarded between July and September.
+
+
+4. Q4 2025 OUTLOOK AND CORRECTIVE MEASURES
+
+Approved Q4 budget stands at 17.80 crore rupees. Given the Q3 carryover items including Sales summit of 12.5 lakhs and Project Helios Phase 3 of 55 lakhs, Finance recommends a freeze on discretionary spending above 2 lakh rupees without Director-level approval, effective October 15 2025.
+
+A mid-quarter budget review has been scheduled for November 12 2025 to be chaired by Raghav Bansal with mandatory attendance from all department Managers and above.
+
+
+5. SIGN-OFF
+
+Prepared By: Nandita Rao, Financial Planning Manager
+Reviewed By: Shreya Mukherjee, Finance Operations Manager
+Approved By: Raghav Bansal, Director of Finance
+Approval Date: 2025-10-07
+
+This document contains financially sensitive and strategically confidential information. Unauthorized access, reproduction, or distribution is strictly prohibited and may result in disciplinary action under Stratos Enterprises Information Security Policy ISP-2023-Rev4 and applicable Indian IT laws.
+
+END OF DOCUMENT STR-FIN-Q3-2025-007

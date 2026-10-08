@@ -1,0 +1,106 @@
+---METADATA---
+Owner_Employee_ID: STX-L-012
+Owner_Name: Irfan Shaikh
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-012, STX-L-009, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-003
+Owner Employee ID: STX-L-012
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-012, STX-L-009, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-13
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Irfan Shaikh
+Employee ID: STX-L-012
+Department: Legal
+Designation: Contract Specialist
+Location: Mumbai
+Reporting Manager: Pooja Nambiar, Vendor Contract Lead (STX-L-009)
+Employment Type: Full-Time
+Join Date: 2023-04-18
+
+
+Performance Rating Summary
+
+Overall Rating: 3.6 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Irfan reviewed and finalized 38 vendor contracts in H1 2025 including
+software procurement agreements, SaaS subscription renewals, and
+infrastructure service contracts, with an average turnaround time of
+5.1 days against a team benchmark of 6 days.
+
+He supported renegotiation of the AWS enterprise agreement in May 2025,
+preparing clause-by-clause comparison documents that helped the Vendor
+Contract Lead identify 3 areas for cost reduction, contributing to
+estimated annual savings of 18 lakh rupees.
+
+
+Areas of Improvement
+
+Irfan needs to improve his familiarity with IP-related contract clauses.
+Two vendor agreements in Q2 2025 required significant revision after
+initial review because IP ownership and licensing terms had not been
+adequately scrutinized at his stage of review.
+
+He should build confidence in proactively flagging contract risks to
+senior team members. In two instances Irfan processed contracts with
+ambiguous indemnity clauses without flagging them, both of which required
+post-execution addendums to correct.
+
+
+Manager Comments
+
+Pooja Nambiar, Vendor Contract Lead:
+
+Irfan is a competent contract specialist and his turnaround numbers are
+consistently good. The AWS renegotiation support was a great example of
+him adding value beyond routine processing. The gap I want him to address
+is depth of review, particularly around IP and indemnity clauses which are
+increasingly important as our vendor relationships grow more complex.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.20 LPA
+Recommended Hike: 9 percent
+Revised CTC: 8.94 LPA
+Effective Date: August 1 2025
+
+Justification: Consistent above-SLA contract processing and demonstrated
+contribution to vendor renegotiation support a moderate above-standard
+increment.
+
+
+Signatures
+
+Reporting Manager: Pooja Nambiar
+Date: 2025-07-11
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-13
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-003

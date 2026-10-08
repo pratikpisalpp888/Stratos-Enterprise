@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-S-012
+Owner_Name: Farhan Ali
+Department: Sales
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-S-012, STX-S-005, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Farhan Ali
+Employee ID         : STX-S-012
+Department          : Sales
+Designation         : Enterprise Account Executive
+Reporting Manager   : Karan Malhotra (STX-S-005)
+Location            : Pune
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          5       0          13
+Casual Leave        8           1       0          7
+Sick Leave          10          0       0          10
+Total               36          6       0          30
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-03-28
+To Date             : 2025-03-31
+Duration            : 4 Days
+Reason              : Eid celebration and family gathering in Pune
+Status              : Approved
+Applied On          : 2025-03-18
+Approved By         : Karan Malhotra, Enterprise Sales Lead
+Approved On         : 2025-03-19
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-05-16
+To Date             : 2025-05-16
+Duration            : 1 Day
+Reason              : Personal work
+Status              : Approved
+Applied On          : 2025-05-15
+Approved By         : Karan Malhotra, Enterprise Sales Lead
+Approved On         : 2025-05-15
+
+Entry 3
+Leave Type          : Annual Leave
+From Date           : 2025-07-04
+To Date             : 2025-07-04
+Duration            : 1 Day
+Reason              : Personal appointment
+Status              : Approved
+Applied On          : 2025-07-02
+Approved By         : Karan Malhotra, Enterprise Sales Lead
+Approved On         : 2025-07-02
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-15
+To Date             : 2025-09-15
+Duration            : 1 Day
+Reason              : Milad-un-Nabi observance
+Status              : Approved
+Applied On          : 2025-09-12
+Approved By         : Karan Malhotra, Enterprise Sales Lead
+Approved On         : 2025-09-12
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 7 Days
+Sick Leave Remaining      : 10 Days
+Total Remaining           : 30 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-S-012-2025

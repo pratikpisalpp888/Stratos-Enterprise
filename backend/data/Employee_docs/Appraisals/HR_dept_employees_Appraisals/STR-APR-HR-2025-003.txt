@@ -1,0 +1,112 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-012
+Owner_Name: Pallavi Joshi
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-012, STX-HR-007, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-003
+Owner Employee ID: STX-HR-012
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-012, STX-HR-007, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-14
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Pallavi Joshi
+Employee ID: STX-HR-012
+Department: HR
+Designation: Payroll Executive
+Location: Mumbai
+Reporting Manager: Anjali Subramanian, Payroll Lead (STX-HR-007)
+Employment Type: Full-Time
+Join Date: 2023-02-20
+
+
+Performance Rating Summary
+
+Overall Rating: 3.8 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Pallavi processed payroll for 500 employees across all 3 locations
+for all 6 months of H1 2025 with zero payroll errors reported,
+maintaining a 100 percent accuracy rate for salary disbursements,
+statutory deductions, and reimbursement processing.
+
+She successfully managed the transition of 14 new hires onto the
+payroll system in H1 2025, completing all onboarding payroll
+configurations within 2 business days of joining date confirmation
+with no delays in first salary disbursement.
+
+Pallavi identified a misconfiguration in the PF deduction setup
+for employees who had crossed the PF wage ceiling, correcting 9
+affected employee records in March 2025 before the Q1 statutory
+filing deadline.
+
+
+Areas of Improvement
+
+Pallavi should develop stronger proficiency in the advanced modules
+of the Darwinbox HRMS platform. Currently she relies on manual
+workarounds for certain payroll scenarios that should be handled
+through system automation, creating unnecessary processing time.
+
+She should build a deeper understanding of tax computation for
+senior employees with complex CTC structures including ESOPs and
+variable pay. Two queries from senior employees in Q2 2025 on tax
+optimization were escalated to the Payroll Lead that Pallavi should
+have been able to address independently.
+
+
+Manager Comments
+
+Anjali Subramanian, Payroll Lead:
+
+Pallavi's accuracy record is exceptional and her proactive
+identification of the PF misconfiguration saved us from a potential
+statutory compliance issue. To grow into a Senior Payroll Executive
+role she needs to invest in Darwinbox system proficiency and develop
+the ability to handle complex compensation tax queries independently.
+Overall a very reliable team member.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.60 LPA
+Recommended Hike: 11 percent
+Revised CTC: 8.44 LPA
+Effective Date: August 1 2025
+
+Justification: Perfect payroll accuracy record and proactive compliance
+issue identification support above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Anjali Subramanian
+Date: 2025-07-12
+
+HR Representative: Abhishek Pandey
+Date: 2025-07-14
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-003

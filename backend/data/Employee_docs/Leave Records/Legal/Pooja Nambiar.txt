@@ -1,0 +1,97 @@
+---METADATA---
+Owner_Employee_ID: STX-L-009
+Owner_Name: Pooja Nambiar
+Department: Legal
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-L-009, STX-L-003, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Pooja Nambiar
+Employee ID         : STX-L-009
+Department          : Legal
+Designation         : Vendor Contract Lead
+Reporting Manager   : Rohan Pillai (STX-L-003)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          0       0          18
+Casual Leave        8           0       0          8
+Sick Leave          10          0       0          10
+Total               36          0       0          36
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-15
+To Date             : 2025-01-19
+Duration            : 5 Days
+Reason              : New Year break
+Status              : Approved
+Applied On          : 2025-01-08
+Approved By         : Rohan Pillai, Vendor Contract Lead
+Approved On         : 2025-01-09
+
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-06-01
+To Date             : 2025-06-05
+Duration            : 5 Days
+Reason              : Birthday celebration
+Status              : Approved
+Applied On          : 2025-05-25
+Approved By         : Rohan Pillai, Vendor Contract Lead
+Approved On         : 2025-05-26
+
+
+Entry 3
+Leave Type          : Sick Leave
+From Date           : 2025-07-16
+To Date             : 2025-07-18
+Duration            : 3 Days
+Reason              : Food poisoning
+Status              : Approved
+Applied On          : 2025-07-14
+Approved By         : Rohan Pillai, Vendor Contract Lead
+Approved On         : 2025-07-15
+
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-22
+To Date             : 2025-09-26
+Duration            : 5 Days
+Reason              : Diwali break
+Status              : Approved
+Applied On          : 2025-09-18
+Approved By         : Rohan Pillai, Vendor Contract Lead
+Approved On         : 2025-09-19
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 3 Days
+Sick Leave Remaining      : 7 Days
+Total Remaining           : 23 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-STXL009-2025

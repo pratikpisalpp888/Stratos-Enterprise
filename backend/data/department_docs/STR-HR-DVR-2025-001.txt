@@ -1,0 +1,57 @@
+---METADATA---
+Document_ID: STR-HR-DVR-2025-001
+Department: HR
+Document_Type: Diversity Report
+Sensitivity_Level: Internal
+Created_Date: 2025-08-15
+Author: Gaurav Srivastava, Compensation & Benefits Manager
+---END METADATA---
+
+Stratos Enterprises Diversity Report FY2022-23
+
+Introduction:
+
+As a global SaaS and cloud services company, Stratos Enterprises is committed to fostering a diverse and inclusive workplace culture that reflects the rich tapestry of our customers, partners, and communities we serve. Our Diversity Report FY2022-23 provides an update on the progress made towards our diversity and inclusion goals and highlights areas for continued improvement.
+
+Diversity and Inclusion Vision:
+
+Stratos Enterprises aspires to be a beacon of diversity and inclusion in the technology industry. Our vision is to create a workplace where everyone feels valued, respected, and empowered to contribute their unique perspectives and talents.
+
+Key Diversity Metrics:
+
+1. **Employee Demographics:**
+   - Female employees: 34.2% (up from 32.5% in FY2021-22)
+   - Employees from underrepresented communities: 22.1% (up from 20.5% in FY2021-22)
+   - Employees with disabilities: 2.5% (up from 2.2% in FY2021-22)
+
+2. **Workforce Representation:**
+   - Average age: 31.2 years (down from 32.5 years in FY2021-22)
+   - Average tenure: 2.8 years (down from 3.2 years in FY2021-22)
+   - Employee turnover rate: 13.5% (down from 15.2% in FY2021-22)
+
+3. **Leadership Diversity:**
+   - Female leaders: 25.5% (up from 22.8% in FY2021-22)
+   - Leaders from underrepresented communities: 18.1% (up from 16.3% in FY2021-22)
+   - Leaders with disabilities: 1.9% (up from 1.5% in FY2021-22)
+
+Employee Engagement and Satisfaction:
+
+Our FY2022-23 employee engagement and satisfaction survey showed a significant improvement in the following areas:
+
+- 85.2% of employees feel that their opinions are valued
+- 81.5% of employees believe in Stratos Enterprises' mission and values
+- 78.2% of employees are satisfied with their career growth opportunities
+
+Initiatives and Projects:
+
+1. **Project Helios:** Launched in Q2 FY2022-23, this initiative aims to increase employee engagement and well-being through a series of workshops and programs focused on mindfulness, mental health, and stress management.
+2. **CloudEdge 3.0:** Our cloud services team has implemented a diversity and inclusion training program for all team members, which has resulted in a significant increase in inclusive language and behavior.
+3. **Stratos Enterprises Diversity and Inclusion Policy:** Revised and refreshed in FY2022-23, this policy emphasizes our commitment to creating a workplace culture that values diversity, equity, and inclusion.
+
+Recommendations and Next Steps:
+
+1. **Employee Resource Groups (ERGs):** Establish ERGs to provide a platform for employees from underrepresented communities to connect, share experiences, and contribute to the development of diversity and inclusion initiatives.
+2. **Leadership Development Program:** Develop a leadership development program focused on promoting leaders from underrepresented communities and enhancing their skills and competencies.
+3. **Diversity and Inclusion Metrics:** Continue to track and measure diversity and inclusion metrics to assess progress and identify areas for improvement.
+
+By implementing these initiatives and continuing to prioritize diversity and inclusion, we are confident that Stratos Enterprises will become a more inclusive and equitable workplace, attracting and retaining top talent from diverse backgrounds and fostering a culture of innovation and excellence.

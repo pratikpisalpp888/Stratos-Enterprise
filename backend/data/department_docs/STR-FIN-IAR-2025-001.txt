@@ -1,0 +1,55 @@
+---METADATA---
+Document_ID: STR-FIN-IAR-2025-001
+Department: Finance
+Document_Type: Internal Audit Report
+Sensitivity_Level: Restricted
+Created_Date: 2025-08-15
+Author: Shreya Mukherjee, Finance Operations Manager
+---END METADATA---
+
+Internal Audit Report - Financial Controls and Compliance Review
+
+This report is a summary of the results of the internal audit conducted by the Finance Operations team at Stratos Enterprises during the period from April 1st to June 30th, 2023. The purpose of this audit was to evaluate the effectiveness of our financial controls and compliance with relevant policies and procedures.
+
+Objectives and Scope:
+The objective of this audit was to assess the adequacy and operating effectiveness of financial controls in place at Stratos Enterprises. The scope of the audit included an examination of financial processes, procedures and controls related to financial reporting, account reconciliations, vendor management, and compliance with company policies and procedures.
+
+Audit Findings:
+The audit identified several areas of strength in our financial controls, including:
+
+* Effective implementation of the two-way match process for vendor invoices, as per clause 4.2.3 of the Vendor Management Policy.
+* Accurate and timely account reconciliations for all financial accounts, as per clause 3.1.4 of the Account Reconciliation Policy.
+* Compliance with the Company's financial reporting requirements, including the timely submission of financial reports to the Management Committee.
+
+However, the audit also identified several areas for improvement, including:
+
+* Inadequate segregation of duties in the Accounts Payable department, which resulted in a lack of oversight and control over vendor payments.
+* Delays in the completion of account reconciliations for certain financial accounts, resulting in a risk of financial misstatement.
+* Non-compliance with the Company's policy on travel and entertainment expenses, as per clause 5.2.1 of the Travel and Expense Policy.
+
+Recommendations:
+Based on the findings of this audit, the following recommendations are made:
+
+* Implement additional controls to segregate duties in the Accounts Payable department, including the use of a separate approver for vendor payments.
+* Establish a centralized calendar for account reconciliations to ensure timely completion and minimize delays.
+* Provide additional training to employees on the Company's Travel and Expense Policy, and ensure compliance with clause 5.2.1.
+
+Project Impact:
+The audit findings and recommendations have significant implications for the implementation of Project Helios, our upcoming cloud-based financial management system. The additional controls recommended above will be integrated into the system design to ensure effective financial controls and compliance with Company policies and procedures.
+
+Resource Allocation:
+To implement the recommended controls, the Finance Operations team will require additional resources, including:
+
+* 1 FTE (full-time equivalent) to assist with account reconciliations and vendor payment processing.
+* $50,000 to upgrade our financial system to ensure compliance with Company policies and procedures.
+
+Timeline:
+The implementation of the recommended controls is expected to be completed within the next 6-8 weeks. The project timeline is as follows:
+
+* Week 1-2: Implement additional controls in Accounts Payable department.
+* Week 3-4: Establish centralized calendar for account reconciliations.
+* Week 5-6: Provide additional training to employees on Travel and Expense Policy.
+* Week 7-8: Upgrade financial system to ensure compliance with Company policies and procedures.
+
+Conclusion:
+This internal audit report highlights the importance of effective financial controls and compliance with Company policies and procedures. The recommendations outlined above will enhance the overall financial management capabilities of Stratos Enterprises and ensure compliance with relevant policies and procedures.

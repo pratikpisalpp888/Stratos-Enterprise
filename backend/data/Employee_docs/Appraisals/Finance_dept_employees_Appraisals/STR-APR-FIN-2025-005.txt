@@ -1,0 +1,108 @@
+---METADATA---
+Owner_Employee_ID: STX-F-014
+Owner_Name: Tanvi Deshpande
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-014, STX-F-006, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-005
+Owner Employee ID: STX-F-014
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-014, STX-F-006, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-11
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Tanvi Deshpande
+Employee ID: STX-F-014
+Department: Finance
+Designation: Accounts Executive
+Location: Bangalore
+Reporting Manager: Pooja Iqbal, Accounts Receivable Lead (STX-F-006)
+Employment Type: Full-Time
+Join Date: 2024-02-05
+
+
+Performance Rating Summary
+
+Overall Rating: 3.4 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Tanvi processed and reconciled 820 customer invoices in H1 2025
+across the SMB and Enterprise segments with an accuracy rate of
+98.6 percent, meeting departmental accuracy benchmarks in her
+first active half-year.
+
+She contributed to reducing the accounts receivable outstanding
+beyond 60 days by following up on 34 overdue invoices in Q2 2025,
+successfully collecting payments on 26 accounts totaling 48 lakh
+rupees within the quarter.
+
+
+Areas of Improvement
+
+Tanvi needs to develop stronger understanding of revenue recognition
+principles applicable to SaaS subscription contracts. Two invoices
+in Q1 2025 were incorrectly recognized as one-time revenue rather
+than deferred subscription revenue, requiring correction during the
+Q1 financial close.
+
+She should improve her escalation judgment for high-value overdue
+accounts. On two occasions Tanvi continued routine follow-up on
+accounts that had exceeded 90 days outstanding without escalating
+to the AR Lead, delaying legal notice initiation by 3 weeks.
+
+
+Manager Comments
+
+Pooja Iqbal, Accounts Receivable Lead:
+
+Tanvi joined in February 2024 and this is her first full appraisal.
+Her invoice processing accuracy is good for a first-year associate
+and the collections contribution in Q2 was appreciated. The revenue
+recognition error needs to not recur in H2 2025 and I have assigned
+her mandatory training on SaaS accounting standards in July. Escalation
+judgment will come with experience but I want to see faster improvement
+on this.
+
+
+Salary Hike Recommendation
+
+Current CTC: 6.80 LPA
+Recommended Hike: 8 percent
+Revised CTC: 7.34 LPA
+Effective Date: August 1 2025
+
+Justification: First appraisal cycle with standard new joiner increment
+reflecting satisfactory performance during initial months.
+
+
+Signatures
+
+Reporting Manager: Pooja Iqbal
+Date: 2025-07-09
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-11
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-005

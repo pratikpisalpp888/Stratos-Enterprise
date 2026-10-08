@@ -1,0 +1,79 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-008
+Owner_Name: Vikash Ranjan
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-008, STX-HR-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-015
+Owner Employee ID: STX-HR-008
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-008, STX-HR-002, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Vikash Ranjan
+Employee ID: STX-HR-008
+Department: HR
+Designation: Learning & Development Lead
+Location: Bangalore
+Reporting Manager: Abhishek Pandey (STX-HR-002)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Vikash successfully led the rollout of our new employee onboarding program, resulting in a 25% reduction in new hire ramp-up time. He also designed and delivered a comprehensive training program for our sales team, which led to a 15% increase in sales revenue. Additionally, Vikash played a key role in implementing our company-wide knowledge management platform, improving content accessibility and collaboration across teams.
+
+Areas of Improvement
+
+One area for improvement is to further develop the metrics and analytics capabilities to measure the effectiveness of our learning initiatives. This will enable us to better track the ROI of our investments in learning and development. Another area for improvement is to increase the frequency and variety of feedback loops with stakeholders, to ensure that the Learning & Development function remains aligned with business objectives.
+
+Manager Comments
+
+Abhishek Pandey:
+
+Vikash has been an invaluable asset to our HR team, consistently delivering high-impact results in his role as Learning & Development Lead. His ability to develop and implement effective training programs has had a direct impact on our business outcomes. While there are areas for improvement, I am confident that Vikash will continue to grow and develop as a leader within the organization.
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Abhishek Pandey
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-015

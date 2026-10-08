@@ -1,0 +1,84 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-002
+Owner_Name: Abhishek Pandey
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-002, STX-HR-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-009
+Owner Employee ID: STX-HR-002
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-002, STX-HR-001, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Abhishek Pandey
+Employee ID: STX-HR-002
+Department: HR
+Designation: HR Operations Manager
+Location: Bangalore
+Reporting Manager: Sunita Krishnamurthy (STX-HR-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Abhishek successfully implemented a new employee onboarding process, reducing the average onboarding time by 30% and resulting in a 25% increase in new hire satisfaction. He also developed and executed a comprehensive training program for HR staff, which improved their knowledge and skills in HR systems and processes by 40%. Additionally, Abhishek played a key role in the rollout of Stratos Enterprises' new performance management system, which covered 95% of the global workforce and received positive feedback from 85% of users.
+
+
+Areas of Improvement
+
+Abhishek needs to improve his data analysis skills to provide more insightful reports and recommendations to senior management. He should focus on developing his ability to interpret complex data sets and present findings in a clear and concise manner. 
+
+Abhishek should also work on enhancing his communication skills, particularly in terms of presenting HR initiatives and programs to non-HR stakeholders. He needs to be more effective in articulating the value and impact of HR projects to the business, and in influencing key stakeholders to support HR-led initiatives.
+
+
+Manager Comments
+
+Sunita Krishnamurthy:
+
+Abhishek has been an invaluable member of the HR team, consistently delivering high-quality results and taking on additional responsibilities to support the growth of Stratos Enterprises. His expertise in HR operations has been particularly useful in streamlining our processes and improving employee experiences. I am impressed with his ability to collaborate with cross-functional teams and drive projects forward. However, I encourage him to continue developing his analytical and communication skills to take his contributions to the next level.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Abhishek's outstanding performance, his value to the organization, and his growing responsibilities within the HR function.
+
+
+Signatures
+
+Reporting Manager: Sunita Krishnamurthy
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-009

@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-L-014
+Owner_Name: Akash Yadav
+Department: Legal
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-L-014, STX-L-006, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Akash Yadav
+Employee ID         : STX-L-014
+Department          : Legal
+Designation         : Regulatory Affairs Associate
+Reporting Manager   : Arpit Khanna (STX-L-006)
+Location            : Mumbai
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          4       0          14
+Casual Leave        8           2       0          6
+Sick Leave          10          1       0          9
+Total               36          7       0          29
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-03-14
+To Date             : 2025-03-14
+Duration            : 1 Day
+Reason              : Personal work in Agra
+Status              : Approved
+Applied On          : 2025-03-12
+Approved By         : Arpit Khanna, Regulatory Compliance Lead
+Approved On         : 2025-03-12
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-05-27
+To Date             : 2025-05-27
+Duration            : 1 Day
+Reason              : Knee pain and physiotherapy session
+Status              : Approved
+Applied On          : 2025-05-27
+Approved By         : Arpit Khanna, Regulatory Compliance Lead
+Approved On         : 2025-05-28
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-07-18
+To Date             : 2025-07-19
+Duration            : 2 Days
+Reason              : Home shifting assistance and setup
+Status              : Approved
+Applied On          : 2025-07-16
+Approved By         : Arpit Khanna, Regulatory Compliance Lead
+Approved On         : 2025-07-16
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-02
+To Date             : 2025-09-04
+Duration            : 3 Days
+Reason              : Extended Janmashtami holiday to Mathura
+Status              : Approved
+Applied On          : 2025-08-22
+Approved By         : Arpit Khanna, Regulatory Compliance Lead
+Approved On         : 2025-08-23
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 14 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 29 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-L-014-2025

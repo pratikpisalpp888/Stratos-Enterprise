@@ -2,8 +2,9 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 from pathlib import Path
 from typing import Optional
 
-BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
-DATA_DIR = BASE_DIR / "data"
+BACKEND_DIR = Path(__file__).resolve().parent.parent.parent
+ROOT_DIR = BACKEND_DIR.parent
+DATA_DIR = ROOT_DIR / "data" if (ROOT_DIR / "data").exists() else BACKEND_DIR / "data"
 
 class Settings(BaseSettings):
     APP_ENV: str = "development"

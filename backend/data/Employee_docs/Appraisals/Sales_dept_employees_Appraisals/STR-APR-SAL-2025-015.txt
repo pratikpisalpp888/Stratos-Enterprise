@@ -1,0 +1,72 @@
+---METADATA---
+Owner_Employee_ID: STX-S-002
+Owner_Name: Ritika Sharma
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-002, STX-S-001, HR-Admin]
+---END METADATA---
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ritika Sharma
+Employee ID: STX-S-002
+Department: Sales
+Designation: Regional Sales Manager - South
+Location: Bangalore
+Reporting Manager: Vivek Anand (STX-S-001)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Ritika demonstrated exceptional leadership by consistently meeting and exceeding quarterly sales targets for the South region. She successfully implemented a new sales strategy that resulted in a 15% increase in sales revenue compared to the same period last year. This achievement has positively impacted the company's overall revenue growth, contributing to a significant increase in our market share.
+
+Ritika played a key role in expanding Stratos Enterprises' customer base in the South region, securing new partnerships with prominent businesses and organizations. Her strategic approach to building relationships with stakeholders has led to a significant increase in our customer base, resulting in increased revenue and growth opportunities for the company.
+
+Ritika was instrumental in developing and implementing an effective training program for the sales team in the South region. Her leadership and coaching have resulted in significant improvements in sales performance, with many team members achieving their targets and exceeding expectations.
+
+Areas of Improvement
+
+To further enhance her performance, Ritika should focus on improving her time management skills, particularly in terms of prioritizing tasks and delegating responsibilities effectively. This will enable her to better manage her workload and make the most of her time, allowing her to focus on high-impact activities that drive business growth.
+
+In addition, Ritika should work on developing a more detailed and robust sales forecasting process to ensure accurate predictions and better alignment with business goals. This will enable her to make more informed decisions and adjust her sales strategy accordingly, ultimately driving growth and revenue for the company.
+
+Manager Comments
+
+Vivek Anand:
+
+Ritika has been an exceptional Regional Sales Manager for the South region, consistently delivering results that exceed expectations. Her leadership, strategic thinking, and customer-centric approach have made a significant impact on our business, and I am confident that she will continue to drive growth and success for Stratos Enterprises. I am pleased to recommend a salary hike of 13% to reflect her outstanding performance.
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Vivek Anand
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.

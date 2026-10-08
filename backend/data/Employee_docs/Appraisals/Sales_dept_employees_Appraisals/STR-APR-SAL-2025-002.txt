@@ -1,0 +1,111 @@
+---METADATA---
+Owner_Employee_ID: STX-S-011
+Owner_Name: Snehal Patwardhan
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-011, STX-S-008, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-002
+Owner Employee ID: STX-S-011
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-011, STX-S-008, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-12
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Snehal Patwardhan
+Employee ID: STX-S-011
+Department: Sales
+Designation: Sales Development Representative
+Location: Bangalore
+Reporting Manager: Pallavi Nair, Inside Sales Lead (STX-S-008)
+Employment Type: Full-Time
+Join Date: 2023-01-09
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Snehal generated 94 qualified leads in H1 2025 against a target of 70,
+achieving 134 percent of her lead generation goal. Of these, 22 leads
+converted to active pipeline opportunities with a combined value of
+1.12 crore rupees.
+
+She implemented a personalized outreach sequence for the BFSI vertical
+in Q2 2025 that improved email response rates from 8 percent to 19
+percent, which has since been adopted as a template by the inside sales
+team for vertical-specific campaigns.
+
+Snehal maintained an average call-to-connect rate of 31 percent in H1
+2025, compared to the team average of 22 percent, attributed to her
+structured call preparation and prospect research methodology.
+
+
+Areas of Improvement
+
+Snehal should develop stronger product knowledge depth, particularly
+around technical differentiators of Stratos CloudEdge versus competing
+platforms. Several prospect conversations stalled at the technical
+qualification stage because she was unable to address infrastructure
+specific questions without escalating to a Solutions Engineer.
+
+She should work on shortening lead qualification cycles. Average time
+from first contact to qualified handoff was 18 days in H1 2025 versus
+a team benchmark of 12 days, suggesting room to tighten the discovery
+process.
+
+
+Manager Comments
+
+Pallavi Nair, Inside Sales Lead:
+
+Snehal has had an excellent H1 and her lead quality has been consistently
+high. The BFSI outreach sequence she developed is now a team standard
+which is a real mark of initiative. My focus for her in H2 2025 is
+developing technical depth and reducing qualification cycle time so she
+is ready to step into a full Account Executive role by mid-2026.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.40 LPA
+Recommended Hike: 13 percent
+Revised CTC: 9.49 LPA
+Effective Date: August 1 2025
+
+Justification: Exceptional lead generation performance at 134 percent
+of target and demonstrated process innovation support above-band
+increment.
+
+
+Signatures
+
+Reporting Manager: Pallavi Nair
+Date: 2025-07-10
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-12
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-002

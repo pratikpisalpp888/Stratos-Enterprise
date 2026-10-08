@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-L-010
+Owner_Name: Rahul Dev
+Department: Legal
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-L-010, STX-L-005, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Rahul Dev
+Employee ID         : STX-L-010
+Department          : Legal
+Designation         : Legal Associate
+Reporting Manager   : Kavya Iyer (STX-L-005)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          6       0          12
+Casual Leave        8           2       0          6
+Sick Leave          10          1       0          9
+Total               36          9       0          27
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-02-13
+To Date             : 2025-02-15
+Duration            : 3 Days
+Reason              : Family function in Chennai
+Status              : Approved
+Applied On          : 2025-02-03
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-02-04
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-04-11
+To Date             : 2025-04-11
+Duration            : 1 Day
+Reason              : Migraine and medical rest
+Status              : Approved
+Applied On          : 2025-04-11
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-04-12
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-06-20
+To Date             : 2025-06-20
+Duration            : 1 Day
+Reason              : Personal work
+Status              : Approved
+Applied On          : 2025-06-19
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-06-19
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-08-18
+To Date             : 2025-08-20
+Duration            : 3 Days
+Reason              : Onam festival and family celebration in Kerala
+Status              : Approved
+Applied On          : 2025-08-07
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-08-08
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-10-03
+To Date             : 2025-10-03
+Duration            : 1 Day
+Reason              : Vehicle service and personal errands
+Status              : Approved
+Applied On          : 2025-10-02
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-10-02
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 12 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 27 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-L-010-2025

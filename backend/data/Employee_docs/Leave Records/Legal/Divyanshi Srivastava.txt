@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-L-013
+Owner_Name: Divyanshi Srivastava
+Department: Legal
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-L-013, STX-L-005, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Divyanshi Srivastava
+Employee ID         : STX-L-013
+Department          : Legal
+Designation         : Legal Executive
+Reporting Manager   : Kavya Iyer (STX-L-005)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          6       3          9
+Casual Leave        8           3       0          5
+Sick Leave          10          2       0          8
+Total               36          11      3          22
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-02-24
+To Date             : 2025-02-26
+Duration            : 3 Days
+Reason              : Mahashivratri family visit to Varanasi
+Status              : Approved
+Applied On          : 2025-02-12
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-02-13
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-05-06
+To Date             : 2025-05-07
+Duration            : 2 Days
+Reason              : Dengue fever mild episode and rest
+Status              : Approved
+Applied On          : 2025-05-06
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-05-07
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-07-04
+To Date             : 2025-07-05
+Duration            : 2 Days
+Reason              : Shifting to new accommodation in Bangalore
+Status              : Approved
+Applied On          : 2025-07-02
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-07-02
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-10-13
+To Date             : 2025-10-15
+Duration            : 3 Days
+Reason              : Dussehra family holiday to hometown
+Status              : Pending
+Applied On          : 2025-09-30
+Approved By         : Pending Manager Approval
+Approved On         : Pending
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-08-29
+To Date             : 2025-08-29
+Duration            : 1 Day
+Reason              : Personal work
+Status              : Approved
+Applied On          : 2025-08-28
+Approved By         : Kavya Iyer, Corporate Contracts Lead
+Approved On         : 2025-08-28
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 9 Days (3 Pending Approval)
+Casual Leave Remaining    : 5 Days
+Sick Leave Remaining      : 8 Days
+Total Remaining           : 22 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-L-013-2025

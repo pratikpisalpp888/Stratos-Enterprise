@@ -1,0 +1,87 @@
+---METADATA---
+Owner_Employee_ID: STX-S-007
+Owner_Name: Aditya Kulkarni
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-007, STX-S-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-012
+Owner Employee ID: STX-S-007
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-007, STX-S-003, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Aditya Kulkarni
+Employee ID: STX-S-007
+Department: Sales
+Designation: Channel Sales Lead
+Location: Bangalore
+Reporting Manager: Imran Qureshi (STX-S-003)
+Employment Type: Full-Time
+Join Date: August 1, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Aditya successfully led the channel sales team to achieve a 25% increase in quarterly sales revenue, resulting in $1.2 million in new business. He effectively managed and nurtured key channel partnerships, including a strategic alliance with TechCorp, which yielded a 30% increase in referrals. His team's sales performance exceeded the set target by 12%, with an average deal size of $50,000.
+
+Aditya played a crucial role in the launch of Stratos Enterprises' new cloud-based product, CloudSphere, by developing and executing a go-to-market strategy that resulted in 50 new customer acquisitions within the first quarter. He worked closely with the product team to provide feedback and insights, which helped shape the product's features and functionality. As a result, CloudSphere received positive reviews from customers and analysts alike.
+
+Aditya consistently demonstrated his ability to analyze sales data and provide actionable insights, which informed strategic decisions and drove business growth. He implemented a data-driven approach to sales forecasting, resulting in a 90% accuracy rate in predicting quarterly sales performance. This enabled the sales team to optimize resource allocation and improve overall sales efficiency.
+
+
+Areas of Improvement
+
+To further enhance his performance, Aditya needs to focus on developing a more comprehensive understanding of the competitive landscape and market trends. This will enable him to provide more strategic guidance to the sales team and identify new business opportunities. Additionally, Aditya should work on improving his communication skills, particularly in terms of articulating complex technical concepts to non-technical stakeholders.
+
+Aditya should also prioritize building stronger relationships with key decision-makers at strategic partner organizations. This will involve developing a more personalized approach to account management and ensuring that the needs and concerns of these partners are addressed in a timely and effective manner. By doing so, Aditya can increase the likelihood of securing long-term commitments and expanding the scope of existing partnerships.
+
+
+Manager Comments
+
+Imran Qureshi:
+
+Aditya has been an invaluable member of the sales team, consistently delivering high-quality results and demonstrating a deep understanding of our products and services. His ability to analyze complex sales data and provide actionable insights has been particularly impressive, and his contributions to the launch of CloudSphere were instrumental in its success. However, I encourage Aditya to continue developing his skills in competitive analysis and stakeholder communication to take his performance to the next level. With his strong work ethic and dedication, I am confident that he will continue to excel in his role.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Aditya's outstanding performance during the review period, which has resulted in significant revenue growth and business expansion for Stratos Enterprises.
+
+
+Signatures
+
+Reporting Manager: Imran Qureshi
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-012

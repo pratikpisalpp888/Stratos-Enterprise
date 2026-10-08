@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-L-002
+Owner_Name: Megha Chatterjee
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-002, STX-L-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-010
+Owner Employee ID: STX-L-002
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-002, STX-L-001, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Megha Chatterjee
+Employee ID: STX-L-002
+Department: Legal
+Designation: Legal Operations Manager
+Location: Bangalore
+Reporting Manager: Anirudh Sinha (STX-L-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Megha successfully led the implementation of a contract management system, resulting in a 30% reduction in contract review time and a 25% decrease in contractual errors. This system has been rolled out to all departments, with over 500 contracts managed to date. The implementation has also led to a 95% satisfaction rate among stakeholders.
+
+Megha played a crucial role in negotiating a key partnership agreement with a major cloud services provider, resulting in a 20% cost savings for Stratos Enterprises. The agreement has enabled the company to expand its cloud infrastructure, supporting a 15% increase in customer acquisitions. The partnership has also opened up new revenue streams, with projected annual revenues of $1.2 million.
+
+Megha developed and implemented a comprehensive compliance training program, which has resulted in a 40% increase in employee compliance knowledge and a 90% reduction in compliance-related incidents. The program has been well-received by employees, with a 92% participation rate and a 4.5 out of 5 satisfaction rating.
+
+
+Areas of Improvement
+
+To further enhance her performance, Megha should focus on developing her data analysis skills to better support strategic decision-making. This could involve taking courses or attending workshops on data analysis and visualization, as well as working closely with the analytics team to integrate data insights into her work. By doing so, Megha can provide more informed recommendations and drive business growth.
+
+Megha should also work on delegating tasks more effectively to her team members, empowering them to take ownership of specific projects and initiatives. This will not only free up Megha's time to focus on high-priority tasks but also help develop the skills and expertise of her team members, leading to greater overall team performance and productivity.
+
+
+Manager Comments
+
+Anirudh Sinha:
+
+Megha has been an invaluable asset to the legal team, consistently delivering high-quality results and demonstrating a deep understanding of Stratos Enterprises' business needs. Her contract management system implementation has been a game-changer, and her partnership agreement negotiations have yielded significant cost savings. I appreciate Megha's proactive approach and her ability to collaborate effectively with cross-functional teams. To take her performance to the next level, I recommend that Megha focus on developing her data analysis skills and delegating tasks more effectively to her team members.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Megha's outstanding performance, her significant contributions to the company, and her value to the legal team, and is intended to recognize and reward her hard work and dedication.
+
+
+Signatures
+
+Reporting Manager: Anirudh Sinha
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-010

@@ -1,0 +1,103 @@
+---METADATA---
+Owner_Employee_ID: STX-E-014
+Owner_Name: Ishita Ghosh
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-014, STX-E-009, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-005
+Owner Employee ID: STX-E-014
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-014, STX-E-009, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ishita Ghosh
+Employee ID: STX-E-014
+Department: Engineering
+Designation: Cloud Engineer
+Location: Pune
+Reporting Manager: Aman Verma, Cloud Infrastructure Lead (STX-E-009)
+Employment Type: Full-Time
+Join Date: 2023-06-05
+
+
+Performance Rating Summary
+
+Overall Rating: 3.5 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Ishita provisioned and configured 12 new AWS environments for Project Helios
+Phase 2 between January and April 2025, completing all environment setups
+within the committed 48-hour SLA with zero rollbacks required post-handover.
+
+She contributed to the Terraform infrastructure-as-code conversion initiative
+led by the DevOps team, migrating 6 manually managed GCP environments to
+automated Terraform templates by March 31 2025.
+
+
+Areas of Improvement
+
+Ishita needs to build stronger cost optimization awareness for cloud
+infrastructure. Two environments provisioned in Q1 2025 were over-resourced
+by approximately 35 percent relative to workload requirements, contributing
+to avoidable AWS spend that was flagged in the Q1 infrastructure cost review.
+
+She should improve proactive communication during environment provisioning
+tasks. On three occasions stakeholders were unaware of provisioning delays
+because Ishita did not send interim status updates, leading to escalations
+that could have been avoided.
+
+
+Manager Comments
+
+Aman Verma, Cloud Infrastructure Lead:
+
+Ishita is dependable for routine provisioning tasks and has picked up
+Terraform reasonably well for someone at her tenure level. The areas I
+want her to focus on are cost consciousness and proactive stakeholder
+communication. Both are critical skills for a Cloud Engineer at Stratos
+and I am confident she can develop them with deliberate effort in H2 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 9.00 LPA
+Recommended Hike: 8 percent
+Revised CTC: 9.72 LPA
+Effective Date: August 1 2025
+
+Justification: Standard increment aligned with Meets Expectations rating
+and tenure band.
+
+
+Signatures
+
+Reporting Manager: Aman Verma
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-005

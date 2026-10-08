@@ -1,0 +1,111 @@
+---METADATA---
+Owner_Employee_ID: STX-F-012
+Owner_Name: Simran Kaur
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-012, STX-F-007, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-003
+Owner Employee ID: STX-F-012
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-012, STX-F-007, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-11
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Simran Kaur
+Employee ID: STX-F-012
+Department: Finance
+Designation: Payroll Executive
+Location: Pune
+Reporting Manager: Deepak Shetty, Payroll Lead (STX-F-007)
+Employment Type: Full-Time
+Join Date: 2023-04-09
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Simran processed monthly payroll inputs for 500 employees across all
+locations in H1 2025 with a 99.8 percent accuracy rate, with the
+single discrepancy identified and self-corrected before disbursement.
+
+She coordinated the full and final settlement process for 11 employee
+separations in H1 2025, completing all settlements within the
+company-mandated 30-day timeline and ensuring statutory compliance
+for gratuity, leave encashment, and PF withdrawal processing.
+
+Simran implemented a checklist-based payroll input validation process
+in Q1 2025 that reduced data entry errors from department inputs by
+approximately 60 percent, which was subsequently adopted by the
+payroll team as a standard practice.
+
+
+Areas of Improvement
+
+Simran should develop stronger knowledge of payroll compliance for
+senior employees with complex compensation structures including
+variable pay, RSUs, and ESOPs. These scenarios currently require
+escalation to the Payroll Lead for computation guidance.
+
+She should build proficiency in advanced reporting within Darwinbox
+HRMS. Current payroll MIS reports are generated through manual
+Excel compilation, which is time-consuming and creates version
+control risks.
+
+
+Manager Comments
+
+Deepak Shetty, Payroll Lead:
+
+Simran is one of the most reliable members of the payroll team and
+her checklist initiative has had a genuine and lasting impact on
+input quality. Her full and final settlement management has been
+particularly strong. The development areas are advanced compensation
+scenarios and HRMS reporting automation, both of which will be
+important as Stratos scales its headcount further.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.80 LPA
+Recommended Hike: 11 percent
+Revised CTC: 8.66 LPA
+Effective Date: August 1 2025
+
+Justification: Near-perfect accuracy record, process improvement
+initiative, and strong separation management performance support
+above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Deepak Shetty
+Date: 2025-07-09
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-11
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-003

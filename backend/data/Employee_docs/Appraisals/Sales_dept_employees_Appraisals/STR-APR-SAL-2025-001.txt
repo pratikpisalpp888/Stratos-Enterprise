@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-S-010
+Owner_Name: Ishaan Gupta
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-010, STX-S-006, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-001
+Owner Employee ID: STX-S-010
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-010, STX-S-006, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-12
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ishaan Gupta
+Employee ID: STX-S-010
+Department: Sales
+Designation: Account Executive
+Location: Bangalore
+Reporting Manager: Shruti Desai, SMB Sales Lead (STX-S-006)
+Employment Type: Full-Time
+Join Date: 2022-06-20
+
+
+Performance Rating Summary
+
+Overall Rating: 4.3 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Ishaan closed 11 new SMB accounts in H1 2025 against a target of 8, achieving 137.5 percent of his booking goal with a total contract value of 1.84 crore rupees. Three of these accounts were competitive displacements from a rival SaaS vendor.
+
+He maintained a sales cycle average of 28 days for SMB deals, which is 19 percent faster than the department average of 34.5 days, attributed to his structured qualification process adopted from the MEDDIC framework.
+
+Ishaan generated 4 referral leads from existing clients in Q2 2025, two of which have progressed to active pipeline with a combined potential value of 62 lakh rupees.
+
+
+Areas of Improvement
+
+Ishaan should work on improving CRM hygiene. Pipeline updates in Salesforce were inconsistent during Q1 2025, with 6 opportunities missing activity logs for periods exceeding 10 days, making accurate forecasting difficult for the sales leadership team.
+
+He should begin developing skills for handling mid-market and enterprise accounts. His SMB performance is strong but long-term growth at Stratos will require capability in managing longer and more complex enterprise sales cycles.
+
+
+Manager Comments
+
+Shruti Desai, SMB Sales Lead:
+
+Ishaan is one of the strongest Account Executives in the SMB segment and his H1 numbers reflect that. His competitive displacement wins are particularly impressive and show real maturity in his sales approach. My focus for him in H2 2025 is CRM discipline and beginning to shadow enterprise deals so he can grow into the next level.
+
+
+Salary Hike Recommendation
+
+Current CTC: 9.20 LPA
+Recommended Hike: 15 percent
+Revised CTC: 10.58 LPA
+Effective Date: August 1 2025
+
+Justification: Exceptional quota attainment at 137.5 percent warrants top-band increment with additional performance bonus of 75,000 rupees processed separately.
+
+
+Signatures
+
+Reporting Manager: Shruti Desai
+Date: 2025-07-10
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-12
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-001

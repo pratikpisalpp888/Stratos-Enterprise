@@ -1,0 +1,76 @@
+---METADATA---
+Owner_Employee_ID: STX-L-003
+Owner_Name: Rohan Pillai
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-003, STX-L-001, HR-Admin]
+---END METADATA---
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Rohan Pillai
+Employee ID: STX-L-003
+Department: Legal
+Designation: Compliance Manager
+Location: Bangalore
+Reporting Manager: Anirudh Sinha (STX-L-001)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Rohan successfully led the implementation of new compliance software, resulting in enhanced data integrity and improved reporting efficiency across the organization. This achievement demonstrated his exceptional project management skills and ability to drive change. The new system has already shown a 30% reduction in compliance audit time.
+
+He consistently demonstrated his expertise in navigating complex regulatory environments, providing critical guidance to business stakeholders on compliance requirements. His expertise was instrumental in mitigating potential risks and ensuring regulatory compliance across various business units.
+
+Rohan played a key role in developing and delivering compliance training programs, resulting in a significant increase in employee awareness and adherence to compliance policies. His training sessions were highly rated by employees, with a 95% satisfaction rating.
+
+Areas of Improvement
+
+To further enhance his impact as a Compliance Manager, Rohan should focus on developing his strategic planning skills, which would enable him to align compliance initiatives more closely with the organization's overall business objectives. This could involve identifying opportunities for compliance innovation and collaborating with other departments to drive business growth.
+
+In terms of communication, Rohan should aim to improve his regular updates to the management team on compliance matters, particularly during periods of high regulatory change. This would help ensure that the organization remains informed and prepared to respond to emerging compliance risks.
+
+Manager Comments
+
+As Rohan's reporting manager, I am extremely pleased with his performance over the last six months. He has consistently demonstrated his expertise and commitment to compliance, and his contributions to the organization have been invaluable. His leadership skills and ability to drive change have been particularly impressive, and I have no doubt that he will continue to excel in his role.
+
+Rohan's ability to navigate complex regulatory environments and provide critical guidance to stakeholders has been a significant asset to the organization. His expertise has helped mitigate potential risks and ensured regulatory compliance across various business units.
+
+I believe that Rohan is well-deserving of a salary hike, given his exceptional performance and the high impact he has had on the organization. I strongly recommend a 13% salary hike, which reflects his value to the organization.
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Anirudh Sinha
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-014

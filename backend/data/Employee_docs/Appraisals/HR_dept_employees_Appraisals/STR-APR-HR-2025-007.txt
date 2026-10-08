@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-006
+Owner_Name: Sandeep Mathur
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-006, STX-HR-002, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-007
+Owner Employee ID: STX-HR-006
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-006, STX-HR-002, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Sandeep Mathur
+Employee ID: STX-HR-006
+Department: HR
+Designation: Employee Relations Lead
+Location: Bangalore
+Reporting Manager: Abhishek Pandey (STX-HR-002)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+The Employee Relations Lead successfully implemented a new employee onboarding process, resulting in a 25% reduction in new hire turnover rates and a 30% decrease in time-to-productivity. This was achieved through collaboration with the recruitment team and the development of a comprehensive onboarding checklist. As a result, the average new hire satisfaction rating increased by 15%.
+
+Sandeep effectively managed and resolved 95% of employee grievances within the stipulated timeframe, ensuring that all cases were handled in a fair and transparent manner. This was achieved through regular feedback sessions with employees and the implementation of a case management system to track and monitor grievances. The average resolution time for grievances decreased by 20% during this period.
+
+The Employee Relations Lead played a key role in developing and delivering training programs for employees, resulting in a 40% increase in employee participation in training sessions. The training programs focused on topics such as diversity and inclusion, communication skills, and performance management. As a result, employee satisfaction with training programs increased by 25%.
+
+
+Areas of Improvement
+
+To further enhance the employee experience, Sandeep needs to focus on developing more effective communication channels to ensure that all employees are informed and engaged. This can be achieved by conducting regular town hall meetings, creating a dedicated employee newsletter, and leveraging digital platforms to share company updates and news. By doing so, the company can increase employee engagement and reduce the risk of misinformation.
+
+The Employee Relations Lead should work on improving the efficiency of the performance management process by implementing a more streamlined and automated system. This can be achieved by leveraging technology to track employee performance, provide real-time feedback, and identify areas for development. By doing so, the company can reduce the administrative burden on managers and employees, and provide more accurate and timely performance evaluations.
+
+
+Manager Comments
+
+Abhishek Pandey:
+
+Sandeep has been an invaluable asset to the HR team, consistently demonstrating a deep understanding of employee relations and a commitment to delivering high-quality results. His ability to build strong relationships with employees and stakeholders has been impressive, and his contributions to the development of our employee onboarding process have been significant. I am confident that Sandeep will continue to grow and develop in his role, and I look forward to seeing his future contributions to the company.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Sandeep's outstanding performance and the value he has added to the organization, and is intended to recognize and reward his contributions to the company.
+
+
+Signatures
+
+Reporting Manager: Abhishek Pandey
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-007

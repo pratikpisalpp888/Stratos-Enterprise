@@ -1,0 +1,51 @@
+---METADATA---
+Document_ID: STR-ENG-CRG-2025-001
+Department: Engineering
+Document_Type: Code Review Guidelines
+Sensitivity_Level: Public
+Created_Date: 2025-08-15
+Author: Priya Raman, Engineering Manager
+---END METADATA---
+
+The Engineering Department at Stratos Enterprises is committed to maintaining high-quality code across all our projects. To ensure this, we have established the following guidelines for code review.
+
+**Purpose:**
+The primary purpose of code review is to maintain the quality, security, and maintainability of our codebase. It involves a thorough examination of a developer's code by their peers to ensure it adheres to our coding standards, best practices, and security guidelines.
+
+**Scope:**
+All code submissions, including new features, bug fixes, and refactorings, are subject to code review. This includes, but is not limited to, code written for Project Helios, CloudEdge 3.0, and any other internal or external projects assigned to Stratos Enterprises engineers.
+
+**Code Review Process:**
+The code review process involves the following steps:
+
+1. **Submission:** Developers submit their code changes through our internal code review tool, Gerrit.
+2. **Initial Review:** Engineering team members review the submission to ensure it meets the basic requirements, such as proper documentation, formatting, and syntax.
+3. **In-depth Review:** A designated reviewer, usually the lead developer or their designee, conducts an in-depth review of the code to ensure it adheres to our coding standards and best practices.
+4. **Feedback:** The reviewer provides feedback to the developer, highlighting any issues, suggestions, or improvements.
+5. **Re-submission:** The developer addresses the feedback and re-submits the code for review.
+
+**Code Review Criteria:**
+The following criteria will be used during the code review process:
+
+1. **Readability:** Code should be readable and maintainable by other engineers.
+2. **Security:** Code should adhere to our security guidelines and best practices, as outlined in the Stratos Enterprises Security Policy (Clause 7.2).
+3. **Test Coverage:** Code should have adequate test coverage to ensure functionality and prevent regressions.
+4. **Code Organization:** Code should be organized and structured according to our coding standards.
+5. **Performance:** Code should be efficient and performant.
+
+**Review Guidelines:**
+To ensure consistency and fairness, the following guidelines will be followed during code reviews:
+
+1. **Be specific:** Reviewers should provide specific feedback and suggestions, rather than general comments.
+2. **Be constructive:** Reviewers should focus on improving the code, rather than criticizing the developer.
+3. **Be timely:** Reviewers should complete their review within three business days of submission.
+4. **Be transparent:** All code review feedback will be made available to the developer and the development team.
+
+**Escalation Process:**
+In the event of a disagreement or dispute during the code review process, the following escalation process will be followed:
+
+1. **Discussion:** The developer and reviewer will discuss the issue and attempt to resolve it.
+2. **Lead Developer:** The lead developer will be consulted, if necessary, to provide guidance or resolve the issue.
+3. **Engineering Manager:** The engineering manager will be consulted, if necessary, to provide guidance or resolve the issue.
+
+By following these guidelines, we aim to maintain high-quality code, improve collaboration, and ensure that our codebase remains secure and maintainable.

@@ -1,0 +1,86 @@
+---METADATA---
+Owner_Employee_ID: STX-E-011
+Owner_Name: Siddharth Jain
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-011, STX-E-006, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-002
+Owner Employee ID: STX-E-011
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-011, STX-E-006, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Siddharth Jain
+Employee ID: STX-E-011
+Department: Engineering
+Designation: Software Engineer
+Location: Bangalore
+Reporting Manager: Ananya Iyer, Frontend Team Lead (STX-E-006)
+Employment Type: Full-Time
+Join Date: 2023-01-23
+
+
+Performance Rating Summary
+
+Overall Rating: 3.6 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Siddharth delivered all assigned frontend modules for the CloudEdge 3.0 dashboard on schedule, including the real-time usage metrics panel and the multi-tenant role management UI. Both components passed QA with zero critical defects in the first review cycle.
+
+He proactively identified and resolved a cross-browser compatibility issue in the notification system that had gone undetected for two sprints, preventing a potential escalation ahead of the CloudEdge 3.0 beta release in July 2025.
+
+
+Areas of Improvement
+
+Siddharth needs to improve estimation accuracy during sprint planning. In three out of six sprints in H1 2025, tasks were underestimated by more than 40 percent, causing last-minute scope adjustments and team-level rescheduling.
+
+He should invest in deepening backend integration knowledge. Several frontend tasks were delayed due to dependency on backend API understanding that Siddharth was unable to independently resolve, requiring escalation to senior engineers.
+
+
+Manager Comments
+
+Ananya Iyer, Frontend Team Lead:
+
+Siddharth is a reliable contributor with a good eye for UI quality and user experience details. His work on CloudEdge 3.0 has been solid and shows clear growth from his first six months at Stratos. My key feedback for H2 2025 is around ownership and proactive communication when blockers arise. I am confident he will step up with the right guidance.
+
+
+Salary Hike Recommendation
+
+Current CTC: 10.20 LPA
+Recommended Hike: 9 percent
+Revised CTC: 11.12 LPA
+Effective Date: August 1 2025
+
+Justification: Standard increment aligned with Meets Expectations rating and tenure band.
+
+
+Signatures
+
+Reporting Manager: Ananya Iyer
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-002

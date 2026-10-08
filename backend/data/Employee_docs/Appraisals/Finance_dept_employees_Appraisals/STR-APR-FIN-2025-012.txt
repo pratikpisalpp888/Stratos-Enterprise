@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-F-004
+Owner_Name: Nandita Rao
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-004, STX-F-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-012
+Owner Employee ID: STX-F-004
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-004, STX-F-001, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Nandita Rao
+Employee ID: STX-F-004
+Department: Finance
+Designation: Financial Planning Manager
+Location: Bangalore
+Reporting Manager: Raghav Bansal (STX-F-001)
+Employment Type: Full-Time
+Join Date: August 10, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Nandita successfully led the financial planning and analysis for Stratos Enterprises' cloud infrastructure expansion, resulting in a 25% reduction in costs and a 15% increase in ROI. She worked closely with the sales team to develop a robust forecasting model, which improved sales forecast accuracy by 12%. Her efforts contributed to the company's overall revenue growth of 20% during the review period. 
+
+Nandita developed and implemented a financial dashboard using Tableau, providing real-time insights into key performance indicators such as customer acquisition costs, churn rates, and revenue growth. This dashboard has been widely adopted across the organization, enabling data-driven decision-making and improving collaboration between departments. As a result, the finance team has reduced its reporting time by 30% and increased its analytical capacity by 20%.
+
+Nandita played a crucial role in negotiating a contract with a major cloud services provider, securing a 10% discount on annual subscription fees and saving the company 5 million rupees. She also identified areas of cost optimization and implemented process improvements, resulting in a 5% reduction in operating expenses and a 3% increase in net profit margin.
+
+
+Areas of Improvement
+
+Nandita needs to work on enhancing her communication skills, particularly in presenting complex financial data to non-financial stakeholders. While she has made significant progress in this area, there is still room for improvement to ensure that her insights and recommendations are effectively conveyed to the leadership team and other departments. To achieve this, she will attend a presentation skills workshop and receive coaching from her manager.
+
+Nandita should focus on developing a more strategic approach to financial planning, aligning her efforts with the company's long-term goals and objectives. This includes identifying new business opportunities, assessing market trends, and providing strategic recommendations to the leadership team. To support this development, she will participate in a strategic planning workshop and engage in regular discussions with her manager to ensure her priorities are aligned with the company's overall strategy.
+
+
+Manager Comments
+
+Raghav Bansal:
+
+Nandita has been an invaluable asset to the finance team, consistently delivering high-quality results and demonstrating a deep understanding of Stratos Enterprises' financial dynamics. Her ability to analyze complex data sets and provide actionable insights has been impressive, and her contributions to the company's growth and profitability are noteworthy. I am pleased to see her taking on additional responsibilities and mentoring junior team members, showcasing her leadership potential. Overall, Nandita has exceeded expectations, and I look forward to seeing her continued growth and success.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Nandita's outstanding performance, her value to the organization, and industry benchmarks for similar roles.
+
+
+Signatures
+
+Reporting Manager: Raghav Bansal
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-012

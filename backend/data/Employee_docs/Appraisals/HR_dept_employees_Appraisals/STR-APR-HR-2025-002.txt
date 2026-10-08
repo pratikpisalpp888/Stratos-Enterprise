@@ -1,0 +1,110 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-011
+Owner_Name: Tejas Kulkarni
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-011, STX-HR-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-002
+Owner Employee ID: STX-HR-011
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-011, STX-HR-005, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-14
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Tejas Kulkarni
+Employee ID: STX-HR-011
+Department: HR
+Designation: Technical Recruiter
+Location: Pune
+Reporting Manager: Priyanka Venkatesh, Recruitment Lead (STX-HR-005)
+Employment Type: Full-Time
+Join Date: 2022-10-03
+
+
+Performance Rating Summary
+
+Overall Rating: 4.2 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Tejas closed 18 technical hires in H1 2025 against a target of 14,
+achieving 128 percent of his hiring goal. Roles closed included 8
+backend engineers, 4 DevOps engineers, and 6 QA engineers across
+Bangalore and Pune locations.
+
+He reduced average time-to-offer for technical roles from 34 days in
+H2 2024 to 24 days in H1 2025 by introducing a structured technical
+screening template that reduced repeat interview rounds by 40 percent.
+
+Tejas built a passive candidate pipeline of 67 pre-qualified senior
+engineers through LinkedIn outreach and engineering community events,
+creating a ready talent pool that has reduced sourcing time for
+critical roles by approximately 2 weeks.
+
+
+Areas of Improvement
+
+Tejas should develop stronger offer negotiation skills. Three
+candidates in H1 2025 declined offers citing compensation gaps that
+could potentially have been closed with more structured negotiation
+support, resulting in re-opening searches that added an average of
+18 days per role.
+
+He should improve documentation of candidate feedback and interview
+notes in the ATS. Incomplete records for 7 candidates in Q1 2025
+created compliance gaps during the HR audit conducted in April 2025.
+
+
+Manager Comments
+
+Priyanka Venkatesh, Recruitment Lead:
+
+Tejas has had an outstanding H1 and his time-to-offer improvement is
+one of the most impactful process contributions made by the recruitment
+team this year. The passive candidate pipeline he has built is already
+paying dividends. My focus for him in H2 2025 is offer negotiation
+skill development and ATS documentation discipline, both of which are
+important for operating at the next level.
+
+
+Salary Hike Recommendation
+
+Current CTC: 9.40 LPA
+Recommended Hike: 13 percent
+Revised CTC: 10.62 LPA
+Effective Date: August 1 2025
+
+Justification: Exceptional hiring target attainment at 128 percent and
+measurable process improvement contribution support above-band increment.
+
+
+Signatures
+
+Reporting Manager: Priyanka Venkatesh
+Date: 2025-07-12
+
+HR Representative: Abhishek Pandey
+Date: 2025-07-14
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-002

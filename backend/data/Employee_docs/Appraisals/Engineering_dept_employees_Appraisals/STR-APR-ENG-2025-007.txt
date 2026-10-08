@@ -1,0 +1,87 @@
+---METADATA---
+Owner_Employee_ID: STX-E-009
+Owner_Name: Aman Verma
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-009, STX-E-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-007
+Owner Employee ID: STX-E-009
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-009, STX-E-003, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Aman Verma
+Employee ID: STX-E-009
+Department: Engineering
+Designation: Cloud Infrastructure Lead
+Location: Bangalore
+Reporting Manager: Karthik Reddy (STX-E-003)
+Employment Type: Full-Time
+Join Date: August 15, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Aman successfully led the migration of Stratos Enterprise's core application to a cloud-native architecture, resulting in a 25% reduction in infrastructure costs and a 30% increase in application uptime. This project was completed within the planned 6-month timeline and under budget by 10%. The new architecture has also improved scalability, allowing the company to handle a 50% increase in user traffic without downtime. 
+
+Aman's team achieved a 95% reduction in cloud security vulnerabilities through the implementation of automated compliance scanning and remediation tools. This has significantly improved the company's security posture and reduced the risk of data breaches. The team also developed and implemented a comprehensive cloud security training program, which has improved the security awareness of all engineering teams.
+
+Under Aman's leadership, the cloud infrastructure team reduced the average time to deploy new cloud resources by 40% through the development and implementation of automated deployment scripts and workflows. This has improved the overall efficiency of the engineering teams and allowed them to focus on higher-value tasks. The team also developed a self-service portal for cloud resource provisioning, which has improved the user experience and reduced the workload of the cloud infrastructure team.
+
+
+Areas of Improvement
+
+Aman needs to improve his communication skills, particularly in terms of providing regular updates to stakeholders on project progress and timelines. There were instances where stakeholders were not informed of delays or changes in project scope, leading to misunderstandings and misaligned expectations. Aman should work on establishing clear communication channels and providing regular updates to ensure that all stakeholders are informed and aligned.
+
+Aman should focus on developing his skills in emerging cloud technologies, such as serverless computing and edge computing. While he has a strong foundation in traditional cloud infrastructure, the company is looking to adopt more innovative and cutting-edge technologies to stay competitive. Aman should take advantage of training and development opportunities to improve his skills in these areas and stay up-to-date with industry trends.
+
+
+Manager Comments
+
+Karthik Reddy:
+
+Aman has been an invaluable member of the engineering team, and his leadership of the cloud infrastructure team has been outstanding. He has consistently delivered high-quality results and has demonstrated a deep understanding of cloud infrastructure and architecture. However, there have been instances where communication with stakeholders could have been improved, and Aman should focus on developing his skills in this area. Overall, I am pleased with Aman's performance and look forward to seeing his continued growth and contributions to the company.
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Aman's exceptional performance and the value he has brought to the company, and is intended to recognize his contributions and motivate him to continue delivering high-quality results.
+
+
+Signatures
+
+Reporting Manager: Karthik Reddy
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-007

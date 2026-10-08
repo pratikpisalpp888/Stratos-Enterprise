@@ -1,0 +1,67 @@
+---METADATA---
+Owner_Employee_ID: STX-L-009
+Owner_Name: Pooja Nambiar
+Department: Legal
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-L-009, STX-L-003, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Pooja Nambiar
+Employee ID         : STX-L-009
+Department          : Legal
+Designation         : Vendor Contract Lead
+Role Level          : Team Lead
+Location            : Bangalore
+Date of Joining     : 2019-06-01
+PAN                 : ABCXX6039X
+Bank Account        : XXXX XXXX XXXX 8676
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 110,000
+House Rent Allowance (HRA)          : INR 44,000
+Special Allowance                   : INR 28,000
+Performance Bonus                   : INR 18,000
+Gross Salary                        : INR 200,000
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 13,200
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 18,000
+Total Deductions                    : INR 31,400
+
+
+Net Salary (Take Home)              : INR 168,600
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 3,000,000
+Monthly CTC                         : INR 250,000
+Effective from August 1 2025 post appraisal increment.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-STXL009-SEP2025

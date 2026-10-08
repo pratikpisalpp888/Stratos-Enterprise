@@ -1,0 +1,113 @@
+---METADATA---
+Owner_Employee_ID: STX-S-012
+Owner_Name: Farhan Ali
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-012, STX-S-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-003
+Owner Employee ID: STX-S-012
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-012, STX-S-005, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-12
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Farhan Ali
+Employee ID: STX-S-012
+Department: Sales
+Designation: Enterprise Account Executive
+Location: Pune
+Reporting Manager: Karan Malhotra, Enterprise Sales Lead (STX-S-005)
+Employment Type: Full-Time
+Join Date: 2023-04-03
+
+
+Performance Rating Summary
+
+Overall Rating: 4.4 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Farhan closed 3 enterprise accounts in H1 2025 with a combined contract
+value of 2.94 crore rupees, achieving 122 percent of his H1 booking
+target. His largest deal, a 1.38 crore rupees 2-year SaaS agreement
+with Navkaar Logistics, was closed in 41 days from first meeting, the
+fastest enterprise deal closure recorded in the Pune sales team in 2025.
+
+He built and maintained a self-sourced pipeline of 7.8 crore rupees
+entering Q3 2025, which represents 89 percent self-generated pipeline
+against a team benchmark of 60 percent, demonstrating strong
+prospecting discipline.
+
+Farhan conducted 4 executive business review meetings with existing
+enterprise accounts in Q2 2025 that resulted in two upsell opportunities
+valued at 68 lakh rupees collectively, both currently in negotiation.
+
+
+Areas of Improvement
+
+Farhan should improve internal handoff documentation when transitioning
+closed accounts to the Customer Success team. Three accounts handed off
+in H1 2025 had incomplete implementation notes, causing onboarding delays
+of 5 to 8 business days that received negative feedback from clients.
+
+He needs to strengthen multi-threading within enterprise accounts. In two
+accounts Farhan had a single champion contact and no executive sponsor
+engagement, creating concentration risk that was flagged during the Q2
+pipeline review.
+
+
+Manager Comments
+
+Karan Malhotra, Enterprise Sales Lead:
+
+Farhan is one of the highest-performing enterprise AEs I have managed.
+The Navkaar Logistics closure speed was exceptional and his pipeline
+self-sufficiency is something other AEs should benchmark. The areas to
+work on are post-sale handoff quality and multi-threading, both of which
+are critical for long-term account health and renewal rates. I am
+nominating him for the Enterprise Account Manager role in the next
+promotion cycle.
+
+
+Salary Hike Recommendation
+
+Current CTC: 12.80 LPA
+Recommended Hike: 16 percent
+Revised CTC: 14.85 LPA
+Effective Date: August 1 2025
+
+Justification: Outstanding quota attainment at 122 percent of enterprise
+target with high self-generated pipeline ratio warrants top-band
+increment plus performance bonus of 1.20 lakh rupees processed separately.
+
+
+Signatures
+
+Reporting Manager: Karan Malhotra
+Date: 2025-07-10
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-12
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-003

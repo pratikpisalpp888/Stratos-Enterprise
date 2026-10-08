@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-L-010
+Owner_Name: Rahul Dev
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-010, STX-L-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-001
+Owner Employee ID: STX-L-010
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-010, STX-L-005, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-13
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Rahul Dev
+Employee ID: STX-L-010
+Department: Legal
+Designation: Legal Associate
+Location: Bangalore
+Reporting Manager: Kavya Iyer, Corporate Contracts Lead (STX-L-005)
+Employment Type: Full-Time
+Join Date: 2022-07-04
+
+
+Performance Rating Summary
+
+Overall Rating: 3.8 out of 5
+Rating Category: Meets Expectations Plus
+
+
+Key Achievements
+
+Rahul reviewed and processed 43 vendor contracts in H1 2025 including NDAs, SaaS subscription agreements, and service level agreements, maintaining a turnaround time of 4.8 business days against a team benchmark of 6 days.
+
+He played a supporting role in the Zenith FinCorp contract review, identifying two clauses related to data residency obligations that required revision before final sign-off, preventing a potential compliance gap under the DPDP Act 2023.
+
+Rahul completed the DPDP Act Compliance certification offered internally by the Legal team in March 2025 and subsequently helped draft the revised consent framework template used across Engineering and Sales.
+
+
+Areas of Improvement
+
+Rahul should develop greater confidence in independently advising internal stakeholders. In several instances during Q1 2025 he escalated queries to senior associates that were within his competency level, creating unnecessary bottlenecks for the Corporate Contracts Lead.
+
+He should build familiarity with international contract frameworks, particularly for SaaS agreements with clients outside India. As Stratos expands its global footprint, Legal Associates will increasingly need to navigate cross-border legal requirements.
+
+
+Manager Comments
+
+Kavya Iyer, Corporate Contracts Lead:
+
+Rahul has had a solid first half of 2025 and his contract processing speed and accuracy have both improved noticeably compared to last year. His contribution to the Zenith FinCorp review was genuinely valuable. I want to see him take more independent ownership of routine matters in H2 2025 and start engaging more proactively with internal stakeholders without always waiting for direction.
+
+
+Salary Hike Recommendation
+
+Current CTC: 8.40 LPA
+Recommended Hike: 10 percent
+Revised CTC: 9.24 LPA
+Effective Date: August 1 2025
+
+Justification: Above-average contract processing performance and demonstrated compliance awareness support a moderate above-standard increment.
+
+
+Signatures
+
+Reporting Manager: Kavya Iyer
+Date: 2025-07-11
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-13
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-001

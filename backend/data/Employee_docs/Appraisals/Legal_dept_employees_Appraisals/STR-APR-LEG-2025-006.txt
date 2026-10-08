@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-L-015
+Owner_Name: Tanmay Kulshrestha
+Department: Legal
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-L-015, STX-L-007, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-LEG-2025-006
+Owner Employee ID: STX-L-015
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-L-015, STX-L-007, HR-Admin
+Department: Legal
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-13
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Tanmay Kulshrestha
+Employee ID: STX-L-015
+Department: Legal
+Designation: Data Privacy Analyst
+Location: Pune
+Reporting Manager: Nisha Thomas, Data Privacy Lead (STX-L-007)
+Employment Type: Full-Time
+Join Date: 2024-05-27
+
+
+Performance Rating Summary
+
+Overall Rating: 3.1 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Tanmay assisted in documenting data processing activities across 3
+departments as part of the DPDP Act readiness initiative, producing
+Records of Processing Activities drafts that required only minor
+corrections before finalization.
+
+He completed the Data Privacy Foundation certification from the
+International Association of Privacy Professionals in June 2025,
+demonstrating commitment to building domain expertise.
+
+
+Areas of Improvement
+
+Tanmay joined in May 2024 and is still in early stages of his
+learning curve. He needs to develop a more systematic approach to
+data flow mapping, as current outputs require significant rework
+at the senior review stage.
+
+He should improve written communication for internal stakeholders.
+Privacy impact assessment summaries prepared in Q2 2025 were
+flagged by the Data Privacy Lead as too technical for the intended
+audience of non-legal department heads.
+
+
+Manager Comments
+
+Nisha Thomas, Data Privacy Lead:
+
+Tanmay is still relatively new and his IAPP certification shows the
+right attitude toward professional development. The DPDP documentation
+work was a reasonable first contribution. In H2 2025 I want to see
+him take more end-to-end ownership of at least one data mapping
+exercise independently and improve the accessibility of his written
+outputs.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.20 LPA
+Recommended Hike: 7 percent
+Revised CTC: 7.70 LPA
+Effective Date: August 1 2025
+
+Justification: First full appraisal cycle with standard new joiner
+increment reflecting developing performance trajectory.
+
+
+Signatures
+
+Reporting Manager: Nisha Thomas
+Date: 2025-07-11
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-13
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-LEG-2025-006

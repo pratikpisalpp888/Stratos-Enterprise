@@ -1,0 +1,104 @@
+---METADATA---
+Owner_Employee_ID: STX-E-015
+Owner_Name: Nikhil Desai
+Department: Engineering
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-E-015, STX-E-005, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-ENG-2025-006
+Owner Employee ID: STX-E-015
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-E-015, STX-E-005, HR-Admin
+Department: Engineering
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Nikhil Desai
+Employee ID: STX-E-015
+Department: Engineering
+Designation: Backend Developer
+Location: Bangalore
+Reporting Manager: Rohit Sharma, Backend Team Lead (STX-E-005)
+Employment Type: Full-Time
+Join Date: 2024-01-08
+
+
+Performance Rating Summary
+
+Overall Rating: 3.2 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Nikhil successfully completed onboarding and became a productive contributor
+within 6 weeks of joining, delivering his first independent module, the
+notification preferences API, by February 28 2025 with minimal revision
+cycles.
+
+He contributed to backend unit test coverage improvement, writing 47 new
+unit tests for the user management service in Q2 2025, raising module
+coverage from 61 percent to 79 percent.
+
+
+Areas of Improvement
+
+Nikhil needs to strengthen his understanding of distributed systems concepts.
+Several design discussions in sprint planning sessions revealed gaps in his
+knowledge of concepts such as eventual consistency and message queue
+patterns that are foundational for backend work at Stratos.
+
+He should improve code review responsiveness. On average Nikhil took 3.2
+days to respond to peer review comments in H1 2025 against a team norm of
+1 day, causing sprint delays on dependent tasks.
+
+
+Manager Comments
+
+Rohit Sharma, Backend Team Lead:
+
+Nikhil joined only in January 2025 so this is his first appraisal at
+Stratos and the context of being a new joiner is reflected in the rating.
+His ramp-up was solid and the notification API delivery showed good
+fundamentals. The priority for H2 2025 is deepening his distributed
+systems knowledge and being a faster and more engaged participant in the
+code review process.
+
+
+Salary Hike Recommendation
+
+Current CTC: 9.50 LPA
+Recommended Hike: 7 percent
+Revised CTC: 10.17 LPA
+Effective Date: August 1 2025
+
+Justification: First appraisal cycle with standard new joiner increment
+reflecting satisfactory performance during probation and initial months.
+
+
+Signatures
+
+Reporting Manager: Rohit Sharma
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-ENG-2025-006

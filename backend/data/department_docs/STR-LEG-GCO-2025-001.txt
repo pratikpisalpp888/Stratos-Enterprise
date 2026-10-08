@@ -1,0 +1,38 @@
+---METADATA---
+Document_ID: STR-LEG-GCO-2025-001
+Department: Legal
+Document_Type: General Compliance Overview
+Sensitivity_Level: Public
+Created_Date: 2025-08-15
+Author: Sonal Kapoor, Data Protection Manager
+---END METADATA---
+
+Stratos Enterprises is a SaaS and cloud-based services company with its headquarters in Bangalore, India. As part of our commitment to maintaining high standards of corporate governance and compliance, our Legal Department has developed this General Compliance Overview document to provide an overview of our key compliance initiatives, policies, and procedures.
+
+Data Protection and Privacy
+
+Stratos Enterprises is committed to protecting the personal data of our customers, employees, and business partners. Our Data Protection Policy, Clause 4.1 of our Employee Handbook, outlines the importance of safeguarding personal data and the measures we take to prevent unauthorized access, disclosure, or loss of data.
+
+As part of our data protection efforts, we have implemented a robust Data Protection Impact Assessment (DPIA) process for all projects that involve the processing of personal data, including Project Helios, our cloud-based customer relationship management (CRM) platform. Our DPIAs assess the risks associated with the processing of personal data and identify measures to mitigate these risks.
+
+In addition to our DPIA process, we also have a Data Breach Response Plan in place, which outlines the procedures to follow in the event of a data breach. Our plan includes notifications to affected individuals, regulatory bodies, and internal stakeholders, as well as containment and remediation efforts.
+
+Cloud Security and Compliance
+
+Stratos Enterprises operates multiple cloud-based services, including CloudEdge 3.0, our cloud-based infrastructure-as-a-service (IaaS) platform. As part of our cloud security and compliance initiatives, we have implemented a robust cloud security framework that includes measures to ensure the confidentiality, integrity, and availability of our cloud-based services.
+
+Our cloud security framework includes penetration testing and vulnerability assessments, which are conducted on a regular basis to identify and address potential security risks. We also have a Cloud Security Policy, Clause 5.2 of our Employee Handbook, which outlines the responsibilities of our employees in maintaining the security and integrity of our cloud-based services.
+
+Export Control and Trade Compliance
+
+Stratos Enterprises operates globally and engages in international trade and transactions. As part of our export control and trade compliance initiatives, we have implemented a robust Export Control and Trade Compliance Policy, Clause 6.1 of our Employee Handbook, which outlines our procedures for ensuring compliance with export control regulations, including the Indian Export Organisation (IEO) regulations.
+
+Our policy requires all employees involved in international trade and transactions to undergo export control training and to conduct thorough risk assessments to ensure compliance with export control regulations. We also have a Trade Compliance Committee in place, which reviews and approves all export transactions to ensure compliance with applicable regulations.
+
+Code of Conduct and Ethics
+
+Stratos Enterprises is committed to maintaining a culture of compliance and integrity. Our Code of Conduct and Ethics, Clause 1.1 of our Employee Handbook, outlines the expectations for our employees' behavior and the consequences of non-compliance.
+
+Our Code of Conduct and Ethics includes provisions related to anti-corruption, anti-bribery, and anti-money laundering, as well as provisions related to confidentiality, data protection, and intellectual property. We also have a Whistleblower Policy in place, which allows employees to report any concerns or suspicions of non-compliance without fear of retaliation.
+
+In conclusion, Stratos Enterprises is committed to maintaining high standards of corporate governance and compliance. Our General Compliance Overview document provides an overview of our key compliance initiatives, policies, and procedures, and outlines our commitment to protecting personal data, ensuring cloud security and compliance, and maintaining a culture of integrity and compliance.

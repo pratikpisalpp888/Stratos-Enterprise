@@ -1,0 +1,85 @@
+---METADATA---
+Owner_Employee_ID: STX-F-001
+Owner_Name: Raghav Bansal
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-007
+Owner Employee ID: STX-F-001
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-001, HR-Admin, Finance-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Raghav Bansal
+Employee ID: STX-F-001
+Department: Finance
+Designation: Director of Finance
+Location: Bangalore
+Reporting Manager: None (None)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.4 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Raghav successfully led the financial planning and analysis team to achieve a 25% reduction in operating expenses, resulting in a cost savings of $1.2 million. He also implemented a new financial reporting system, which improved reporting efficiency by 30% and reduced manual errors by 40%. Additionally, Raghav played a key role in securing a $5 million investment from a prominent venture capital firm, which will be used to drive business growth and expansion.
+
+Raghav's team achieved a 95% accuracy rate in financial forecasting, exceeding the target of 90%. He also developed and implemented a comprehensive financial risk management framework, which identified and mitigated potential risks worth $2.5 million. Furthermore, Raghav collaborated with the sales team to develop a pricing strategy that resulted in a 15% increase in average deal size.
+
+Raghav led the finance team to achieve a 20% increase in revenue, driven by a 25% growth in subscription sales. He also implemented a new accounts payable system, which reduced payment processing time by 50% and improved supplier satisfaction ratings by 20%. Moreover, Raghav worked closely with the product team to develop a cost-benefit analysis framework, which informed product development decisions and resulted in a 12% reduction in product development costs.
+
+
+Areas of Improvement
+
+Raghav needs to improve his communication skills, particularly in presenting complex financial data to non-financial stakeholders. He should work on simplifying his message and using visual aids to enhance understanding. Additionally, Raghav should focus on developing a more strategic approach to financial planning, aligning financial goals with business objectives and identifying opportunities for growth.
+
+Raghav should focus on developing his team's skills and expertise, particularly in areas such as financial modeling and data analysis. He should provide regular feedback and coaching, and identify opportunities for training and development. Furthermore, Raghav should work on improving the finance team's collaboration with other departments, such as sales and marketing, to drive business outcomes and achieve shared goals.
+
+
+Manager Comments
+
+As a Director of Finance, Raghav has demonstrated exceptional leadership and financial acumen, driving business growth and improvement in financial performance. His ability to analyze complex financial data and develop strategic recommendations has been invaluable to the organization. However, Raghav should continue to focus on developing his communication skills and building stronger relationships with non-financial stakeholders. Overall, Raghav's performance has been outstanding, and I am confident that he will continue to make significant contributions to Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 95.0 LPA
+Recommended Hike: 12 percent
+Revised CTC: 106.4 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Raghav's exceptional performance and the value he has added to the organization, and is intended to recognize his contributions and motivate him to continue delivering outstanding results.
+
+
+Signatures
+
+Reporting Manager: None
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-007

@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-004
+Owner_Name: Gaurav Srivastava
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-004, STX-HR-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-010
+Owner Employee ID: STX-HR-004
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-004, STX-HR-001, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Gaurav Srivastava
+Employee ID: STX-HR-004
+Department: HR
+Designation: Compensation & Benefits Manager
+Location: Bangalore
+Reporting Manager: Sunita Krishnamurthy (STX-HR-001)
+Employment Type: Full-Time
+Join Date: 2018-02-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Gaurav successfully designed and implemented a new variable pay structure, resulting in a 25% increase in sales team performance and a 15% reduction in turnover rates. This change also led to a 12% increase in sales revenue within the first quarter of implementation. The new structure has been well-received by the sales team, with a 90% satisfaction rate.
+
+Gaurav led the development and execution of a comprehensive benefits program, which included the introduction of flexible work arrangements, enhanced health insurance, and a revamped employee assistance program. This program has resulted in a 20% increase in employee engagement and a 10% reduction in absenteeism. The program has also received positive feedback from 85% of employees.
+
+Gaurav conducted a thorough market analysis and provided recommendations that resulted in a 5% reduction in recruitment costs and a 20% improvement in time-to-hire. This was achieved through the implementation of a new recruitment platform and the development of strategic partnerships with key recruitment agencies. The new platform has also improved the candidate experience, with a 25% increase in positive reviews.
+
+
+Areas of Improvement
+
+Gaurav needs to work on improving the communication of benefits programs to employees, as some employees have reported being unclear about the details of the programs. To achieve this, Gaurav should develop a comprehensive communication plan that includes regular updates, town hall meetings, and targeted emails. This will help to increase employee understanding and appreciation of the benefits programs.
+
+Gaurav should focus on developing more predictive analytics to inform compensation and benefits decisions, rather than relying solely on historical data. This could involve working with the data analytics team to develop predictive models that take into account market trends, industry benchmarks, and internal data. By doing so, Gaurav can provide more strategic recommendations that drive business outcomes.
+
+
+Manager Comments
+
+Sunita Krishnamurthy:
+
+Gaurav has been an invaluable member of the HR team, consistently delivering high-quality results and taking on additional responsibilities to support the team. His expertise in compensation and benefits has been particularly noteworthy, and his ability to analyze complex data and develop strategic recommendations has been impressive. I appreciate Gaurav's collaborative approach and his willingness to listen to feedback and adapt to changing circumstances. Overall, Gaurav has exceeded expectations and has made significant contributions to the success of Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Gaurav's exceptional performance, his value to the organization, and market benchmarks, and is intended to recognize his contributions and motivate him to continue delivering outstanding results.
+
+
+Signatures
+
+Reporting Manager: Sunita Krishnamurthy
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-010

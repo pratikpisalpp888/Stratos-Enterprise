@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-005
+Owner_Name: Priyanka Venkatesh
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-005, STX-HR-003, HR-Admin]
+---END METADATA---
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Priyanka Venkatesh
+Employee ID: STX-HR-005
+Department: HR
+Designation: Recruitment Lead
+Location: Bangalore
+Reporting Manager: Rekha Nambiar (STX-HR-003)
+Employment Type: Full-Time
+Join Date: 2018-04-12
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Priyanka demonstrated exceptional recruitment skills by successfully filling 100% of open positions within the last quarter, resulting in a significant reduction in hiring costs. Her ability to build strong relationships with external partners and vendors has led to a 25% increase in candidate referrals. Additionally, Priyanka played a key role in implementing a new recruitment software, which has streamlined the hiring process and improved candidate experience.
+
+Areas of Improvement
+
+One area for improvement is to further develop Priyanka's skills in data analysis, particularly in creating actionable insights from recruitment metrics. This will enable her to provide more informed recommendations to the management team and drive data-driven decision-making in the recruitment process. Additionally, Priyanka should work on delegating tasks more effectively to her team members, ensuring that they have clear goals and objectives to achieve.
+
+Manager Comments
+
+Rekha Nambiar:
+
+Priyanka has consistently demonstrated her value to the team by delivering high-quality results and taking on additional responsibilities. Her ability to adapt to changing priorities and deadlines is impressive, and she has been a valuable asset to our recruitment team. While there are areas for improvement, Priyanka has shown significant growth and potential for further development. I am confident that she will continue to excel in her role and make valuable contributions to Stratos Enterprises.
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: High impact role execution.
+
+
+Signatures
+
+Reporting Manager: Rekha Nambiar
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-014

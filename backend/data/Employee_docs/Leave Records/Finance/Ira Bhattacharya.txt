@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-F-010
+Owner_Name: Ira Bhattacharya
+Department: Finance
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-F-010, STX-F-008, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Ira Bhattacharya
+Employee ID         : STX-F-010
+Department          : Finance
+Designation         : Financial Analyst
+Reporting Manager   : Ritika Chawla (STX-F-008)
+Location            : Mumbai
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          5       0          13
+Casual Leave        8           2       0          6
+Sick Leave          10          1       0          9
+Total               36          8       0          28
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-29
+To Date             : 2025-01-31
+Duration            : 3 Days
+Reason              : Extended Republic Day holiday trip
+Status              : Approved
+Applied On          : 2025-01-20
+Approved By         : Ritika Chawla, Financial Reporting Lead
+Approved On         : 2025-01-21
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-03-19
+To Date             : 2025-03-19
+Duration            : 1 Day
+Reason              : Severe headache and medical rest
+Status              : Approved
+Applied On          : 2025-03-19
+Approved By         : Ritika Chawla, Financial Reporting Lead
+Approved On         : 2025-03-20
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-05-26
+To Date             : 2025-05-26
+Duration            : 1 Day
+Reason              : Personal work
+Status              : Approved
+Applied On          : 2025-05-23
+Approved By         : Ritika Chawla, Financial Reporting Lead
+Approved On         : 2025-05-23
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-07-07
+To Date             : 2025-07-08
+Duration            : 2 Days
+Reason              : Family visit to Kolkata
+Status              : Approved
+Applied On          : 2025-06-30
+Approved By         : Ritika Chawla, Financial Reporting Lead
+Approved On         : 2025-07-01
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-09-22
+To Date             : 2025-09-22
+Duration            : 1 Day
+Reason              : Bank related work
+Status              : Approved
+Applied On          : 2025-09-20
+Approved By         : Ritika Chawla, Financial Reporting Lead
+Approved On         : 2025-09-20
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 28 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-F-010-2025

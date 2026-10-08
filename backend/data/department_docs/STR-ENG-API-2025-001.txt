@@ -1,0 +1,94 @@
+---METADATA---
+Document_ID: STR-ENG-API-2025-001
+Department: Engineering
+Document_Type: API Documentation
+Sensitivity_Level: Internal
+Created_Date: 2025-08-15
+Author: Arvind Narayanan, Director of Engineering
+---END METADATA---
+
+**API Documentation for Stratos Enterprises Services**
+
+**Overview**
+
+The following document outlines the APIs and services provided by the Engineering department at Stratos Enterprises for internal use. These APIs are used to integrate various services and applications across the organization, including Project Helios, CloudEdge 3.0, and StratosCare.
+
+**Services API**
+
+The Services API is used to manage the lifecycle of services across the organization. This includes creating, updating, and deleting services, as well as retrieving service metadata and usage statistics.
+
+**Endpoints**
+
+### Service Management
+
+* **POST /v1/services**: Create a new service
+	+ Request Body: `service_id` (string), `service_name` (string), `description` (string)
+	+ Response: `201 Created` with service metadata
+* **GET /v1/services/{service_id}**: Retrieve service metadata
+	+ Path Parameters: `service_id` (string)
+	+ Response: `200 OK` with service metadata
+* **PUT /v1/services/{service_id}**: Update service metadata
+	+ Path Parameters: `service_id` (string)
+	+ Request Body: `service_name` (string), `description` (string)
+	+ Response: `200 OK` with updated service metadata
+* **DELETE /v1/services/{service_id}**: Delete a service
+	+ Path Parameters: `service_id` (string)
+	+ Response: `204 No Content`
+
+### Service Usage
+
+* **GET /v1/services/{service_id}/usage**: Retrieve service usage statistics
+	+ Path Parameters: `service_id` (string)
+	+ Response: `200 OK` with usage statistics
+
+**CloudEdge 3.0 API**
+
+The CloudEdge 3.0 API is used to manage the lifecycle of CloudEdge clusters and nodes. This includes creating, updating, and deleting clusters and nodes, as well as retrieving cluster and node metadata.
+
+**Endpoints**
+
+### Cluster Management
+
+* **POST /v1/clusters**: Create a new cluster
+	+ Request Body: `cluster_id` (string), `cluster_name` (string), `description` (string)
+	+ Response: `201 Created` with cluster metadata
+* **GET /v1/clusters/{cluster_id}**: Retrieve cluster metadata
+	+ Path Parameters: `cluster_id` (string)
+	+ Response: `200 OK` with cluster metadata
+* **PUT /v1/clusters/{cluster_id}**: Update cluster metadata
+	+ Path Parameters: `cluster_id` (string)
+	+ Request Body: `cluster_name` (string), `description` (string)
+	+ Response: `200 OK` with updated cluster metadata
+* **DELETE /v1/clusters/{cluster_id}**: Delete a cluster
+	+ Path Parameters: `cluster_id` (string)
+	+ Response: `204 No Content`
+
+### Node Management
+
+* **POST /v1/nodes**: Create a new node
+	+ Request Body: `node_id` (string), `node_name` (string), `description` (string)
+	+ Response: `201 Created` with node metadata
+* **GET /v1/nodes/{node_id}**: Retrieve node metadata
+	+ Path Parameters: `node_id` (string)
+	+ Response: `200 OK` with node metadata
+* **PUT /v1/nodes/{node_id}**: Update node metadata
+	+ Path Parameters: `node_id` (string)
+	+ Request Body: `node_name` (string), `description` (string)
+	+ Response: `200 OK` with updated node metadata
+* **DELETE /v1/nodes/{node_id}**: Delete a node
+	+ Path Parameters: `node_id` (string)
+	+ Response: `204 No Content`
+
+**Security Considerations**
+
+All APIs require authentication using the Stratos Enterprises API key. The API key should be stored securely and not shared with anyone. Additionally, all APIs should be accessed over HTTPS to ensure encryption of data in transit.
+
+**Error Handling**
+
+All APIs return a JSON response with a status code indicating the outcome of the request. The following status codes are used:
+
+* `200 OK`: Successful request
+* `201 Created`: Resource created successfully
+* `204 No Content`: Resource deleted successfully
+* `400 Bad Request`: Invalid request
+* `401 Unauthorized`:

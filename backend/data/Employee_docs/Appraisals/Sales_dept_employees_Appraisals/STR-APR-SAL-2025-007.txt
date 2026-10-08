@@ -1,0 +1,91 @@
+---METADATA---
+Owner_Employee_ID: STX-S-009
+Owner_Name: Rahul Mehra
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-009, STX-S-003, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-007
+Owner Employee ID: STX-S-009
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-009, STX-S-003, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Rahul Mehra
+Employee ID: STX-S-009
+Department: Sales
+Designation: Key Accounts Lead
+Location: Bangalore
+Reporting Manager: Imran Qureshi (STX-S-003)
+Employment Type: Full-Time
+Join Date: August 1, 2018
+
+
+Performance Rating Summary
+
+Overall Rating: 3.9 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Rahul successfully led the sales efforts for our cloud-based customer relationship management (CRM) tool, resulting in a 25% increase in sales revenue from key accounts, with a total value of $1.2 million. He also expanded our partnership with TechCorp, a major IT firm, by 30%, which led to a significant increase in our market share. Additionally, Rahul achieved a customer satisfaction rating of 92% from his key accounts, exceeding the target of 85%.
+
+
+Rahul demonstrated exceptional skills in identifying and pursuing new business opportunities, resulting in the acquisition of three new key accounts, including a major e-commerce company, with a total contract value of $800,000. He also played a crucial role in developing and implementing a sales strategy that led to a 40% increase in sales from existing customers. Furthermore, Rahul provided training and coaching to junior sales team members, which improved the overall sales performance of the team.
+
+
+Rahul's efforts in enhancing our sales process and methodology led to a 20% reduction in sales cycle time, resulting in faster revenue realization and improved customer satisfaction. He also collaborated with the marketing team to develop targeted campaigns, which led to a 15% increase in lead generation from key accounts. Moreover, Rahul's analysis and recommendations on sales performance metrics helped the sales team to optimize their strategies and improve overall sales effectiveness.
+
+
+Areas of Improvement
+
+Rahul needs to work on improving his sales forecasting accuracy, as there were some discrepancies between his forecasts and actual sales numbers. To achieve this, he should focus on refining his sales pipeline management and improving his understanding of customer buying behavior. Additionally, Rahul should develop a more robust sales forecasting model that takes into account market trends and seasonal fluctuations.
+
+
+Rahul should also focus on enhancing his leadership skills, particularly in terms of delegating tasks and empowering team members to take ownership of their sales targets. This can be achieved by providing more regular feedback and coaching to team members, as well as setting clear expectations and goals for the team. Furthermore, Rahul should work on developing a more comprehensive sales strategy that aligns with the company's overall business objectives.
+
+
+Manager Comments
+
+Imran Qureshi:
+
+Rahul has been an invaluable member of our sales team, consistently delivering high-quality results and demonstrating a deep understanding of our cloud-based products. His ability to build strong relationships with key customers has been impressive, and his sales strategy has yielded significant returns. However, I believe Rahul has the potential to take on more leadership responsibilities and drive sales growth even further. With some focus on sales forecasting and leadership development, I am confident that Rahul will excel in his role and make even more significant contributions to Stratos Enterprises.
+
+
+Salary Hike Recommendation
+
+Current CTC: 30.0 LPA
+Recommended Hike: 14 percent
+Revised CTC: 34.2 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Rahul's outstanding performance during the review period, which has resulted in significant revenue growth and customer satisfaction improvements, and is in line with industry standards for a Key Accounts Lead in the SaaS/cloud sector.
+
+
+Signatures
+
+Reporting Manager: Imran Qureshi
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-007

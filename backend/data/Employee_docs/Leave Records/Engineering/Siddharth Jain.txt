@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-E-011
+Owner_Name: Siddharth Jain
+Department: Engineering
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-E-011, STX-E-006, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Siddharth Jain
+Employee ID         : STX-E-011
+Department          : Engineering
+Designation         : Software Engineer
+Reporting Manager   : Ananya Iyer (STX-E-006)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          8       0          10
+Casual Leave        8           3       0          5
+Sick Leave          10          2       0          8
+Total               36          13      0          23
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-27
+To Date             : 2025-01-31
+Duration            : 5 Days
+Reason              : Republic Day long weekend family travel to Goa
+Status              : Approved
+Applied On          : 2025-01-15
+Approved By         : Ananya Iyer, Frontend Team Lead
+Approved On         : 2025-01-16
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-02-18
+To Date             : 2025-02-19
+Duration            : 2 Days
+Reason              : Viral infection and rest advised by doctor
+Status              : Approved
+Applied On          : 2025-02-18
+Approved By         : Ananya Iyer, Frontend Team Lead
+Approved On         : 2025-02-19
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-04-14
+To Date             : 2025-04-14
+Duration            : 1 Day
+Reason              : Personal work
+Status              : Approved
+Applied On          : 2025-04-13
+Approved By         : Ananya Iyer, Frontend Team Lead
+Approved On         : 2025-04-13
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-06-23
+To Date             : 2025-06-25
+Duration            : 3 Days
+Reason              : Attending cousin wedding in Pune
+Status              : Approved
+Applied On          : 2025-06-10
+Approved By         : Ananya Iyer, Frontend Team Lead
+Approved On         : 2025-06-11
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-08-20
+To Date             : 2025-08-21
+Duration            : 2 Days
+Reason              : Home relocation assistance
+Status              : Approved
+Applied On          : 2025-08-19
+Approved By         : Ananya Iyer, Frontend Team Lead
+Approved On         : 2025-08-19
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 10 Days
+Casual Leave Remaining    : 5 Days
+Sick Leave Remaining      : 8 Days
+Total Remaining           : 23 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-E-011-2025

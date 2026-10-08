@@ -1,0 +1,97 @@
+STRATOS ENTERPRISES
+Sales Department - Quarterly Budget Report Q3 2025
+
+Document ID: STR-SAL-Q3-2025-006
+Department: Sales
+Document Type: Quarterly Budget Report
+Period: July 1 2025 to September 30 2025
+Sensitivity Level: Restricted
+Owner Role: Director
+Created Date: 2025-10-06
+Author: Raghav Bansal, Director of Finance
+Reviewed By: Nandita Rao, Financial Planning Manager
+Approved By: Shreya Mukherjee, Finance Operations Manager
+
+STRATOS ENTERPRISES
+SALES DEPARTMENT QUARTERLY BUDGET REPORT Q3 2025
+CONFIDENTIAL BOARD AND EXECUTIVE REVIEW ONLY
+
+
+1. EXECUTIVE SUMMARY
+
+The Sales Department closed Q3 2025 with total revenue bookings of 14.85 crore rupees against a quarterly target of 13.90 crore rupees, achieving 106.8 percent of goal. Recognized revenue for the quarter stands at 12.74 crore rupees due to deferred billing on two enterprise contracts signed in late September.
+
+The approved Q3 operating budget for Sales was 3.20 crore rupees. Actual spend totaled 3.05 crore rupees, resulting in a favorable variance of 15 lakh rupees which is 4.7 percent under budget. The variance is largely attributable to the postponement of the Mumbai Enterprise Client Engagement Summit and lower than forecast travel expenditure.
+
+
+2. BUDGET ALLOCATION AND ACTUALS
+
+Category: Compensation and Incentives
+Approved: 1.85 Cr
+Actual: 1.92 Cr
+Variance: +7 L
+
+Category: Travel and Client Meetings
+Approved: 48 L
+Actual: 36 L
+Variance: -12 L
+
+Category: Marketing Collateral and Events
+Approved: 42 L
+Actual: 34 L
+Variance: -8 L
+
+Category: Sales Tools and CRM Licensing
+Approved: 25 L
+Actual: 24 L
+Variance: -1 L
+
+Category: Channel Partner Commissions
+Approved: 20 L
+Actual: 19 L
+Variance: -1 L
+
+Total Approved: 3.20 Cr
+Total Actual: 3.05 Cr
+Total Variance: -15 L
+
+Compensation exceeded allocation due to accelerated incentive payouts related to early closure of the Project Falcon enterprise deal valued at 3.8 crore rupees which is a 3-year SaaS agreement signed September 23 2025. Variable commission accrual for this contract accounted for 9.4 lakh rupees in Q3.
+
+Travel expenses declined significantly due to increased use of virtual client demos and consolidation of regional visits in July. Total domestic travel spend reduced by 22 percent compared to Q2 2025.
+
+
+3. KEY PERFORMANCE DRIVERS
+
+3.1 Enterprise Segment Growth
+
+The Enterprise vertical contributed 6.2 crore rupees in bookings, representing 41.8 percent of total Q3 bookings. Major accounts included Zenith FinCorp and Navkaar Logistics with a combined value of 4.6 crore rupees.
+
+3.2 SMB Segment Stabilization
+
+SMB revenue bookings reached 3.9 crore rupees, marginally below forecast of 4.1 crore rupees due to delayed procurement cycles in August. However, pipeline value entering Q4 stands at 8.7 crore rupees, up 14 percent from Q3 opening pipeline.
+
+3.3 Deferred Event Impact
+
+The Mumbai Enterprise Client Engagement Summit originally budgeted at 12.5 lakh rupees and scheduled for September 18 and 19 2025 has been moved to October 2025 to align with product release Stratos CloudEdge 3.0. Associated expenses will reflect in Q4 accounts.
+
+
+4. Q4 OUTLOOK AND COST CONTROLS
+
+Q4 approved Sales budget is 3.35 crore rupees, factoring in expanded enterprise outreach and the deferred summit event. Finance recommends the following actions.
+
+Pre-approval for discretionary event spends above 5 lakh rupees.
+Structured commission payout review for multi-year contracts.
+Monthly pipeline-to-revenue reconciliation meetings starting October 2025.
+
+Revenue forecast for FY2025 is now revised upward from 110 crore rupees to 118 crore rupees based on current run rate and enterprise pipeline strength.
+
+
+5. AUTHORIZATION
+
+Prepared By: Raghav Bansal, Director of Finance
+Reviewed By: Nandita Rao, Financial Planning Manager
+Approved By: Shreya Mukherjee, Finance Operations Manager
+
+This report contains commercially sensitive financial data and strategic sales projections. Distribution is restricted to authorized leadership personnel under Stratos Enterprises Information Security Policy Rev 4.2.
+
+END OF DOCUMENT STR-SAL-Q3-2025-006

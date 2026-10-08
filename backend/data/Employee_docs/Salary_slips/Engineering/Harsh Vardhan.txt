@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-E-013
+Owner_Name: Harsh Vardhan
+Department: Engineering
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-E-013, STX-E-007, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Harsh Vardhan
+Employee ID         : STX-E-013
+Department          : Engineering
+Designation         : DevOps Engineer
+Role Level          : Employee
+Location            : Pune
+Date of Joining     : 2022-09-19
+PAN                 : EFGXX9234X
+Bank Account        : XXXX XXXX XXXX 6612
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 69,667
+House Rent Allowance (HRA)          : INR 27,867
+Special Allowance                   : INR 18,333
+Performance Bonus                   : INR 10,000
+Gross Salary                        : INR 1,25,867
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 8,360
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 13,200
+Total Deductions                    : INR 21,760
+
+
+Net Salary (Take Home)              : INR 1,04,107
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 16,72,000
+Monthly CTC                         : INR 1,39,333
+Effective from August 1 2025 post appraisal increment of 13 percent
+over previous CTC of INR 14,80,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-E-013-SEP2025

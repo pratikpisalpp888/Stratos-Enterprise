@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-S-014
+Owner_Name: Nikhil Arora
+Department: Sales
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-S-014, STX-S-008, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-SAL-2025-005
+Owner Employee ID: STX-S-014
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-S-014, STX-S-008, HR-Admin
+Department: Sales
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-12
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Nikhil Arora
+Employee ID: STX-S-014
+Department: Sales
+Designation: Inside Sales Executive
+Location: Bangalore
+Reporting Manager: Pallavi Nair, Inside Sales Lead (STX-S-008)
+Employment Type: Full-Time
+Join Date: 2024-02-27
+
+
+Performance Rating Summary
+
+Overall Rating: 3.3 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Nikhil completed onboarding and ramped to full productivity by April
+2025, achieving 82 percent of his Q2 lead generation target in his
+first full quarter, which is above the new joiner benchmark of 70
+percent for the first active quarter.
+
+He contributed to the BFSI vertical outreach campaign in Q2 2025,
+making 340 outbound calls and generating 11 qualified leads that
+were handed off to Account Executives.
+
+
+Areas of Improvement
+
+Nikhil needs to improve prospect research quality before outreach.
+Several leads qualified and handed off in Q2 2025 were returned by
+Account Executives as insufficiently qualified, with 4 out of 11
+BFSI leads lacking proper budget authority verification.
+
+He should work on consistency of daily activity metrics. Call volumes
+showed significant variance week over week in Q2 2025, ranging from
+28 to 67 calls per day, suggesting inconsistency in daily work
+structure that needs to be addressed.
+
+
+Manager Comments
+
+Pallavi Nair, Inside Sales Lead:
+
+Nikhil joined in February 2025 and this is his first appraisal.
+His ramp has been reasonable and hitting 82 percent of target in a
+first full quarter is a decent start. The lead quality issue needs
+to be addressed urgently because it affects the AE team's efficiency
+downstream. I want to see more consistency in activity levels and
+stronger qualification rigour in H2 2025.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.80 LPA
+Recommended Hike: 7 percent
+Revised CTC: 8.35 LPA
+Effective Date: August 1 2025
+
+Justification: First appraisal cycle with standard new joiner increment
+reflecting satisfactory ramp performance.
+
+
+Signatures
+
+Reporting Manager: Pallavi Nair
+Date: 2025-07-10
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-12
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-SAL-2025-005

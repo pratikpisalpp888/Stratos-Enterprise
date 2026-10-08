@@ -1,0 +1,105 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-014
+Owner_Name: Shraddha Gokhale
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-014, STX-HR-009, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Shraddha Gokhale
+Employee ID         : STX-HR-014
+Department          : HR
+Designation         : HR Business Partner
+Reporting Manager   : Deepika Pillai (STX-HR-009)
+Location            : Pune
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          5       0          13
+Casual Leave        8           3       0          5
+Sick Leave          10          1       0          9
+Total               36          9       0          27
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-02-17
+To Date             : 2025-02-19
+Duration            : 3 Days
+Reason              : Shivratri holiday family visit to Solapur
+Status              : Approved
+Applied On          : 2025-02-07
+Approved By         : Deepika Pillai, HR Business Partner Lead
+Approved On         : 2025-02-08
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-04-09
+To Date             : 2025-04-09
+Duration            : 1 Day
+Reason              : Fever and rest advised
+Status              : Approved
+Applied On          : 2025-04-09
+Approved By         : Deepika Pillai, HR Business Partner Lead
+Approved On         : 2025-04-10
+
+Entry 3
+Leave Type          : Casual Leave
+From Date           : 2025-06-06
+To Date             : 2025-06-07
+Duration            : 2 Days
+Reason              : Home shifting and moving assistance
+Status              : Approved
+Applied On          : 2025-06-04
+Approved By         : Deepika Pillai, HR Business Partner Lead
+Approved On         : 2025-06-04
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-18
+To Date             : 2025-09-18
+Duration            : 2 Days
+Reason              : Extended Ganesh Chaturthi visarjan holiday
+Status              : Approved
+Applied On          : 2025-09-12
+Approved By         : Deepika Pillai, HR Business Partner Lead
+Approved On         : 2025-09-13
+
+Entry 5
+Leave Type          : Casual Leave
+From Date           : 2025-10-08
+To Date             : 2025-10-08
+Duration            : 1 Day
+Reason              : Personal appointment
+Status              : Approved
+Applied On          : 2025-10-07
+Approved By         : Deepika Pillai, HR Business Partner Lead
+Approved On         : 2025-10-07
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 13 Days
+Casual Leave Remaining    : 5 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 27 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-HR-014-2025

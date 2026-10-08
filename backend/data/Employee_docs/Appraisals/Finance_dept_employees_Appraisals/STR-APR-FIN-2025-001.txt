@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-F-010
+Owner_Name: Ira Bhattacharya
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-010, STX-F-008, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-001
+Owner Employee ID: STX-F-010
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-010, STX-F-008, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-11
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Ira Bhattacharya
+Employee ID: STX-F-010
+Department: Finance
+Designation: Financial Analyst
+Location: Mumbai
+Reporting Manager: Ritika Chawla, Financial Reporting Lead (STX-F-008)
+Employment Type: Full-Time
+Join Date: 2022-06-30
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Ira independently prepared the Q1 and Q2 2025 financial variance analysis reports with zero revision requests from the Director of Finance, a first for an analyst at her tenure level. Her reports were directly referenced in the board presentation held on April 18 2025.
+
+She developed an automated Excel-based financial consolidation template that reduced monthly reporting preparation time for the team from 3 days to 11 hours, and has since been adopted as the standard reporting tool across the Finance department.
+
+Ira played a key role in the FY2026 budget planning exercise, preparing department-wise budget summary decks for all five departments with consistent formatting and accurate cross-referencing to actuals.
+
+
+Areas of Improvement
+
+Ira should build stronger proficiency in financial modeling tools beyond Excel. Familiarity with tools such as Anaplan or Adaptive Insights would significantly enhance her capacity for scenario planning and multi-variable financial forecasting.
+
+She occasionally requires guidance when handling ambiguous financial data or incomplete inputs. Building confidence in independent judgment for gray-area accounting situations will be important for the next role level.
+
+
+Manager Comments
+
+Ritika Chawla, Financial Reporting Lead:
+
+Ira has shown consistent growth since joining and has become a reliable pillar of the reporting function. The automation template she built has saved the team significant time every month and reflects real initiative. I believe she is ready to take on a Senior Financial Analyst role in the next 6 to 9 months with targeted development in advanced financial modeling.
+
+
+Salary Hike Recommendation
+
+Current CTC: 9.80 LPA
+Recommended Hike: 13 percent
+Revised CTC: 11.07 LPA
+Effective Date: August 1 2025
+
+Justification: Consistent above-expectation delivery and high-value process improvement contribution.
+
+
+Signatures
+
+Reporting Manager: Ritika Chawla
+Date: 2025-07-09
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-11
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-001

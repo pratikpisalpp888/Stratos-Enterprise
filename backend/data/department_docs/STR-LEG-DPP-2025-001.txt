@@ -1,0 +1,76 @@
+---METADATA---
+Document_ID: STR-LEG-DPP-2025-001
+Department: Legal
+Document_Type: Data Privacy Compliance Policy
+Sensitivity_Level: Internal
+Created_Date: 2025-08-15
+Author: Anirudh Sinha, Director of Legal Affairs
+---END METADATA---
+
+Data Privacy Compliance Policy
+
+1. Purpose and Scope
+
+This Data Privacy Compliance Policy ("Policy") sets out the framework for Stratos Enterprises' collection, use, storage, and disclosure of personal data in accordance with applicable laws and regulations. This Policy applies to all employees, contractors, and third-party service providers who handle personal data on behalf of Stratos Enterprises (collectively referred to as "Data Handlers").
+
+2. Definitions
+
+For the purposes of this Policy, the following terms shall have the following meanings:
+
+- "Personal Data" means any information that relates to an identified or identifiable individual, including but not limited to names, addresses, email addresses, phone numbers, passwords, and other sensitive information;
+- "Data Subject" means an individual whose Personal Data is handled by Stratos Enterprises;
+- "Sensitive Personal Data" means Personal Data that is classified as sensitive under applicable laws and regulations, including but not limited to information related to health, financial information, and biometric data.
+
+3. Data Collection and Use
+
+Stratos Enterprises collects Personal Data from various sources, including but not limited to customer sign-ups, product usage, and service interactions. The collected Personal Data is used for legitimate business purposes, such as:
+
+- Providing and improving Stratos Enterprises' products and services;
+- Personalizing customer experiences;
+- Enhancing customer support and engagement;
+- Complying with applicable laws and regulations.
+
+4. Data Storage and Security
+
+Stratos Enterprises takes robust measures to ensure the confidentiality, integrity, and availability of Personal Data. These measures include:
+
+- Implementing a tiered data storage system with multiple redundancy levels;
+- Utilizing industry-standard encryption protocols, such as AES-256;
+- Conducting regular security audits and penetration testing;
+- Ensuring compliance with relevant data storage regulations, including the India Data Protection Bill, 2023.
+
+5. Data Disclosure and Transfer
+
+Stratos Enterprises may disclose Personal Data to third-party service providers, such as cloud storage providers (e.g. Project Helios) and software vendors (e.g. CloudEdge 3.0), for the purpose of providing Stratos Enterprises' products and services. Prior to disclosing Personal Data, Stratos Enterprises ensures that such third-party service providers adhere to the same level of data protection as Stratos Enterprises.
+
+6. Data Subject Rights
+
+Stratos Enterprises respects the rights of Data Subjects to control their Personal Data, including the right to:
+
+- Access their Personal Data;
+- Rectify inaccuracies in their Personal Data;
+- Erase their Personal Data;
+- Restrict processing of their Personal Data;
+- Object to processing of their Personal Data.
+
+Data Handlers must facilitate the exercise of these rights and provide Data Subjects with clear instructions on how to exercise them.
+
+7. Breach Notification
+
+In the event of a Personal Data breach, Stratos Enterprises shall notify the affected Data Subject(s) and relevant regulatory authorities within the stipulated time frame, as per applicable laws and regulations.
+
+8. Compliance and Training
+
+Stratos Enterprises shall conduct regular compliance audits to ensure adherence to this Policy and applicable laws and regulations. Data Handlers are required to undergo annual data protection training to ensure they understand their roles and responsibilities under this Policy.
+
+9. Amendments
+
+This Policy may be amended from time to time to reflect changes in applicable laws and regulations, or to update Stratos Enterprises' data handling practices. Any amendments to this Policy shall be communicated to all Data Handlers.
+
+10. Acknowledgement
+
+By handling Personal Data on behalf of Stratos Enterprises, Data Handlers acknowledge that they have read, understood, and will comply with this Policy.
+
+Effective Date: 01 March 2023
+
+Review Date: 01 September 2025

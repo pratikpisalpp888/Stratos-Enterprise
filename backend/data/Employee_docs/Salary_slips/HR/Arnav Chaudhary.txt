@@ -1,0 +1,68 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-013
+Owner_Name: Arnav Chaudhary
+Department: HR
+Document_Type: Salary Slip
+Sensitivity_Level: Restricted
+Access_Roles: STX-HR-013, STX-HR-008, Finance-Admin, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+SALARY SLIP FOR THE MONTH OF SEPTEMBER 2025
+CONFIDENTIAL
+
+Employee Details
+
+Employee Name       : Arnav Chaudhary
+Employee ID         : STX-HR-013
+Department          : HR
+Designation         : Learning and Development Executive
+Role Level          : Employee
+Location            : Bangalore
+Date of Joining     : 2023-06-05
+PAN                 : EFGXX9834X
+Bank Account        : XXXX XXXX XXXX 3312
+Pay Period          : September 2025
+Payment Date        : September 30 2025
+Working Days        : 26 of 26
+
+
+Earnings
+
+Basic Salary                        : INR 37,583
+House Rent Allowance (HRA)          : INR 15,033
+Special Allowance                   : INR 10,384
+Performance Bonus                   : INR 0
+Gross Salary                        : INR 63,000
+
+
+Deductions
+
+Provident Fund (Employee 12 percent): INR 4,510
+Professional Tax                    : INR 200
+Income Tax (TDS)                    : INR 4,000
+Total Deductions                    : INR 8,710
+
+
+Net Salary (Take Home)              : INR 54,290
+
+
+Salary Breakup Note
+
+Annual CTC                          : INR 9,02,000
+Monthly CTC                         : INR 75,167
+Effective from August 1 2025 post appraisal increment of 10 percent
+over previous CTC of INR 8,20,000 per annum.
+
+
+This salary slip is system generated and does not require a physical
+signature. For queries contact payroll@stratosenterprises.com
+
+Stratos Enterprises Private Limited
+Registered Office: 14th Floor, Prestige Tower, MG Road, Bangalore 560001
+
+This document is strictly confidential and restricted to the named
+employee, their reporting manager, Finance Admin, and HR Admin only.
+Unauthorized access is a violation of Stratos Enterprises HR Policy.
+
+END OF DOCUMENT STX-SAL-HR-013-SEP2025

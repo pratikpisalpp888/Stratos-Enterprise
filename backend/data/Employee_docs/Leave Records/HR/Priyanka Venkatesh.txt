@@ -1,0 +1,97 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-005
+Owner_Name: Priyanka Venkatesh
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-005, STX-HR-003, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Priyanka Venkatesh
+Employee ID         : STX-HR-005
+Department          : HR
+Designation         : Recruitment Lead
+Reporting Manager   : Rekha Nambiar (STX-HR-003)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          0       0           18
+Casual Leave        8           0       0           8
+Sick Leave          10          0       0           10
+Total               36          0       0           36
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-01
+To Date             : 2025-01-05
+Duration            : 5 Days
+Reason              : New Year Break
+Status              : Approved
+Applied On          : 2024-12-20
+Approved By         : Rekha Nambiar, Recruitment Lead
+Approved On         : 2024-12-22
+
+
+Entry 2
+Leave Type          : Casual Leave
+From Date           : 2025-06-15
+To Date             : 2025-06-17
+Duration            : 3 Days
+Reason              : Family Occasion
+Status              : Approved
+Applied On          : 2025-06-10
+Approved By         : Rekha Nambiar, Recruitment Lead
+Approved On         : 2025-06-12
+
+
+Entry 3
+Leave Type          : Sick Leave
+From Date           : 2025-07-20
+To Date             : 2025-07-25
+Duration            : 6 Days
+Reason              : Illness
+Status              : Approved
+Applied On          : 2025-07-18
+Approved By         : Rekha Nambiar, Recruitment Lead
+Approved On         : 2025-07-20
+
+
+Entry 4
+Leave Type          : Annual Leave
+From Date           : 2025-09-01
+To Date             : 2025-09-05
+Duration            : 5 Days
+Reason              : Vacation
+Status              : Approved
+Applied On          : 2025-08-25
+Approved By         : Rekha Nambiar, Recruitment Lead
+Approved On         : 2025-08-27
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 18 Days
+Casual Leave Remaining    : 5 Days
+Sick Leave Remaining      : 4 Days
+Total Remaining           : 27 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-STXHR005-2025

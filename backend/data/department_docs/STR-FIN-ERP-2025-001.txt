@@ -1,0 +1,63 @@
+---METADATA---
+Document_ID: STR-FIN-ERP-2025-001
+Department: Finance
+Document_Type: Expense Reimbursement Policy
+Sensitivity_Level: Internal
+Created_Date: 2025-08-15
+Author: Raghav Bansal, Director of Finance
+---END METADATA---
+
+All employees of Stratos Enterprises are eligible to claim reimbursement for expenses incurred while undertaking company business, in accordance with the policies outlined below. This policy applies to all approved company projects, including Project Helios and CloudEdge 3.0.
+
+**Purpose:**
+The purpose of this policy is to provide a clear framework for the reimbursement of expenses incurred by employees while undertaking company business. This policy aims to ensure that all expenses are properly documented, approved, and reimbursed in a timely manner.
+
+**Scope:**
+This policy applies to all employees of Stratos Enterprises, including full-time, part-time, and contract employees. It also applies to all approved company projects, including Project Helios and CloudEdge 3.0.
+
+**Eligible Expenses:**
+The following expenses are eligible for reimbursement under this policy:
+
+* Travel expenses, including flights, hotels, and transportation costs, when traveling for company business
+* Meals and incidentals, up to a maximum of ₹500 per day, when traveling for company business
+* Other expenses, including conference fees, training costs, and equipment purchases, when incurred for company business
+
+**Ineligible Expenses:**
+The following expenses are not eligible for reimbursement under this policy:
+
+* Personal expenses, including gifts, entertainment, and leisure activities
+* Expenses incurred for personal use, including family vacations and personal purchases
+* Expenses incurred for non-company business purposes, including hobbies and volunteer work
+
+**Expense Reporting and Reimbursement:**
+Employees are required to submit expense reports within 30 days of incurring expenses. Expense reports must be submitted in the format provided by the Finance department and must include the following information:
+
+* Date of expense
+* Nature of expense
+* Amount of expense
+* Receipt or invoice (where applicable)
+* Project code and task ID (where applicable)
+
+**Reimbursement Process:**
+The reimbursement process is as follows:
+
+1. The employee submits an expense report to the Finance department
+2. The Finance department reviews the expense report and verifies the expenses
+3. The Finance department processes the reimbursement and transfers the funds to the employee's bank account
+4. The employee acknowledges receipt of the reimbursement
+
+**Deadlines and Cutoffs:**
+The following deadlines and cutoffs apply to this policy:
+
+* Expense reports must be submitted to the Finance department within 30 days of incurring expenses
+* Reimbursements will be processed within 10 working days of receipt of the expense report
+* The Finance department will review and process expense reports on a monthly basis
+
+**Auditing and Compliance:**
+The Finance department reserves the right to audit all expense reports and reimbursements to ensure compliance with this policy. Employees who fail to comply with this policy may be subject to disciplinary action.
+
+**Amendments:**
+This policy may be amended at any time by the Director of Finance or designee. All amendments will be posted on the company intranet and will be effective immediately.
+
+**Acknowledgement:**
+All employees are required to acknowledge receipt of this policy and understand their responsibilities under this policy.

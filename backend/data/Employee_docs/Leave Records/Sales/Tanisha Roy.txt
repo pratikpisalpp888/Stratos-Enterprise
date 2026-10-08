@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-S-015
+Owner_Name: Tanisha Roy
+Department: Sales
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-S-015, STX-S-009, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Tanisha Roy
+Employee ID         : STX-S-015
+Department          : Sales
+Designation         : Key Accounts Executive
+Reporting Manager   : Rahul Mehra (STX-S-009)
+Location            : Mumbai
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          4       0          14
+Casual Leave        8           2       0          6
+Sick Leave          10          1       0          9
+Total               36          7       0          29
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-16
+To Date             : 2025-01-17
+Duration            : 2 Days
+Reason              : Makar Sankranti holiday visit to family
+Status              : Approved
+Applied On          : 2025-01-10
+Approved By         : Rahul Mehra, Key Accounts Lead
+Approved On         : 2025-01-11
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-04-28
+To Date             : 2025-04-28
+Duration            : 1 Day
+Reason              : Stomach infection and rest
+Status              : Approved
+Applied On          : 2025-04-28
+Approved By         : Rahul Mehra, Key Accounts Lead
+Approved On         : 2025-04-29
+
+Entry 3
+Leave Type          : Annual Leave
+From Date           : 2025-07-14
+To Date             : 2025-07-15
+Duration            : 2 Days
+Reason              : Personal travel to Kolkata
+Status              : Approved
+Applied On          : 2025-07-07
+Approved By         : Rahul Mehra, Key Accounts Lead
+Approved On         : 2025-07-08
+
+Entry 4
+Leave Type          : Casual Leave
+From Date           : 2025-09-25
+To Date             : 2025-09-26
+Duration            : 2 Days
+Reason              : Navratri festival and family occasion
+Status              : Approved
+Applied On          : 2025-09-22
+Approved By         : Rahul Mehra, Key Accounts Lead
+Approved On         : 2025-09-22
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 14 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 9 Days
+Total Remaining           : 29 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-S-015-2025

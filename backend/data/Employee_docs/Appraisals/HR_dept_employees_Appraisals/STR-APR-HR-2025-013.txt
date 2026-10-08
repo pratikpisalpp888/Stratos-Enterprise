@@ -1,0 +1,88 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-003
+Owner_Name: Rekha Nambiar
+Department: HR
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-HR-003, STX-HR-001, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-HR-2025-013
+Owner Employee ID: STX-HR-003
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-HR-003, STX-HR-001, HR-Admin
+Department: HR
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-10
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Rekha Nambiar
+Employee ID: STX-HR-003
+Department: HR
+Designation: Talent Acquisition Manager
+Location: Bangalore
+Reporting Manager: Sunita Krishnamurthy (STX-HR-001)
+Employment Type: Full-Time
+Join Date: 2018-04-01
+
+
+Performance Rating Summary
+
+Overall Rating: 4.1 out of 5
+Rating Category: Exceeds Expectations
+
+
+Key Achievements
+
+Rekha successfully led the recruitment efforts for our cloud infrastructure team, resulting in a 30% increase in qualified candidates and a 25% reduction in time-to-hire. She implemented a new sourcing strategy, leveraging social media and employee referrals, which yielded a 40% increase in applications from top-tier talent. This strategy also improved the overall quality of hires, with a 90% retention rate for new employees.
+
+Rekha developed and executed a comprehensive diversity and inclusion initiative, increasing the representation of underrepresented groups in our hiring pipeline by 50%. She collaborated with the marketing team to create targeted job descriptions and advertising campaigns, resulting in a 20% increase in applications from diverse candidates.
+
+Rekha streamlined our interview process, introducing a new assessment framework and reducing the average interview duration by 30%. This change improved the candidate experience, with a 95% satisfaction rate reported by interviewees, and enabled our hiring managers to make more informed decisions, resulting in a 15% increase in offer acceptance rates.
+
+
+Areas of Improvement
+
+Rekha needs to focus on improving the onboarding experience for new hires, as feedback suggests that some employees feel overwhelmed by the current process. To address this, she should work with the HR operations team to develop a more comprehensive onboarding program, including additional training and support for new employees. This would help to reduce the time-to-productivity for new hires and improve overall job satisfaction.
+
+Rekha should also prioritize building stronger relationships with our hiring managers, as some have reported feeling disconnected from the recruitment process. To address this, she should schedule regular check-ins with hiring managers to discuss their needs and provide updates on the recruitment pipeline. This would help to ensure that hiring managers are more engaged and invested in the recruitment process, leading to better outcomes and increased satisfaction.
+
+
+Manager Comments
+
+Sunita Krishnamurthy:
+
+Rekha has been an invaluable asset to our HR team, consistently delivering high-quality results and demonstrating a deep understanding of our business needs. Her ability to think strategically and develop creative solutions to complex recruitment challenges has been impressive. I appreciate her collaborative approach and commitment to improving our recruitment processes. Rekha's passion for diversity and inclusion has also had a significant impact on our organization, and I look forward to seeing her continue to drive positive change.
+
+
+Salary Hike Recommendation
+
+Current CTC: 48.0 LPA
+Recommended Hike: 13 percent
+Revised CTC: 54.24 LPA
+Effective Date: August 1 2025
+
+Justification: The recommended salary hike is based on Rekha's exceptional performance, her value to the organization, and industry standards for talent acquisition managers.
+
+
+Signatures
+
+Reporting Manager: Sunita Krishnamurthy
+Date: 2025-07-08
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-10
+
+This document is strictly confidential and intended only for the employee, their reporting manager, and authorized HR personnel. Unauthorized access or disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-HR-2025-013

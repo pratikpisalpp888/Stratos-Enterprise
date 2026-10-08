@@ -1,0 +1,107 @@
+---METADATA---
+Owner_Employee_ID: STX-F-013
+Owner_Name: Arjun Malhotra
+Department: Finance
+Document_Type: Appraisal Record
+Sensitivity_Level: Confidential
+Access_Roles: [STX-F-013, STX-F-008, HR-Admin]
+---END METADATA---
+
+Document ID: STR-APR-FIN-2025-004
+Owner Employee ID: STX-F-013
+Document Type: Appraisal Record
+Sensitivity Level: Confidential
+Access Roles: STX-F-013, STX-F-008, HR-Admin
+Department: Finance
+Review Period: January 2025 to June 2025
+Created Date: 2025-07-11
+Prepared By: HR People Operations
+
+
+STRATOS ENTERPRISES
+PERFORMANCE APPRAISAL REPORT
+REVIEW PERIOD JANUARY 2025 TO JUNE 2025
+CONFIDENTIAL
+
+
+Employee Information
+
+Employee Name: Arjun Malhotra
+Employee ID: STX-F-013
+Department: Finance
+Designation: Junior Financial Analyst
+Location: Mumbai
+Reporting Manager: Ritika Chawla, Financial Reporting Lead (STX-F-008)
+Employment Type: Full-Time
+Join Date: 2023-08-21
+
+
+Performance Rating Summary
+
+Overall Rating: 3.5 out of 5
+Rating Category: Meets Expectations
+
+
+Key Achievements
+
+Arjun prepared monthly actuals-versus-budget reconciliation reports
+for 3 departments consistently throughout H1 2025, meeting all
+submission deadlines and maintaining formatting standards required
+for Director-level review.
+
+He supported the FY2026 budget planning exercise by compiling
+historical spend data for all 5 departments across 8 quarters,
+producing a clean consolidated dataset that was used as the base
+input for the Financial Planning Manager's budget model.
+
+
+Areas of Improvement
+
+Arjun needs to develop stronger financial analysis skills beyond
+data compilation and reporting. Current contributions are largely
+mechanical and he needs to begin offering preliminary observations
+and variance explanations in his reports rather than presenting
+raw numbers for seniors to interpret.
+
+He should improve his speed and independence in working with
+financial data. Several monthly reports in H1 2025 required
+reminders before submission and two were delivered 1 to 2 days
+past the internal deadline.
+
+
+Manager Comments
+
+Ritika Chawla, Financial Reporting Lead:
+
+Arjun is diligent and his data accuracy is generally good but he
+needs to move beyond being a data compiler and start developing
+analytical thinking. The FY2026 budget data work was useful but
+the expectation for H2 2025 is for him to add interpretive value
+to his outputs. Timeliness also needs to improve as reporting
+deadlines are non-negotiable in Finance.
+
+
+Salary Hike Recommendation
+
+Current CTC: 7.60 LPA
+Recommended Hike: 8 percent
+Revised CTC: 8.21 LPA
+Effective Date: August 1 2025
+
+Justification: Standard increment aligned with Meets Expectations
+rating and tenure band.
+
+
+Signatures
+
+Reporting Manager: Ritika Chawla
+Date: 2025-07-09
+
+HR Representative: Sunita Krishnamurthy
+Date: 2025-07-11
+
+This document is strictly confidential and intended only for the employee,
+their reporting manager, and authorized HR personnel. Unauthorized access or
+disclosure is a violation of Stratos Enterprises HR Policy HR-POL-2023-Rev3.
+
+END OF DOCUMENT STR-APR-FIN-2025-004

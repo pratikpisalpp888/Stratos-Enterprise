@@ -1,0 +1,94 @@
+---METADATA---
+Owner_Employee_ID: STX-HR-013
+Owner_Name: Arnav Chaudhary
+Department: HR
+Document_Type: Leave History Record
+Sensitivity_Level: Internal
+Access_Roles: STX-HR-013, STX-HR-008, HR-Admin
+---END METADATA---
+
+STRATOS ENTERPRISES PRIVATE LIMITED
+LEAVE HISTORY RECORD 2025
+INTERNAL DOCUMENT
+
+Employee Details
+
+Employee Name       : Arnav Chaudhary
+Employee ID         : STX-HR-013
+Department          : HR
+Designation         : Learning and Development Executive
+Reporting Manager   : Vikash Ranjan (STX-HR-008)
+Location            : Bangalore
+Leave Year          : January 2025 to December 2025
+
+
+Leave Balance Summary
+
+Leave Type          Allotted    Used    Pending    Remaining
+Annual Leave        18          7       0          11
+Casual Leave        8           2       0          6
+Sick Leave          10          2       0          8
+Total               36          11      0          25
+
+
+Leave History
+
+Entry 1
+Leave Type          : Annual Leave
+From Date           : 2025-01-13
+To Date             : 2025-01-16
+Duration            : 4 Days
+Reason              : Lohri and Makar Sankranti family visit to Delhi
+Status              : Approved
+Applied On          : 2025-01-03
+Approved By         : Vikash Ranjan, Learning and Development Lead
+Approved On         : 2025-01-04
+
+Entry 2
+Leave Type          : Sick Leave
+From Date           : 2025-03-24
+To Date             : 2025-03-25
+Duration            : 2 Days
+Reason              : Seasonal allergies and rest prescribed
+Status              : Approved
+Applied On          : 2025-03-24
+Approved By         : Vikash Ranjan, Learning and Development Lead
+Approved On         : 2025-03-25
+
+Entry 3
+Leave Type          : Annual Leave
+From Date           : 2025-06-02
+To Date             : 2025-06-04
+Duration            : 3 Days
+Reason              : Extended weekend trip to Ooty
+Status              : Approved
+Applied On          : 2025-05-23
+Approved By         : Vikash Ranjan, Learning and Development Lead
+Approved On         : 2025-05-24
+
+Entry 4
+Leave Type          : Casual Leave
+From Date           : 2025-08-08
+To Date             : 2025-08-09
+Duration            : 2 Days
+Reason              : Personal documentation and government work
+Status              : Approved
+Applied On          : 2025-08-06
+Approved By         : Vikash Ranjan, Learning and Development Lead
+Approved On         : 2025-08-06
+
+
+Current Leave Balance as of October 2025
+
+Annual Leave Remaining    : 11 Days
+Casual Leave Remaining    : 6 Days
+Sick Leave Remaining      : 8 Days
+Total Remaining           : 25 Days
+
+Note: Unused Annual Leave up to a maximum of 10 days will be carried
+forward to 2026 as per Stratos Enterprises Leave Policy LP-2023-Rev2.
+Remaining Casual and Sick Leave will lapse on December 31 2025.
+
+For leave related queries contact hroperations@stratosenterprises.com
+
+END OF DOCUMENT STX-LVH-HR-013-2025
