@@ -22,7 +22,7 @@ def build_bm25_index(force_rebuild: bool = False) -> BM25Okapi:
     Loads processed_chunks.json, tokenizes content, and builds the BM25 index.
     Caches index and chunk payloads in memory.
     """
-    global _bm25_index, _bm25_chunks, _bm25_payloads
+    global _bm25_index, _bm25_payloads
     
     if _bm25_index is not None and not force_rebuild:
         return _bm25_index
@@ -35,19 +35,26 @@ def build_bm25_index(force_rebuild: bool = False) -> BM25Okapi:
 
     logger.info(f"Building BM25 index from {chunks_path}...")
     with open(chunks_path, "r", encoding="utf-8") as f:
-        _bm25_chunks = json.load(f)
+        raw_chunks = json.load(f)
 
     corpus = []
     _bm25_payloads = []
     
-    for chunk in _bm25_chunks:
+    for chunk in raw_chunks:
         payload = build_payload(chunk)
         _bm25_payloads.append(payload)
         tokens = _tokenize(chunk.get("content", ""))
         corpus.append(tokens)
 
+    # Free raw_chunks memory immediately
+    del raw_chunks
+
     _bm25_index = BM25Okapi(corpus)
-    logger.info(f"BM25 index built successfully with {len(_bm25_chunks)} documents.")
+    del corpus
+    import gc
+    gc.collect()
+
+    logger.info(f"BM25 index built successfully with {len(_bm25_payloads)} documents.")
     return _bm25_index
 
 def sparse_search(query: str, limit: int = 20) -> List[Dict]:

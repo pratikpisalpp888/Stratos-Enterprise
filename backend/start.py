@@ -1,6 +1,13 @@
 import os
 import sys
 
+# Crucial memory optimizations for 512MB RAM containers (Render Free Tier)
+os.environ["MALLOC_ARENA_MAX"] = "2"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["TORCH_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+
 print("===================================================", flush=True)
 print("[STARTUP] BOOTING STRATOS SENTINELRAG BACKEND SERVER...", flush=True)
 print(f"[STARTUP] Python: {sys.version}", flush=True)
