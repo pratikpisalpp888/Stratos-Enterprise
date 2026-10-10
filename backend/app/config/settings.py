@@ -49,6 +49,10 @@ class Settings(BaseSettings):
     NEO4J_USER: Optional[str] = None
     NEO4J_PASSWORD: Optional[str] = None
 
+    # Gmail SMTP / MCP Settings
+    GMAIL_SENDER_EMAIL: Optional[str] = None
+    GMAIL_APP_PASSWORD: Optional[str] = None
+
     DATA_DIR_PATH: Path = DATA_DIR
     COMPANY_STRUCTURE_PATH: Path = DATA_DIR / "Company_strucutre" / "company_structure.json"
     EMPLOYEE_ROSTER_DIR: Path = DATA_DIR / "Employee_roaster"

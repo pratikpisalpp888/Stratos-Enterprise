@@ -21,7 +21,7 @@ Classify the user's search query into EXACTLY ONE of these categories:
 1. "personal_record_lookup": Searching for individual employee documents, records, salary, performance ratings, appraisals, or specific personal records (e.g., "my salary", "Manoj's leave balance", "employee appraisal rating", "Deepak appraisal").
 2. "policy_or_general_info": Searching for company-wide policies, guidelines, handbooks, FAQs, or general procedures (e.g., "what is the leave policy", "appraisal guidelines", "code review guidelines").
 3. "aggregate_or_report": Searching for department/company reports, budget overviews, financial audits, or team summaries (e.g., "quarterly budget report", "Q3 financial summary", "vendor NDA template").
-4. "action_request": Requesting an action or tool execution to be performed (e.g., "apply for leave", "approve leave", "update employee record", "generate report", "create report").
+4. "action_request": Requesting an action or tool execution to be performed (e.g., "apply for leave", "approve leave", "update employee record", "generate report", "create report", "send email", "email to", "send mail", "draft email").
 5. "chit_chat": Basic conversational pleasantries or greetings (e.g., "hi", "hello", "how are you", "who are you", "good morning", "thank you").
 
 Output ONLY a raw JSON object with keys "intent" and "confidence" (values: "high", "medium", "low").

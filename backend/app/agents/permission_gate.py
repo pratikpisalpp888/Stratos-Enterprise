@@ -142,6 +142,15 @@ def check_tool_permission(user: UserContext, tool_name: str, **tool_args) -> Dic
             allowed = False
             reason = f"Access Denied: HR record updates require HR-Admin privileges (Your department: {user.department}, Role: {user.role_level})."
 
+    # Rule 6: MANAGER_OR_HR_EMAIL_DISPATCH
+    elif rule_type == "MANAGER_OR_HR_EMAIL_DISPATCH":
+        if user.role_level in ["Manager", "Director", "C-Level"] or user.clearance_level >= 2 or user.is_hr_admin:
+            allowed = True
+            reason = f"Permission granted: Manager/Executive role ({user.role_level} in {user.department}) allows enterprise email dispatch."
+        else:
+            allowed = False
+            reason = f"Access Denied: Enterprise email dispatch requires Manager+ role or HR-Admin privileges (Your role: {user.role_level} in {user.department})."
+
     else:
         allowed = False
         reason = f"Security Error: Unknown permission rule '{rule_type}'."

@@ -102,6 +102,24 @@ def update_employee_record(user: UserContext, target_employee_id: str, field: st
         "updated_by": user.employee_id
     }
 
+def send_enterprise_email(
+    user: UserContext,
+    recipient_query: str,
+    message_instruction: str,
+    subject_hint: Optional[str] = None
+) -> Dict[str, Any]:
+    """
+    Sends an enterprise email via Stratos Gmail MCP Client with autonomous corporate drafting.
+    (rule: MANAGER_OR_HR_EMAIL_DISPATCH).
+    """
+    from app.mcp.client import stratos_mcp_client
+    return stratos_mcp_client.execute_send_email(
+        sender=user,
+        recipient_query=recipient_query,
+        message_instruction=message_instruction,
+        subject_hint=subject_hint
+    )
+
 # Registry mapping tool names to definitions and permission rule keys
 TOOL_REGISTRY = {
     "check_leave_balance": {
@@ -133,5 +151,12 @@ TOOL_REGISTRY = {
         "description": "Update an employee's HR record attributes.",
         "func": update_employee_record,
         "permission_rule": "HR_ADMIN_ONLY"
+    },
+    "send_enterprise_email": {
+        "name": "send_enterprise_email",
+        "description": "Send an official enterprise email to an employee or team member via Gmail MCP Client.",
+        "func": send_enterprise_email,
+        "permission_rule": "MANAGER_OR_HR_EMAIL_DISPATCH"
     }
 }
+

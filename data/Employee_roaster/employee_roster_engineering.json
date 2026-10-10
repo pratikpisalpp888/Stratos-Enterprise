@@ -178,5 +178,29 @@
     "clearance_level": "Public",
     "join_date": "2024-01-08",
     "location": "Bangalore"
+  },
+  {
+    "employee_id": "STX-E-021",
+    "full_name": "Pratik Pisal",
+    "email": "pratikpisalpp88@gmail.com",
+    "department": "Engineering",
+    "role_level": "Manager",
+    "designation": "Engineering Manager",
+    "manager_id": "STX-E-001",
+    "clearance_level": "Confidential",
+    "join_date": "2021-01-15",
+    "location": "Pune"
+  },
+  {
+    "employee_id": "STX-E-022",
+    "full_name": "Bharat Rathod",
+    "email": "pratikpisal13@gmail.com",
+    "department": "Engineering",
+    "role_level": "Employee",
+    "designation": "Senior Software Engineer",
+    "manager_id": "STX-E-021",
+    "clearance_level": "Internal",
+    "join_date": "2022-03-10",
+    "location": "Pune"
   }
 ]

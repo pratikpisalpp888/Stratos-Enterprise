@@ -415,5 +415,98 @@
     },
     "allowed": true,
     "decision_reason": "Permission granted for self-action by STX-F-011."
+  },
+  {
+    "timestamp": "2026-10-10T14:27:53.048539",
+    "user_id": "STX-E-021",
+    "user_name": "Pratik Pisal",
+    "user_role": "Manager",
+    "user_department": "Engineering",
+    "tool_name": "check_leave_balance",
+    "tool_args": {},
+    "allowed": true,
+    "decision_reason": "Permission granted: Checking own records (STX-E-021)."
+  },
+  {
+    "timestamp": "2026-10-10T14:27:55.323813",
+    "user_id": "STX-F-011",
+    "user_name": "Manoj Tiwari",
+    "user_role": "Employee",
+    "user_department": "Finance",
+    "tool_name": "check_leave_balance",
+    "tool_args": {},
+    "allowed": true,
+    "decision_reason": "Permission granted: Checking own records (STX-F-011)."
+  },
+  {
+    "timestamp": "2026-10-10T14:30:28.635767",
+    "user_id": "STX-E-021",
+    "user_name": "Pratik Pisal",
+    "user_role": "Manager",
+    "user_department": "Engineering",
+    "tool_name": "send_enterprise_email",
+    "tool_args": {
+      "recipient_query": "Bharat Rathod",
+      "message_instruction": "Tomorrow we have our sprint retrospective meeting at 10:00 AM, please bring your demo.",
+      "subject_hint": "Sprint Retrospective Meeting Reminder"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: Manager/Executive role (Manager in Engineering) allows enterprise email dispatch."
+  },
+  {
+    "timestamp": "2026-10-10T14:31:37.022323",
+    "user_id": "STX-E-021",
+    "user_name": "Pratik Pisal",
+    "user_role": "Manager",
+    "user_department": "Engineering",
+    "tool_name": "send_enterprise_email",
+    "tool_args": {
+      "recipient_query": "Bharat Rathod",
+      "message_instruction": "Tomorrow we have our sprint retrospective meeting at 10:00 AM, please bring your demo.",
+      "subject_hint": "Sprint Retrospective Meeting"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: Manager/Executive role (Manager in Engineering) allows enterprise email dispatch."
+  },
+  {
+    "timestamp": "2026-10-10T14:31:47.380672",
+    "user_id": "STX-F-011",
+    "user_name": "Manoj Tiwari",
+    "user_role": "Employee",
+    "user_department": "Finance",
+    "tool_name": "check_leave_balance",
+    "tool_args": {},
+    "allowed": true,
+    "decision_reason": "Permission granted: Checking own records (STX-F-011)."
+  },
+  {
+    "timestamp": "2026-10-10T14:32:54.303470",
+    "user_id": "STX-E-021",
+    "user_name": "Pratik Pisal",
+    "user_role": "Manager",
+    "user_department": "Engineering",
+    "tool_name": "send_enterprise_email",
+    "tool_args": {
+      "recipient_query": "Bharat Rathod",
+      "message_instruction": "Tomorrow we have our sprint retrospective meeting at 10:00 AM, please bring your demo.",
+      "subject_hint": "Sprint Retrospective Meeting Tomorrow"
+    },
+    "allowed": true,
+    "decision_reason": "Permission granted: Manager/Executive role (Manager in Engineering) allows enterprise email dispatch."
+  },
+  {
+    "timestamp": "2026-10-10T14:33:09.049311",
+    "user_id": "STX-F-011",
+    "user_name": "Manoj Tiwari",
+    "user_role": "Employee",
+    "user_department": "Finance",
+    "tool_name": "send_enterprise_email",
+    "tool_args": {
+      "recipient_query": "Send an announcement email to the Engineering team.",
+      "message_instruction": "Send an announcement email to the Engineering team.",
+      "subject_hint": null
+    },
+    "allowed": false,
+    "decision_reason": "Access Denied: Enterprise email dispatch requires Manager+ role or HR-Admin privileges (Your role: Employee in Finance)."
   }
 ]

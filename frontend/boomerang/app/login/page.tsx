@@ -16,6 +16,8 @@ interface DemoPersona {
 }
 
 const DEMO_PERSONAS: DemoPersona[] = [
+  { id: 'STX-E-021', name: 'Pratik Pisal', title: 'Engineering Manager', dept: 'Engineering', role: 'Manager', clearance: 'Level 3' },
+  { id: 'STX-E-022', name: 'Bharat Rathod', title: 'Senior Software Engineer', dept: 'Engineering', role: 'Employee', clearance: 'Level 1' },
   { id: 'STX-E-010', name: 'Meera Nair', title: 'Senior Software Engineer', dept: 'Engineering', role: 'Employee', clearance: 'Level 1' },
   { id: 'STX-F-011', name: 'Manoj Tiwari', title: 'Accountant', dept: 'Finance', role: 'Employee', clearance: 'Level 1' },
   { id: 'STX-F-005', name: 'Kunal Mehta', title: 'Accounts Payable Lead', dept: 'Finance', role: 'Team Lead', clearance: 'Level 2' },
