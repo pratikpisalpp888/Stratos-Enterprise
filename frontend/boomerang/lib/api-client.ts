@@ -1,12 +1,12 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
+const rawBaseUrl = (process.env.NEXT_PUBLIC_API_URL || '').trim()
+const API_BASE_URL = rawBaseUrl.replace(/\/+$/, '') || 'http://localhost:8000'
 
 export async function fetchApi<T = any>(
   endpoint: string,
   options: RequestInit = {}
 ): Promise<T> {
-  const url = endpoint.startsWith('http')
-    ? endpoint
-    : `${API_BASE_URL}${endpoint.startsWith('/') ? '' : '/'}${endpoint}`
+  const cleanEndpoint = endpoint.startsWith('/') ? endpoint : `/${endpoint}`
+  const url = endpoint.startsWith('http') ? endpoint : `${API_BASE_URL}${cleanEndpoint}`
 
   const headers: Record<string, string> = {
     'Content-Type': 'application/json',
@@ -48,8 +48,15 @@ export async function fetchApi<T = any>(
 
     return (await response.json()) as T
   } catch (error: any) {
-    if (error.name === 'TypeError' && error.message.includes('fetch')) {
-      throw new Error('Unable to connect to backend server. Please verify the backend API is running.')
+    console.error(`[API Error] Request to "${url}" failed:`, error)
+    if (error.name === 'TypeError' && (error.message.includes('fetch') || error.message.includes('NetworkError'))) {
+      const isLocal = url.includes('localhost:8000')
+      if (isLocal && typeof window !== 'undefined' && !window.location.hostname.includes('localhost')) {
+        throw new Error(
+          'Backend URL is still set to localhost. Please add NEXT_PUBLIC_API_URL in your Vercel Project Settings and Redeploy.'
+        )
+      }
+      throw new Error(`Unable to connect to backend (${url}). If on Render free tier, please wait 30 seconds for cold start or verify the URL.`)
     }
     throw error
   }
